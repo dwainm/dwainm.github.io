@@ -1,0 +1,7 @@
+baseURL = 'dwainm.github.io'
+languageCode = 'en-us'
+title = 'dwain.blog'
+theme = "congo"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
