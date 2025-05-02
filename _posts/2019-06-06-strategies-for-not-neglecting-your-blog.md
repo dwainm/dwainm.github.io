@@ -29,7 +29,7 @@ From this, I gather that the more you blog, the better your blog posts eventuall
 
 For a blogger, having nothing to write about is one of the worst situations to find yourself. Having the desire, but no content leaves one feeling paralyzed. To me, blogging is, starting with a basic idea and expanding on it. The wise Solomon said, "there is nothing new under the Sun". I believe this to be true of ideas as well. **There are no new ideas under the sun**. There are; new ways to frame them, unique ways to express them and your own life experiences to incorporate into them.
 
-Ideas come and go. Our job is to hold onto the good ones. You can [write them down](https://dwain.blog/2017/12/13/keeping-a-journal-can-change-your-life/), make a video, graft it into a song. Just don't leave them solely as thoughts -they will disappear. I've had many ideas that slid into forgetfulness. Now I write them in my journal; I email them to myself, I record voice notes. Whatever it takes, I make an effort to hold on to the good ones.
+Ideas come and go. Our job is to hold onto the good ones. You can [write them down]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %}), make a video, graft it into a song. Just don't leave them solely as thoughts -they will disappear. I've had many ideas that slid into forgetfulness. Now I write them in my journal; I email them to myself, I record voice notes. Whatever it takes, I make an effort to hold on to the good ones.
 
 Read more. Reading exposes one to ideas and new ways to express them.
 
@@ -49,7 +49,7 @@ The more time you make per day, the more you can think and write, the more regul
 
 I currently have about 21 drafts. I don't work on all of them. I pick one; actually, I force myself to choose the one that's closest to finish and try to push it forward. Some days, when my motivation is low, I allow myself to pick anyone I like and working on it until the timer runs out. This daily process has helped me with my consistency, which is the secret sauce of an active blog.
 
-Don't hit publish. I [have touched on this before](https://dwain.blog/2018/02/28/how-to-blog-regularly/ . The ideas sometimes come in one heap. So spread them), but the most effective way for me to overcome fear is not to hit publish, but rather to set the date a week from today and then hit the schedule button.
+Don't hit publish. I [have touched on this before]({% link _posts/2018-02-28-how-to-blog-regularly.md %} . The ideas sometimes come in one heap. So spread them), but the most effective way for me to overcome fear is not to hit publish, but rather to set the date a week from today and then hit the schedule button.
 
 Forget your readers (for now). If you care about who's reading your posts, it puts even more fear on the table. Remember, we are not referring to a newspaper article that needs to go viral. We are talking about you developing your ability to communicate better by having a more active blog.
 

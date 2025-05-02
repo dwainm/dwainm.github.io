@@ -3,7 +3,7 @@ title: "One year at the helm of Vim"
 date: 2019-02-21
 ---
 
-One year ago [I started using an old text editor called Vim.](https://dwain.blog/2017/05/26/so-i-tried-an-editor-called-vim/) I'm happy to say that I'm still sticking with it. I'm now very comfortable with VIM and more empowered translate Ideas into working solutions.
+One year ago [I started using an old text editor called Vim.]({% link _posts/2017-05-26-so-i-tried-an-editor-called-vim.md %}) I'm happy to say that I'm still sticking with it. I'm now very comfortable with VIM and more empowered translate Ideas into working solutions.
 
 In this year I've become accustomed to working the terminal, embracing the VIM way while realizing that that coding is just one part of the challenge.
 

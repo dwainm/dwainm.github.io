@@ -3,7 +3,7 @@ title: "How to blog regularly"
 date: 2018-02-28
 ---
 
-Blogging is a learning process. You learn to organize thoughts. You learn to overcome the fear of publishing those thoughts. This helps you to become better at communication, [just like Journalling.](https://dwain.blog/2017/12/13/keeping-a-journal-can-change-your-life/)
+Blogging is a learning process. You learn to organize thoughts. You learn to overcome the fear of publishing those thoughts. This helps you to become better at communication, [just like Journalling.]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %})
 
 I used to do a terrible job of regularly updating this site until I discovered scheduling. Scheduling is an amazing strategy, it is also my secret weapon against the fear of publishing.
 

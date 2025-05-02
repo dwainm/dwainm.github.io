@@ -15,7 +15,7 @@ The type of work also changed. I was no longer writing code, but rather, spendin
 
 Automattic truly supports team leads. We all get access to one on one coaching with a professional external coach. The company runs remote training cohorts specifically for team leads and on top of this you have access to any learning resource that could help you become a better leader and manager.
 
-Besides work there were also so many changes in my life. The Covid-19 pandemic, loss of loved ones and [2 new arrivals in our family, Ariah and Avah](https://dwain.blog/2022/04/05/since-34/). On top of it all I also undertook completing my academic qualification. I'm not complaining here, but just wanted to highlight how there really wasn't any time for extra hours of reading and learning about the new path.
+Besides work there were also so many changes in my life. The Covid-19 pandemic, loss of loved ones and [2 new arrivals in our family, Ariah and Avah]({% link _posts/2022-04-05-since-34.md %}). On top of it all I also undertook completing my academic qualification. I'm not complaining here, but just wanted to highlight how there really wasn't any time for extra hours of reading and learning about the new path.
 
 While figuring everything ways to handle the new path, I began to discover how valuable an impactful team lead can be. I began to see small things that came about as a result of my championing. I realised how my impact on other team leads can move the organisation forward.
 

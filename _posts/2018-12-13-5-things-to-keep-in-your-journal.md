@@ -5,7 +5,7 @@ date: 2018-12-13
 
 Today, while reading my Journal, I had a weird feeling. The feeling that my Journal was actually becoming valuable to me. Like I'd be willing to put up a reward if I've lost it.
 
-Keeping a Journal has been so beneficial, I believe it is slowly [changing my life,](https://dwain.blog/2017/12/13/keeping-a-journal-can-change-your-life/) for the better. I've written about this [already](https://dwain.blog/2017/12/13/keeping-a-journal-can-change-your-life/), but to add to it, I wanted to share with you the 5 categories I jot down in my journal as they come up. Anything else besides these, I generally try to keep out of my Journal. The reason for ignoring everything else is this, these 5 things give me the [positive reinforcement I need](https://dwain.blog/2018/01/14/10-things-i-learned-from-reading-my-2017-journal/) when I read my Journal entries.
+Keeping a Journal has been so beneficial, I believe it is slowly [changing my life,]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %}) for the better. I've written about this [already]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %}), but to add to it, I wanted to share with you the 5 categories I jot down in my journal as they come up. Anything else besides these, I generally try to keep out of my Journal. The reason for ignoring everything else is this, these 5 things give me the [positive reinforcement I need]({% link _posts/2018-01-14-10-things-i-learned-from-reading-my-2017-journal.md %}) when I read my Journal entries.
 
 ## 1\. Ideas
 

@@ -3,7 +3,7 @@ title: "Colemak Keyboard Layout, 1 Month(ish) In"
 date: 2018-01-31
 ---
 
-Typing is one of the most important aspects of my professional career.  That's why, a month ago, I decided to [change my keyboard layout to Colemak](https://dwain.blog/2017/12/19/colemak-fingers/).
+Typing is one of the most important aspects of my professional career.  That's why, a month ago, I decided to [change my keyboard layout to Colemak]({% link _posts/2017-12-19-colemak-fingers.md %}).
 
 The first hurdle I faced was switching in December, what a weird time to switch right?  I was supposed to be scaling down and focus on relaxation, but I thought the switch to be such a huge challenge, that It wouldn't matter when I did it.
 

@@ -5,7 +5,7 @@ date: 2019-02-28
 
 I wrote a [quick review on the book](https://dwain.blog/2018/03/07/tribe-of-mentors-quick-review), A tribe of mentors, but wanted to go into more detail and give you some of the quotes that that really hit home for me. I chose 5 of them to share with you.
 
-I truly found a lot of value in this book. If you are interested, go ahead and read my [quick review here](https://dwain.blog/2018/03/07/tribe-of-mentors-quick-review/) and then get a copy for yourself.
+I truly found a lot of value in this book. If you are interested, go ahead and read my [quick review here]({% link _posts/2018-03-07-tribe-of-mentors-quick-review.md %}) and then get a copy for yourself.
 
 <!--more-->
 

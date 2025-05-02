@@ -1,11 +1,19 @@
 ---
 title: "Outstanding Advice from a tribe of mentors"
 date: 2019-07-11
+categories: 
+  - "business"
+  - "personal-development"
+tags: 
+  - "book"
+  - "review"
+  - "tribe-of-mentors"
+coverImage: "1d365-tim-ferris-tribe-of-mentors-852x568-1.jpg"
 ---
 
-This will be my final post [covering tribe of mentors](https://dwain.blog/2018/03/07/tribe-of-mentors-quick-review). If you are a little bit lost and not sure which direction to take you will find a lot of great advice and pointers from this book. It is a great reference book and I'd recommend it to all.
+This will be my final post [covering tribe of mentors]({% link _posts/2018-03-07-tribe-of-mentors-quick-review.md%}). If you are a little bit lost and not sure which direction to take you will find a lot of great advice and pointers from this book. It is a great reference book and I'd recommend it to all.
 
-In a previous post, I wrote a [quick review on the book Tribe of](https://dwain.blog/2018/03/07/tribe-of-mentors-quick-review) [Mentors](https://dwain.blog/2018/03/07/tribe-of-mentors-quick-review) but I also wanted to give you some of the advice that stood out to me.
+In a previous post, I wrote a [quick review on the book Tribe of Mentors]({% link _posts/2018-03-07-tribe-of-mentors-quick-review.md%}) but I also wanted to give you some of the advice that stood out to me.
 
 ### 1- Personal Development and Routine
 

@@ -5,7 +5,7 @@ date: 2022-04-11
 
 Thinking ahead about easter/passover weekend, I'm reflecting on the reasons for observing it. I consider this to be the perfect weekend to consider who Jesus is, why He was born and died in such a [gruesome manner](https://www.coraevans.com/blog/article/the-most-gruesome-details-of-the-crucifixion-of-jesus).
 
-Back in 2016, I wrote about [believing in a Creator](https://dwain.blog/2016/09/26/i-believe-there-is-a-creator/), which came after a period of searching for answers to make sure that I'm not just blindly believing what I was taught growing up. Since then I also rediscovered a personal Jesus, and how He was God's plan all along.
+Back in 2016, I wrote about [believing in a Creator]({% link _posts/2016-09-26-i-believe-there-is-a-creator.md %}), which came after a period of searching for answers to make sure that I'm not just blindly believing what I was taught growing up. Since then I also rediscovered a personal Jesus, and how He was God's plan all along.
 
 There isn't much written about Jesus' early days, but some of His first words in public were: "Repent: for the kingdom of heaven is at hand". - [Matt. 4 v 17](https://en.wikipedia.org/wiki/Matthew_4:17#:~:text=In%20the%20King%20James%20Version,of%20heaven%20is%20at%20hand.). Repent, meaning to turn away, also implies that we turn toward something else. In my mind this is narrowed down to one thing: turning toward God. In every area of your life.
 

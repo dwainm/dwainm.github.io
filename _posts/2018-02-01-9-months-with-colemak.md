@@ -3,7 +3,7 @@ title: "9 months with Colemak"
 date: 2018-02-01
 ---
 
-[9 months Ago](https://dwain.blog/2017/12/19/colemak-fingers/)  I decided to switch to the Colemak keyboard layout, read more about that here: [https://dwain.blog/2017/12/19/colemak-fingers/.](https://dwain.blog/2017/12/19/colemak-fingers/)
+[9 months Ago]({% link _posts/2017-12-19-colemak-fingers.md %})  I decided to switch to the Colemak keyboard layout, read more about that here: [{% link _posts/2017-12-19-colemak-fingers.md %}.]({% link _posts/2017-12-19-colemak-fingers.md %})
 
 When I started my speed was a terrible and I wasn't any good at QWERTY .
 

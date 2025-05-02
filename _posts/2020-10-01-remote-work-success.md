@@ -11,7 +11,7 @@ Over the next few weeks I’ll be posting on the pillars of remote work success.
 
 This is the list of topics I’ll blog about in the coming weeks. I’ll update the titles with links to the posts as I publish them.
 
-**1 - [Success with your support network](https://dwain.blog/2020/12/05/success-with-your-support-network/)**
+**1 - [Success with your support network]({% link _posts/2020-12-05-success-with-your-support-network.md %})**
 
 **Update**: After thinking through these topic, I realised that I don't have much more to say beyond the titles. So here they are. Consider them and make sure you do some of these things.
 

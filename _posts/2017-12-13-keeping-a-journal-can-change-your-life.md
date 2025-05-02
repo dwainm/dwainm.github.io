@@ -5,7 +5,7 @@ date: 2017-12-13
 
 I started some time ago, but it is now more focused and intentional.
 
-I've always used a notebook but have recently started using the [Dayone App](https://dayoneapp.com). It allows for multiple journals in one app. So I have a journal for health, wealth my [walk in Christ](https://dwain.blog/2016/09/26/i-believe-there-is-a-creator/) and even one for my son Judah.
+I've always used a notebook but have recently started using the [Dayone App](https://dayoneapp.com). It allows for multiple journals in one app. So I have a journal for health, wealth my [walk in Christ]({% link _posts/2016-09-26-i-believe-there-is-a-creator.md %}) and even one for my son Judah.
 
 I keep track of all my goals and my progress towards them. I write down lessons learnt and mistake I wish to avoid in future. I write some very private stuff, and also keep note of my bad habits.
 

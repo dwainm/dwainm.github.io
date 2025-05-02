@@ -3,7 +3,7 @@ title: "On the fence about Neovim"
 date: 2022-07-30
 ---
 
-I've been using vim for the last 5 years. [I've written about trying this out 5 years ago](https://dwain.blog/2017/05/26/so-i-tried-an-editor-called-vim/) and stuck to it. It's a fantastic experience and I truly enjoy working with this editor. I've been rethinking it this week though, as I was updating my configuration to get auto-completion to work.
+I've been using vim for the last 5 years. [I've written about trying this out 5 years ago]({% link _posts/2017-05-26-so-i-tried-an-editor-called-vim.md %}) and stuck to it. It's a fantastic experience and I truly enjoy working with this editor. I've been rethinking it this week though, as I was updating my configuration to get auto-completion to work.
 
 I needed to get my editor ready as I haven't needed to do any serious coding in the last two years. We're trying out a new requirement at work: all engineering leaders should contribute a medium-sized piece of code in a 3 month period. I'll try an write more about this, but in simple terms, I have to make sure that I'm spending a little more time coding.
 

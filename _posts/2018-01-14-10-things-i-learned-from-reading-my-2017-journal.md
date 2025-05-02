@@ -3,7 +3,7 @@ title: "10 things I learned from reading my 2017 journal."
 date: 2018-01-14
 ---
 
-Since [I decided to start Journaling](https://dwain.blog/2017/12/13/keeping-a-journal-can-change-your-life/), I also decided that I'll read my own Journals to keep tabs on myself. As the saying goes: "Pen and paper do not forget".
+Since [I decided to start Journaling]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %}), I also decided that I'll read my own Journals to keep tabs on myself. As the saying goes: "Pen and paper do not forget".
 
 I feel like I've been sleeping all the years before 2017. Feels like I haven't done much with my life. Journaling is one way to be awakened as to never forget what I did and how I progressed.
 
