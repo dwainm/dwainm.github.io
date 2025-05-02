@@ -1,0 +1,8 @@
+---
+title: "Me and the pet Lion"
+date: 2012-04-16
+---
+
+[](http://instagr.am/p/JeNG3_L8Tk/)
+
+[](http://instagr.am/p/JeNG3_L8Tk/)[![Media_httpdistilleryi_axisr](images/media_httpdistilleryi_axisr.jpg)](http://getfile8.posterous.com/getfile/files.posterous.com/dwainm/BEbuqyiqbmyvonhGieIitHIbAHyDtlwrfaslDwijeapIlfskBJJpbhqjbfEj/media_httpdistilleryi_axisr.jpg.scaled1000.jpg)
