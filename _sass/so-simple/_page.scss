@@ -224,6 +224,9 @@
       display: block;
     }
   }
+  .site-description{
+    display: none;
+  }
 
   .page-header {
     @include breakpoint($large) {
