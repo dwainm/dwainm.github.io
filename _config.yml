@@ -22,7 +22,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
+read_time: true
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
@@ -51,10 +51,10 @@ feed:
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 # paginate: 10
-# paginate_path: /page:num/
+# paginate_path: /blog/page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
