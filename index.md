@@ -9,7 +9,7 @@ I'm so happy to have you here. This is where you'll get to sample a taste of who
 
 I work as a problem solver in the software industry with 15 years remote work experience.
 
-![maralack_family](/images/img_6868.png)
+{% include picture.html img="about-family" style="border-radius:2em" alt="Dwain's family. Parents and 4 Kids" %}
 
 * * *
 

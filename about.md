@@ -13,7 +13,7 @@ I am an Engineering Manager at [Automattic](https://automattic.com/) and have w
 
 This blog is my creative outlet. I'll share as I learn and share my perspective on common topics. Have a look around and enjoy!
 
-![maralack_family](/images/img_6868.png)
+{% include picture.html img="about-family.png" alt="Dwain's family. Parents and 4 Kids" %}
 
 * * *
 
