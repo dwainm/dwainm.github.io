@@ -7,7 +7,7 @@ It's been five months since I last thought about work. My laptop is in its origi
 
 Long parental leave [is normal in some countries](https://www.safeguardglobal.com/resources/blog/paternity-leave-by-country), but for a South African father, 10 Days is the maximum. The Lord has blessed me tremendously through [Automattic](https://automattic.com/about/). Their [benefits are truly world class](https://automattic.com/benefits/), specifically the generous paid time off. This is my fourth paternity leave period during the last 5 years. Through sheer privilege, I was able to be on paternity leave for 16 months all together.
 
-Before tell you about the experience, I wanted to note the following. I'm not on standby. I don't have to do any checkins. There are no work emergencies to take care of. I've handed over all my responsibilities to my team. Even after [becoming a team lead](https://dwain.blog/?p=2842), a great team mate (thank you David) stepped up to handle my responsibilities. That's the way Automattic expects you to do it: when on leave, focus on your personal life, not your job. For the sake of communication, no news is good news.
+Before tell you about the experience, I wanted to note the following. I'm not on standby. I don't have to do any checkins. There are no work emergencies to take care of. I've handed over all my responsibilities to my team. Even after [becoming a team lead]({% link _posts/2022-05-02-the-team-lead-path.md %}), a great team mate (thank you David) stepped up to handle my responsibilities. That's the way Automattic expects you to do it: when on leave, focus on your personal life, not your job. For the sake of communication, no news is good news.
 
 ## So, **how does it feel?**
 
