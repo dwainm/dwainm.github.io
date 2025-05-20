@@ -1,7 +1,7 @@
 {% if site.data.navigation %}
   <div class="navigation-wrapper">
 	  <a href="#menu-toggle" id="menu-toggle" title="{{site.data.text[site.locale].menu_label | default: 'Menu' }}">&#9776;</a>
-    <nav id="primary-nav" class="site-nav animated drop">
+    <nav id="primary-nav" class="site-nav">
       <ul>
         {%- for link in site.data.navigation -%}
           {%- if link.url contains '://' -%}
@@ -13,5 +13,6 @@
         {%- endfor -%}
       </ul>
     </nav>
+	
   </div><!-- /.navigation-wrapper -->
 {% endif %}

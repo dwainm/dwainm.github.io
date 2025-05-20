@@ -69,12 +69,10 @@ blockquote {
 .site-nav {
   ul {
     color: $nav-color;
-    background-color: $nav-background-color;
   }
 
   a {
     color: $nav-color;
-    border-color: $nav-background-color;
 
     &:hover {
       border-color: $nav-color;

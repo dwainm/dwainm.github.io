@@ -42,17 +42,33 @@
 
   li {
     display: inline-block;
-    font-size: 0.75rem;
+    font-size: 1rem;
   }
 
   a {
     display: block;
     padding: 0.5em 0.75em;
-    text-transform: uppercase;
     text-decoration: none;
-    border: 1px solid;
     border-radius: $border-radius;
+    position: relative;
   }
+  a:after{
+  content: '';
+  position: absolute;
+  width: 0; height: 3px;
+  display: block;
+  margin-top: 5px;
+  right: 0;
+  background: #F0F051;
+  transition: width .2s ease;
+  -webkit-transition: width .2s ease;
+}
+ 
+a:hover:after{
+  width: 100%;
+  left: 0;
+  background: #F0F051;
+}
 
   @include breakpoint($medium) {
     display: block;
@@ -65,6 +81,18 @@
   }
 }
 
+#toggle-theme{
+  margin-top: 1em;
+}
+
+.masthead .wrap{
+  display:flex;
+ justify-content: space-between;
+   margin: 0 auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 1024px;
+}
 .masthead {
   @include clearfix;
   margin-bottom: 3em;

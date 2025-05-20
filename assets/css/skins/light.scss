@@ -3,6 +3,7 @@
 
 @charset "utf-8";
 
+[data-theme="light"] {
 @import "so-simple/functions";
 @import "so-simple/variables";
 @import "so-simple/notices";
@@ -10,8 +11,8 @@
 /* Colors */
 $base-color: #404040 !default;
 $text-color: #404040 !default;
-$accent-color: #0a71e2 !default;
-$nav-color: #fff !default;
+$accent-color: #61C280 !default;
+$nav-color: #160638 !default;
 $background-color: #fff !default;
 $nav-background-color: #626262 !default;
 $code-background-color: tint($base-color, 95%) !default;
@@ -42,3 +43,4 @@ $base0e: #6c71c4 !default;
 $base0f: #d33682 !default;
 
 @import "so-simple/skin";
+}
