@@ -87,7 +87,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      # share: true
 
 # Site Author
 author:
