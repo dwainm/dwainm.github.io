@@ -7,4 +7,4 @@ Often times, one forgets that the tools you and other people use actually have p
 
 It is quite interesting to see how the developers work to produce such an amazing tool used by many renowned DJ's and producers.
 
-https://www.youtube.com/watch?v=tILlZRLhBJE
+{% include yt url="https://www.youtube.com/embed/tILlZRLhBJE" %}

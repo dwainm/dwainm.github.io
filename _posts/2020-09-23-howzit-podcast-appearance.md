@@ -11,4 +11,4 @@ It was a privilege for me to feature in episode 003 of a fantastic podcast calle
 - **Apple Podcas**t - https://podcasts.apple.com/za/podcast/howzit-podcast/id1530986815
 - **Spotify** - https://open.spotify.com/episode/4MftvxKYiX3Rc3rQIuMMz0?si=YBX0UYMRQse1vUd6-cfmRw
 
-https://www.youtube.com/watch?v=sX1I7ZPMlSc
+{% include yt url="https://www.youtube.com/embed/sX1I7ZPMlSc" %}

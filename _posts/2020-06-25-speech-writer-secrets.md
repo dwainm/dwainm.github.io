@@ -17,7 +17,6 @@ I enjoyed this humorous talk on public speaking. Some of the advice feels gimmic
 
 **Go ahead and watch it for yourself:**
 
-https://youtu.be/bGBamfWasNQ
-
 Link to video if the embed above fails:  
-[https://www.youtube.com/watch?v=bGBamfWasNQ&feature=share](https://www.youtube.com/watch?v=bGBamfWasNQ&feature=share)
+
+{% include yt url="https://www.youtube.com/embed/bGBamfWasNQ" %}

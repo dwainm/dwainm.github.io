@@ -31,6 +31,6 @@ Finally, after all I my attempts to push through work, it's important to rest, t
 
 The first video that helped me think about working in this way was an invterview about [ditching your todo list](https://www.youtube.com/results?search_query=ditching+your+todo+list):
 
-https://www.youtube.com/watch?v=UneF4tCVHFk
+{% include yt url="https://www.youtube.com/embed/UneF4tCVHFk" %}
 
 _Calender Tetris featured image thanks to [Ahmed Sulaiman](https://dribbble.com/shots/15676244-Playing-Calendar-Tetris-Game/attachments/7472200?mode=media)._

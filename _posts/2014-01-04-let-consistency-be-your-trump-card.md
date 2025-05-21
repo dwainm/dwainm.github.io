@@ -3,7 +3,7 @@ title: "Let consistency be your trump card"
 date: 2014-01-04
 ---
 
-http://www.youtube.com/watch?v=omuYi2Vhgjo
+{% include yt url="http://www.youtube.com/embed/omuYi2Vhgjo" %}
 
 When I see a kid so brilliant I often wonder if it is worth trying to compete.  I mean if I were to be a classically trained pianist at age 30, seeing  a kid at age 4 I would question my abilities in comparison to his.
 
@@ -17,4 +17,5 @@ I am a firm believer that great men are not born, but that they are made. I am w
 
 In some instances with a sheer stroke of luck the genius in the room takes home the bacon, but it has been proven over time that slow and steady wins the race.
 
-http://www.youtube.com/watch?v=pERXSU330vM
+
+{% include yt url="http://www.youtube.com/embed/pERXSU330vM" %}

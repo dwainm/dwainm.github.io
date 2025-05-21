@@ -21,10 +21,8 @@ I am never going back. After 3 months of doing this and seeing so many positive 
 
 This is easier said than done and I must admit that, if not for Lauren I would not be on this path today. If you find yourself in a similar place and are struggling in this area, I advise that you watch these 2 documentaries:
 
-https://www.youtube.com/watch?v=O7ijukNzlUg
+{% include yt url="https://www.youtube.com/embed/O7ijukNzlUg" %}
 
-https://www.youtube.com/watch?v=Jf44vLndiRM
+{% include yt url="https://www.youtube.com/embed/Jf44vLndiRM" %}
 
 [#link1](https://www.youtube.com/watch?v=O7ijukNzlUg) [#link2](https://www.youtube.com/watch?v=Jf44vLndiRM)
-
-**Lastest Posts:**

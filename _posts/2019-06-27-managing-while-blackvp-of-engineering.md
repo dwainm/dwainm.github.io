@@ -7,4 +7,4 @@ date: 2019-06-27
 
 Things have changed but they have also mostly stayed the same. Interesting talk on diversity from the VP of engineering at Fastly.
 
-https://www.youtube.com/watch?v=VE6ugiblJNw&feature=youtu.be
+{% include yt url="https://www.youtube.com/embed/VE6ugiblJNw" %}

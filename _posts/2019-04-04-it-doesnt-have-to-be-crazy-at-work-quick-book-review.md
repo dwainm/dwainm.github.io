@@ -3,7 +3,8 @@ title: "It doesn't have to be crazy at work - quick book  review"
 date: 2019-04-04
 ---
 
-https://www.youtube.com/watch?v=dX7Ve8QyUzE
+{% include yt url="https://www.youtube.com/embed/dX7Ve8QyUzE" %}
+
 
 I usually stick to one book and finish it before moving on, but this book grabbed my attention instantly. Firstly because I love the way the authors [run their company](https://m.signalvnoise.com/why-we-choose-profit/). They are so unconventional and so intentional at the same time. So I dropped my current book (The Undoing Project) and jumped into this book.
 
@@ -24,7 +25,7 @@ Every piece of advice was based on experience and a proven track record. The way
 
 There was one thing that I didn't like about this book. They use curse words all the time. I understand the point they try to make but you can use other words with very similar impact, besides this each chapter bring the point across very well.
 
-https://www.youtube.com/watch?v=N5D-BBN56XA
+{% include yt url="https://www.youtube.com/embed/N5D-BBN56XA" %}
 
 If you want to run a company or team without all the fluff industries add then you should read this book. If you one day want to start an effective company, you should read this book. If you need more calm in your work-life, go ahead, [read this book.](https://www.amazon.com/gp/product/0062874780/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062874780&linkCode=as2&tag=dwainm-20&linkId=491bddedd6178e7e4130ba7cecd84eaa)
 

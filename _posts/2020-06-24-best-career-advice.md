@@ -15,6 +15,6 @@ Carla Harris, Vice Chairman of Morgan Stanley Wealth Management, explains exactl
 
 ### Watch the video below
 
-https://www.youtube.com/watch?v=yflSZODY6YU
+{% include yt url="https://www.youtube.com/embed/yflSZODY6YU" %}
 
 In case the video fails to show, heres the link : [https://www.youtube.com/watch?v=yflSZODY6YU](https://www.youtube.com/watch?v=yflSZODY6YU)
