@@ -18,7 +18,6 @@ I spent the last decade at Automattic and have helped grow and scale up WooComme
 
 {% include picture.html img="about-family" style="border-radius:2em" alt="Dwain's family. Parents and 4 Kids" %}
 
-
-
-## Recent Posts
+<br />
+## Most Recent Posts:
 
