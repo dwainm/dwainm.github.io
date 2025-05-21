@@ -19,4 +19,4 @@ You always hear these words, don’t be to hard on yourself, but honestly you sh
 
 Finish strong, with your hands held high!
 
-[![stop_working_and_rest_marathon](images/stop_working_and_rest_marathon.gif)](http://dwain.blog/wp-content/uploads/2014/11/stop_working_and_rest_marathon.gif)
+[![stop_working_and_rest_marathon](/images/stop_working_and_rest_marathon.gif)](http://dwain.blog/wp-content/uploads/2014/11/stop_working_and_rest_marathon.gif)

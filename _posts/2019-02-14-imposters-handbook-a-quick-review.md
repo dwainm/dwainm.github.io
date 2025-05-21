@@ -15,6 +15,6 @@ This book is a great starter for people, like me, who did not do a Computer Scie
 
 You will find topics you may never ever need, but it's simply nice to be familiar with what these are and that you can smile and nod without blatantly faking it.
 
-A year later I notice that version 2, with Scott Hanselman, is out and it looks promising:![imposters_handbook_season2](images/7e77e-imposters_handbook_season2.jpg)[Link to Imposters Handbook Season 2](https://rob.conery.io/2019/01/03/imposters-handbook-season-2-is-released/)
+A year later I notice that version 2, with Scott Hanselman, is out and it looks promising:![imposters_handbook_season2](/images/7e77e-imposters_handbook_season2.jpg)[Link to Imposters Handbook Season 2](https://rob.conery.io/2019/01/03/imposters-handbook-season-2-is-released/)
 
 I would encourage anyone working in technology or with an interest in programming to read this. It has certainly given me a great deal of comfort knowing that I can now understand some CS concepts that evaded me in the past.

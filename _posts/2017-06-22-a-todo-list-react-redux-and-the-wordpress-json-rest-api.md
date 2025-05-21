@@ -9,7 +9,7 @@ I always wanted to create a very simple WordPress based Todo App. After putting 
 
 The idea was a simple todo list that takes over your WP home page and relies on a standard to do post type for persistence. The interface should be driven by React using redux for state management.  The result should be WordPress plugin that simply works without any configuration. The app works over the WordPress JSON REST API and must have a very simple UI framework.
 
-![Screen Shot 2017-06-19 at 11.42.07 PM](images/screen-shot-2017-06-19-at-11-42-07-pm.png)
+![Screen Shot 2017-06-19 at 11.42.07 PM](/images/screen-shot-2017-06-19-at-11-42-07-pm.png)
 
 ### The Parts
 

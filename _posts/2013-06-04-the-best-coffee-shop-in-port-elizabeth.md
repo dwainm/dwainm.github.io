@@ -3,7 +3,7 @@ title: "The best coffee shop in Port Elizabeth"
 date: 2013-06-04
 ---
 
-[![2013-06-04 13.51.03](images/2013-06-04-13-51-03.jpg)](http://dwain.blog/wp-content/uploads/2013/06/2013-06-04-13-51-03.jpg)
+[![2013-06-04 13.51.03](/images/2013-06-04-13-51-03.jpg)](http://dwain.blog/wp-content/uploads/2013/06/2013-06-04-13-51-03.jpg)
 
 - Friendly staff
 - Cozy environment
