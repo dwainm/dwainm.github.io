@@ -15,4 +15,4 @@ The one pain I currently have is language server support. Vim can do this, but i
 
 I'll try out my current setup for the next few months and see if I miss anything. If I do, I'll try out Neovim.
 
-https://videopress.com/v/tV30Tl4T?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+{% include yt url="https://www.youtube.com/embed/lsutxO2Q-Ko" ratio="16:9" %}
