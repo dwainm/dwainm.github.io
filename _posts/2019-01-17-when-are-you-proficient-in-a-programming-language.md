@@ -3,7 +3,7 @@ title: "When are you proficient in a programming language?"
 date: 2019-01-17
 ---
 
-[Learning a programming language](https://dwain.blog/tag/languages/) gives you the opportunity to explore other problem domains alongside new approaches to addressing familiar problems.
+Learning a programming language gives you the opportunity to explore other problem domains alongside new approaches to addressing familiar problems.
 
 I write this as I was looking for the answer to exactly this question. There were many opinions that had me confused, some from ancient rockstar ninjas who command CPUS at will and others from earnest people who are also seeking.
 

@@ -1,5 +1,4 @@
 
-1. Fix all links that goes dwain.blog and make it relative with docs use vim -p with ack
 1. move vidoes off wp.com and onto Youtube.
 1. fix youtube embeds
 1. Fix the site menu to be simpler.
