@@ -90,7 +90,7 @@
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
 
     @include breakpoint($medium) {
-      display: inline-block;
+      display: block;
     }
   }
 
