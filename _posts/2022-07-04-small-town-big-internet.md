@@ -35,17 +35,9 @@ The installation process started when Vodacom sales people knocked on the door. 
 
 The other ISP who were in the process of getting municipal approval for rolling out fibre were on the back foot as it seems. Open Serve already had a clause in their contract that allowed them to upgrade their existing infrastructure. So the fibre rollout was actually a replacement of the old coper lines.
 
-<figure>
-
 ![](/images/f3c5d4d4-6daa-4e7d-b152-c772a40cd1ba_1_105_c.jpeg)
 
-<figcaption>
-
-I took my kids on a fibre drive for the firs few weeks. It was so interesting to see how the rollout was progressing.
-
-</figcaption>
-
-</figure>
+I took my kids on a fibre drive for the first few weeks. It was so interesting to see how the rollout was progressing.
 
 Having no Idea how the process worked, I thought every OpenServe truck was brining internet, but as I would learn, it's not that easy. The first signs of actual fibre process was in the picture above; the open serve civil contractors.
 
@@ -55,57 +47,21 @@ The fibre rollout had a few distinct phases, done by completely different teams.
 2. **Blowing fibre**, which means using compressed air to push fibre cables through the conduit. At the root of the network, the cables started out with many fibre pairs and would decrease as it got to area and street level. The cable that came to our house had 8 cores, that would be split up between the few houses in our street. This phase is also where the fibre is spliced (fused together) from the box outside our house right up to the OpenServe network racks. This team is also responsible for testing all the points.
 3. **Connecting the home**. This last step involved a private contractor doing an assessment and pulling in a single fibre from the street to our home. This team works with the home owner to find the best route and the installation location inside the house. The final part of this step is to splice the fibres in the road side box and then also inside the house. After which the connection is initiated. I've got the home installation pictures below.
 
-<figure>
-
-<figure>
 
 ![](/images/d0c95ab7-d963-4f12-bd3c-fc6877b70e57_1_102_o.jpeg)
-
-<figcaption>
-
-Manhole in front fo the house.
-
-</figcaption>
-
-</figure>
-
-<figure>
+_Manhole in front fo the house._
 
 ![](/images/2db071f3-a52c-4880-81bc-68176b2654e8_1_102_o.jpeg)
-
-<figcaption>
-
-Trench behind the house to lay pipe for thin fibre line.
-
-</figcaption>
-
-</figure>
-
-<figure>
+_Trench behind the house to lay pipe for thin fibre line._
 
 ![](/images/23e0cdbb-6803-4ad9-bd3b-93812b70f2fe_1_102_o.jpeg)
-
-<figcaption>
-
-Fibre pulling process started.
-
-</figcaption>
-
-</figure>
+_Fibre pulling process started._
 
 ![](/images/1276f3db-275c-41c7-88d9-fcf4f9d06db3_1_102_o.jpeg)
 
-<figure>
-
 ![](/images/0a3b2365-8d34-4348-a0ff-ef5461a09972_1_102_o.jpeg)
+_running conduit up the side of the house._
 
-<figcaption>
-
-running conduit up the side of the house.
-
-</figcaption>
-
-</figure>
 
 ![](/images/6b8e9316-9f79-4aec-99fd-1f09b1f6837b_1_102_o.jpeg)
 
@@ -113,45 +69,20 @@ running conduit up the side of the house.
 
 ![](/images/1cd51d6d-4a63-4ee7-a6de-785319e2d9c6_1_102_o.jpeg)
 
-<figure>
-
 ![](/images/5e8fcc6a-340b-4541-859e-0d0ad61001dd_1_102_o.jpeg)
-
-<figcaption>
-
-Identifying the fibre meant for our house
-
-</figcaption>
-
-</figure>
-
-<figure>
+_Identifying the fibre meant for our house_
 
 ![](/images/4ed917f3-4979-405c-9005-5fc0f95412f9_1_102_o.jpeg)
+_Splicing outside the house._
 
-<figcaption>
 
-Splicing outside the house.
-
-</figcaption>
-
-</figure>
 
 ![](/images/05e95e76-ed77-426d-8f9f-182397950665_1_102_o.jpeg)
 
-<figure>
 
 ![](/images/8d4a0281-dffa-4573-99de-6d76bb9ff8c1_1_102_o.jpeg)
+_Splicing inside the house._
 
-<figcaption>
-
-Splicing inside the house.
-
-</figcaption>
-
-</figure>
-
-</figure>
 
 ## Choosing the wrong provider
 

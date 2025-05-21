@@ -13,20 +13,10 @@ The solution was to do a system call passing a string with HTML entities, gettin
 let oldtitle ='👋 hello &lt; world 🌐 <   &#60 It’s a great day.'
 let newtitle = system( 'echo ' . shellescape(oldtitle) . ' | textutil -convert txt -format html -stdin -stdout')
 echo newtitle
-
 ```
 
-<figure>
-
 ![](/images/screenshot-2022-08-04-at-09.25.26.png)
-
-<figcaption>
-
-Example output.
-
-</figcaption>
-
-</figure>
+_Example output._
 
 The special part I want to point your attention to is `' | textutil -convert txt -format html -stdin -stdout'`. This pipes the title into the `textutil` command which does all the conversions for us.
 
