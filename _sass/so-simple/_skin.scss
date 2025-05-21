@@ -21,6 +21,19 @@ blockquote {
   border-left-color: $accent-color;
 }
 
+
+/* ==========================================================================
+   Blog Roll
+   ========================================================================== */
+.layout--blogroll{
+  .entry-date-day{
+    color: $bright-color;
+  }
+  .entry-read-time{
+    color: lighten($text-color, 60%);
+  }
+}
+
 /* ==========================================================================
    Site-wide
    ========================================================================== */
@@ -39,7 +52,13 @@ blockquote {
 }
 
 .taxonomy-title {
-  color: lighten($text-color, 60%);
+
+  .year{
+    color: lighten($text-color, 10%);
+  }
+  .month{
+    color: lighten($text-color, 30%);
+  }
 }
 
 .taxonomy-count {
@@ -167,7 +186,22 @@ blockquote {
       color: $accent-color;
     }
   }
+
 }
+
+.layout--post{
+  .author-info {
+    a {
+      color: lighten($accent-color, 10%);
+      text-decoration: none;
+    }
+    .read-time{
+      color: lighten($text-color, 30%);
+      margin-left: 1em;
+    }
+  }
+}
+
 
 /* ==========================================================================
    Tables

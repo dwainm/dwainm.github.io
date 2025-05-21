@@ -1,0 +1,40 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+{% assign yearName  = year.name %}
+  <section id="{{ year.name }}" class="section">
+	{% assign postsByMonth = year.items | group_by_exp: 'post', 'post.date | date: "%B"' %}
+	{% for month in postsByMonth %}
+		<h2 class="taxonomy-title">
+			<span class="month">{{ month.name }}</span>
+			{% unless yearName == "" %}
+				<span class="year">{{ year.name }}</span>
+				{% assign yearName = "" %}
+			{% endunless %}
+		</h2>
+		<div class="entries-{{ page.entries_layout | default: 'list' }}">
+		  {% for entry in month.items %}
+			{% include entry_day_title.html %}
+		  {% endfor %}
+	  {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+
+	<h2> Summary</h2>
+<ul class="taxonomy-index">
+  {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy-count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+<a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

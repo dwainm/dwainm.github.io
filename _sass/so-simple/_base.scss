@@ -2,6 +2,26 @@
    Base elements
    ========================================================================== */
 
+/* ==========================================================================
+   Blogroll
+   ========================================================================== */
+body.layout--blogroll{
+  .taxonomy-title{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+    margin: .5em 10% .5em 0; 
+    font-weight:normal;
+  }
+  .blogroll-entry{
+    display: flex;
+    justify-content: space-between;
+    text-align:left;
+    margin-right: 20%;
+  }
+}
+
+
 html {
   @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
 }

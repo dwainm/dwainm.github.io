@@ -1,0 +1,19 @@
+{% if entry.id %}
+  {% assign title = entry.title | markdownify | strip_html %}
+{% else %}
+  {% assign title = entry.title %}
+{% endif %}
+
+<div class='blogroll-entry'>
+	<span class='entry-date-day'>{{ entry.date | date: "%d" }}</span>
+	<a class="title" href="{{ entry.url | relative_url }}" rel="bookmark">
+			{{ title }}
+	</a>
+  {% if site.read_time or entry.date and page.layout != 'collection' %}
+      {% if site.read_time %}
+	  <span class="entry-read-time">
+		{% include read-time.html %}
+	  </span>
+	  {% endif %}
+  {% endif %}
+</div>
