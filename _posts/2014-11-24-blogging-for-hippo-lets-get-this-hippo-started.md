@@ -27,4 +27,4 @@ At the end I should have 30 plus new blog posts with awesome content related to 
 
 Please follow me on [twitter](https://twitter.com/dwainm "twitter") for daily updates and links for these blog posts. 
 
-[![hippo-dance-o](/images/hippo-dance-o1.gif)](http://dwain.blog/wp-content/uploads/2014/11/hippo-dance-o1.gif)
+![hippo-dance-o](/images/hippo-dance-o1.gif)

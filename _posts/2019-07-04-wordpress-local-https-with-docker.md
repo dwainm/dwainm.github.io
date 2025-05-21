@@ -228,6 +228,6 @@ I wrote it mainly for my future self, but I hope you benefit from it as well. Pl
 
 ### References
 
-- Step 1 and 2 and part of 3 was from an article on Freecodecamp, which is no longer available due to their politics with Medium. I have a google cache in pdf form if your interested: [link to pdf](https://dwain.blog/wp-content/uploads/2020/04/03ec0-how-to-get-https-working-on-your-local-development-environment-in-5-minutes.pdf).
+- Step 1 and 2 and part of 3 was from an article on Freecodecamp, which is no longer available due to their politics with Medium. I have a google cache in pdf form if your interested: [link to pdf].
 - Step 4 apache - [https://helpdesk.ssls.com/hc/en-us/articles/203482651-How-to-install-an-SSL-certificate-on-Apache](https://helpdesk.ssls.com/hc/en-us/articles/203482651-How-to-install-an-SSL-certificate-on-Apache)
 - Step 4 Nginx - [https://www.shellhacks.com/docker-reload-nginx-inside-container/ )](https://www.shellhacks.com/docker-reload-nginx-inside-container/)

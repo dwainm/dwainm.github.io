@@ -5,7 +5,7 @@ date: 2012-10-09
 
 WordPress updates aims to move the whole community forward. That is why I'm delighted to see the progress being made towards the final 3.5 release.
 
-[![](/images/snapshot-20121009-421-pm.png "Snapshot 2012:10:09 4:21 PM")](http://dwain.blog/wp-content/uploads/2012/10/snapshot-20121009-421-pm.png)
+![](/images/snapshot-20121009-421-pm.png "Snapshot 2012:10:09 4:21 PM")
 
 ### What's new?
 
@@ -16,6 +16,6 @@ WordPress updates aims to move the whole community forward. That is why I'm deli
 - **Links**: Remember those lins to the left? Well forget them, they've been removed and placed in a plugin should you still need them on your website.
 - **Default** **Theme**: A brand new default theme called "2012".
 
-[![](/images/customize.png "WordPress 2012 Theme")](http://dwain.blog/wp-content/uploads/2012/10/customize.png)
+![](/images/customize.png "WordPress 2012 Theme")
 
 With these changes and a few more on the way I can't wait to hit the upgrade button.

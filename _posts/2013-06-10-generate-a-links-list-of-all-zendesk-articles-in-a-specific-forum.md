@@ -9,15 +9,15 @@ I've used chrome for this and suggest you do the same as I don't know how to rep
 
 1) Navigate to the specific forum on the Zendesk agent panel. In this case canvas.
 
-[![link lists for a specific zendesk forum](/images/zendesk_forum_link_lists_1.png)](http://dwain.blog/wp-content/uploads/2013/06/zendesk_forum_link_lists_1.png)
+![link lists for a specific zendesk forum](/images/zendesk_forum_link_lists_1.png)
 
 2) Scroll down to the bottom of the page and click more until all the items are displayed on the page:
 
-[![zendesk_forum_link_lists_click_more](/images/zendesk_forum_link_lists_click_more.png)](http://dwain.blog/wp-content/uploads/2013/06/zendesk_forum_link_lists_click_more.png)
+![zendesk_forum_link_lists_click_more](/images/zendesk_forum_link_lists_click_more.png)
 
 3) Then Open the chrome developers console and click on console:
 
-[![zendesk_forum_link_lists developer_console](/images/zendesk_forum_link_lists_developer_console.png)](http://dwain.blog/wp-content/uploads/2013/06/zendesk_forum_link_lists_developer_console.png)
+![zendesk_forum_link_lists developer_console](/images/zendesk_forum_link_lists_developer_console.png)
 
 4) Past the code below inside the console and press enter _( be sure to change **line:4**  from  support.woothemes.com support your own domain)_:
 
@@ -25,4 +25,4 @@ I've used chrome for this and suggest you do the same as I don't know how to rep
 
 5) You will now see a nice list of  items which you can copy as a todo list on your project management software. [Trello](http://trello.com) allows you to paste this whole list and creates individual to do list items .
 
-[![zendesk_forum_link_lists_nice_LIST](/images/zendesk_forum_link_lists_nice_list.png)](http://dwain.blog/wp-content/uploads/2013/06/zendesk_forum_link_lists_nice_list.png)
+![zendesk_forum_link_lists_nice_LIST](/images/zendesk_forum_link_lists_nice_list.png)

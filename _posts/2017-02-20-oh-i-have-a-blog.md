@@ -2,6 +2,8 @@
 title: "Oh I have a .blog"
 date: 2017-02-20
 ---
+**Update:** I've since moved over to dwain.maralack.com ![](/images/x_post_new_domain.png )
+{: .notice--accent}
 
 [Get.blog](https://get.blog), a new top level domain focused on people who are really interested in blogging. It's a nice way to say, hey this is just another blog.
 

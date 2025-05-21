@@ -12,4 +12,4 @@ Did you know that Facebook now has version control for comments. For non geek pe
 3. Make changes to your comment and update.
 4. Click on edit again and you will see a list of the comments you've already made.
 
-[![](/images/snapshot-20121011-1038-am.png "Snapshot 2012:10:11 10:38 AM")](http://dwain.blog/wp-content/uploads/2012/10/snapshot-20121011-1038-am.png)
+![](/images/snapshot-20121011-1038-am.png "Snapshot 2012:10:11 10:38 AM")
