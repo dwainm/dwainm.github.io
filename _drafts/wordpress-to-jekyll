@@ -1,0 +1,27 @@
+---
+title: Moving my blog to Jekyll.
+date: TBD
+---
+
+## Backgound
+
+## Why Jekyll
+So many other modern options, Astra, 11ty 
+
+Simplicity. Jeky has very few concepts to wrap your head around. It is a blogaware 
+system and that means a lot to a simple blogger like me.
+
+while modifying this theme. I didn't have to consider the editor, other post types, loading 
+	the entire admin .. clicking around. Fixing phph errors. Everything was running 
+	in the terminal.
+
+## Static vs Dynamic
+
+
+## The Process
+1. WordPress Export
+1. WPL to jekkyl 
+1. Find a theme - this was really hard, which is
+
+Still actively maintained https://jekyllrb.com/news/
+It runs on Ruby.
