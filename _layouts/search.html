@@ -5,7 +5,21 @@ layout: page
 {{ content }}
 
 <form onsubmit="return false;">
-  <input type="input" id="search" class="search-input" placeholder="{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" autofocus>
+
+  <input type="input" id="search" class="search-input" placeholder="{{ site.data.text[site.locale].search_placeholder_text | defutault: 'Enter your search term...' }}" autofocus>
+	<script>
+		const urlParams = new URLSearchParams(window.location.search);
+		const searchPhrase = urlParams.get('s');
+		if( searchPhrase && searchPhrase.length > 0 ) {
+			searchEl = document.getElementById("search");
+			searchEl.value = searchPhrase;
+			setTimeout(()=>{
+				console.log('timeout done');
+				searchEl.dispatchEvent(new KeyboardEvent('keyup', {'key': 'Enter'}));
+				searchEl.setSelectionRange(searchPhrase.length, searchPhrase.length);
+			}, 300);
+		}
+	</script>
 </form>
 
 <div id="results"></div>
