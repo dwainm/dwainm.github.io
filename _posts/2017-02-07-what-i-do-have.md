@@ -1,6 +1,10 @@
 ---
 title: "What I do have"
 date: 2017-02-07
+tags:
+  - gratitude
+  - perspective
+  - personal
 ---
 
 Today I turn 30. I woke up and my first thoughts were those of gratitude, which immediate turned into thoughts of empty mess and sadness.

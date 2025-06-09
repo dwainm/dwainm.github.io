@@ -1,6 +1,7 @@
 ---
 title: "Plant Based"
 date: 2019-01-01
+tags: [health, diet, lifestyle]
 ---
 
 3 Months ago, my wife and I embraced a new way of eating. We've tried all kind of diets and eating plans but none have ever worked out for us. We wanted to see results in the way we looked and felt. We mostly wanted to shed some pounds and with that feel more confident in our clothes.

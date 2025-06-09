@@ -1,6 +1,10 @@
 ---
 title: "Your story matters, share it"
 date: 2014-01-05
+tags:
+  - storytelling
+  - sharing
+  - personal
 ---
 
 We all have those times when really need inspiration. Most times we find it in the simplest places. It's in books, blogs, talks even the little children, other times we draw inspiration from our industry leaders and people we look up to.

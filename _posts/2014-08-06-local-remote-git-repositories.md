@@ -1,6 +1,10 @@
 ---
 title: "Your guide to local remote git repositories."
 date: 2014-08-06
+tags:
+  - git
+  - programming
+  - tutorial
 ---
 
 Did you know that that **git** allows you to connect to a **remote** repository that is not so, remote ? I mean, you can actually connect to a repo in another folder and push and pull directly to and from it. I was recently faced a scenario where I had two working versions of the same repo in separate directories. I needed to make the changes in one place but then confirm the changes in a different context.

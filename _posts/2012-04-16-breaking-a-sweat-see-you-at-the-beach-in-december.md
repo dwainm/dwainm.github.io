@@ -1,6 +1,10 @@
 ---
 title: "Breaking a sweat, see you at the beach in December :)"
 date: 2012-04-16
+tags:
+  - fitness
+  - health
+  - goals
 ---
 
 [](http://instagr.am/p/Jfa7huL8W2/)

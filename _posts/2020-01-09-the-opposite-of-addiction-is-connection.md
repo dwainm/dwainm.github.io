@@ -1,6 +1,7 @@
 ---
 title: "The opposite of addiction is connection"
 date: 2020-01-09
+tags: [mental-health, society, connection]
 ---
 
 I watched this interesting TED talk about how we treat addicts; we shy away from them and further inflict damage by pushing them into isolation. The talk below gives us a better alternative and a possible way to help those, who themselves don't want to suffer, grow into a better versions of themselves.

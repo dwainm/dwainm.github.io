@@ -1,6 +1,7 @@
 ---
 title: "Building Reactive Systems: Conference Talk."
 date: 2020-01-30
+tags: [programming, architecture, book-review]
 ---
 
 I watched an interesting talk about building high availability systems and thought the simplicity was quite fascinating.

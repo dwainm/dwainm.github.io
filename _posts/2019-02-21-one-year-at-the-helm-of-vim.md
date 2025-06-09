@@ -1,6 +1,7 @@
 ---
 title: "One year at the helm of Vim"
 date: 2019-02-21
+tags: [vim, tools, productivity]
 ---
 
 One year ago [I started using an old text editor called Vim.]({% link _posts/2017-05-26-so-i-tried-an-editor-called-vim.md %}) I'm happy to say that I'm still sticking with it. I'm now very comfortable with VIM and more empowered translate Ideas into working solutions.

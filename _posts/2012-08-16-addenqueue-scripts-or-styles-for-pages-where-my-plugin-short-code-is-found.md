@@ -1,6 +1,10 @@
 ---
 title: "Add/Enqueue Scripts or Styles for pages where my plugin short code is found"
 date: 2012-08-16
+tags:
+  - wordpress
+  - programming
+  - tutorial
 ---
 
 So you have the neat plugin and you're really excited about getting it done, but you don't want this wonderful plugin loading un necessary scripts and styles for every page.

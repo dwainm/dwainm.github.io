@@ -1,6 +1,10 @@
 ---
 title: "Planning to blog regularly?"
 date: 2015-04-20
+tags:
+  - blogging
+  - planning
+  - consistency
 ---
 
 I seriously want to blog more frequently while also creating more quality.  If you have a blog then I know you share this with me. And you should know that my reasons for desiring this are very simple:

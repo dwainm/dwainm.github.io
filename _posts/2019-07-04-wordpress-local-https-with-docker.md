@@ -1,6 +1,7 @@
 ---
 title: "Local Development: Secure Docker Sites."
 date: 2019-07-04
+tags: [wordpress, docker, development]
 ---
 
 _This article targets Debian docker containers running on MacOS._

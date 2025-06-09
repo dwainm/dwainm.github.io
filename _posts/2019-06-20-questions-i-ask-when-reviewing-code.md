@@ -1,6 +1,7 @@
 ---
 title: "Questions I ask when reviewing code"
 date: 2019-06-20
+tags: [programming, code-review, process]
 ---
 
 The work of building software in a team context is not quite the same as when you're working on a hobby project. On an existing project, you must consider paying customers, product quality, engineering excellence, and many other variables that make shipping production code much more challenging. We expect others to review our code to ensure it meets the highest standards before it is sent out into the world and the same is excpected from us.

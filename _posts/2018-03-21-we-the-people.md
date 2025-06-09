@@ -1,6 +1,10 @@
 ---
 title: "We, The people"
 date: 2018-03-21
+tags:
+- democracy
+- politics
+- society
 ---
 
 When citizens self organise, the government of the day may be rendered a mere follower.

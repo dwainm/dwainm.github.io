@@ -1,6 +1,10 @@
 ---
 title: "The team lead path"
 date: 2022-05-02
+tags:
+  - leadership
+  - career
+  - book-review
 ---
 
 Being a team lead at [Automattic](https://automattic.com/work-with-us/) is not a promotion, but it is very challenging and after doing it for the last year, I understand why.

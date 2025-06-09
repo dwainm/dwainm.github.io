@@ -1,6 +1,10 @@
 ---
 title: "Why I no longer care about politics, but I still vote"
 date: 2018-01-08
+tags:
+- politics
+- civic-duty
+- personal
 ---
 
 A few years ago, I was politically fired up. I believed that politics would fix all the problems we were having in our beautiful country. I used to think, if only party X would win, or if only party Y would get better, then we'd be in for real change. I honestly believed the answers to our problems can be solved with politics.

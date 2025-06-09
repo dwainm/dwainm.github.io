@@ -1,6 +1,7 @@
 ---
 title: "Success with your support network"
 date: 2020-12-05
+tags: [career, networking, success]
 ---
 
 To succeed at remote work, we need to know what we need and how to communicate it.

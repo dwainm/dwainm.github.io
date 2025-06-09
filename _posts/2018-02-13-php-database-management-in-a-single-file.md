@@ -1,6 +1,10 @@
 ---
 title: "PHP database management in a single file"
 date: 2018-02-13
+tags:
+- programming
+- php
+- database
 ---
 
 I've found this nice little thing that quickly allows you to have a MySql GUI.

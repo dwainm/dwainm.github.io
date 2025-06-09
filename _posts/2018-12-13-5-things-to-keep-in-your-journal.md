@@ -1,6 +1,10 @@
 ---
 title: "5 things to keep in your Journal"
 date: 2018-12-13
+tags:
+- journaling
+- writing
+- productivity
 ---
 
 Today, while reading my Journal, I had a weird feeling. The feeling that my Journal was actually becoming valuable to me. Like I'd be willing to put up a reward if I've lost it.

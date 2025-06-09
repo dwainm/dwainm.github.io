@@ -1,6 +1,7 @@
 ---
 title: "WooCommerce Payments now in Beta"
 date: 2020-04-09
+tags: [woocommerce, product-launch, payments]
 ---
 
 I'm excited to share that our team has just released the **beta** version of a Payments service powered by WooCommerce, [**WooCommerce Payments**.](https://woocommerce.com/payments/)

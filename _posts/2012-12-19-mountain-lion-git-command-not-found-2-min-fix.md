@@ -1,6 +1,10 @@
 ---
 title: "Mountain Lion, Git “Command Not Found” (2 min fix)"
 date: 2012-12-19
+tags:
+  - git
+  - mac
+  - troubleshooting
 ---
 
 I found this while trying to figure out why I'm getting the error.

@@ -1,6 +1,10 @@
 ---
 title: "How to add a subtask in Asana:"
 date: 2012-10-10
+tags:
+  - asana
+  - productivity
+  - tutorial
 ---
 
  

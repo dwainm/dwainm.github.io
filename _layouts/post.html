@@ -16,8 +16,9 @@ layout: default
       </header>
 
       <div class="page-content">
-        {% include page-author.html %}
+        {% include post-meta.html %}
         {% include page-categories.html %}
+
         <div class="e-content">
           {{ content }}
         </div>
@@ -25,8 +26,6 @@ layout: default
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
-
-        {% include page-tags.html %}
 
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}

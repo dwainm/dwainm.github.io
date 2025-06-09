@@ -1,6 +1,7 @@
 ---
 title: "Three Important Things — Via Dented Reality"
 date: 2019-01-11
+tags: [wisdom, advice, life-lessons]
 ---
 
 > Three Important Things Congratulations! You are in a new management role. Now what? Remember these three things: don’t fall into the safety of your old job, listen, and provide useful feedback. 2,899 more words

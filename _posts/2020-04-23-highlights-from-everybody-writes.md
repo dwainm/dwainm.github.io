@@ -1,6 +1,7 @@
 ---
 title: "Highlights from Everybody Writes"
 date: 2020-04-23
+tags: [writing, book-review, communication]
 ---
 
 Beth Dunn went from being an unemployable writer to a writing career that [speaks for itself](https://www.linkedin.com/in/bethdunn/). In her talk, "[How to Be a Writing god](https://www.youtube.com/watch?v=S8Q3vnPM6kk&feature=youtu.be)", she hammered down the idea; disciplined writing is the only way to improved writing. Her story, alongside the Author, Ann Handley's simple advice, makes it clear; every professional should take writing seriously.

@@ -1,6 +1,7 @@
 ---
 title: "My notes from the talk on how to maximise success"
 date: 2020-06-24
+tags: [career, advice, success]
 ---
 
 Carla Harris, Vice Chairman of Morgan Stanley Wealth Management, explains exactly how she got ahead in a male dominated industry.

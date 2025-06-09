@@ -1,6 +1,10 @@
 ---
 title: "Less is better than Tail"
 date: 2017-07-03
+tags:
+  - unix
+  - tools
+  - programming
 ---
 
 If you're using logs for debugging check this out:

@@ -1,6 +1,7 @@
 ---
 title: "Speech writer secrets"
 date: 2020-06-25
+tags: [writing, communication, book-review]
 ---
 
 I enjoyed this humorous talk on public speaking. Some of the advice feels gimmicky, but if you compare it to what you hear when presidents and leaders speak you'll see that they all use it, well with a few exceptions.

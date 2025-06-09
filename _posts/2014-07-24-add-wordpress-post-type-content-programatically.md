@@ -1,6 +1,10 @@
 ---
 title: "Add WordPress post type content programatically"
 date: 2014-07-24
+tags:
+  - wordpress
+  - programming
+  - tutorial
 ---
 
 To load dummy content programatically load the content below into your functions.php.

@@ -1,6 +1,7 @@
 ---
 title: "5 Quotes to ponder on from Tribe Mentors"
 date: 2019-02-28
+tags: [quotes, wisdom, book-review]
 ---
 
 I wrote a [quick review on the book]({% post_url 2018-03-07-tribe-of-mentors-quick-review %}), A tribe of mentors, but wanted to go into more detail and give you some of the quotes that that really hit home for me. I chose 5 of them to share with you.

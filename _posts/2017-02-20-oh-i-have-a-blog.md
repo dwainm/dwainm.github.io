@@ -1,6 +1,10 @@
 ---
 title: "Oh I have a .blog"
 date: 2017-02-20
+tags:
+  - blogging
+  - personal
+  - humor
 ---
 **Update:** I've since moved over to dwain.maralack.com ![](/images/x_post_new_domain.png )
 {: .notice--accent}

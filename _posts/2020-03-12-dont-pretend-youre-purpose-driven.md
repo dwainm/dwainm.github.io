@@ -1,6 +1,7 @@
 ---
 title: "Don't pretend you're purpose driven"
 date: 2020-03-12
+tags: [leadership, authenticity, purpose]
 ---
 
 > Don't start a business when you have already thought about when to exit. Exits should happen organically.

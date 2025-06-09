@@ -1,6 +1,7 @@
 ---
 title: "What happens when you reply to spam email"
 date: 2020-01-15
+tags: [humor, security, email]
 ---
 
 If you need some time to let your subconscious mind figure out a problem, I enjoyed watching this.

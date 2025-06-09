@@ -1,6 +1,10 @@
 ---
 title: "Next chapter and moving into a new role"
 date: 2015-04-01
+tags:
+  - career
+  - transition  
+  - personal
 ---
 
 Today marks the start of a new and exciting journey. I’m starting in a new role as a Developer at [Woothemes](http://www.woothemes.com/).

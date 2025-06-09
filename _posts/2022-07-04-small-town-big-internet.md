@@ -1,6 +1,10 @@
 ---
 title: "Small town, big internet"
 date: 2022-07-04
+tags:
+  - personal
+  - technology
+  - infrastructure
 ---
 
 Fibre finally arrived in [Ceres](https://www.google.com/maps/place/Ceres,+6835/@-33.397913,19.3052664,12z/data=!3m1!4b1!4m5!3m4!1s0x1dcd699073578c4b:0x392808e69c847c75!8m2!3d-33.4006883!4d19.295048)! It was a dream to have city-like-speeds in our little town.

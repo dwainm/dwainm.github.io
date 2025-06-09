@@ -1,6 +1,7 @@
 ---
 title: "Software Complexity"
 date: 2020-06-17
+tags: [programming, architecture, philosophy]
 ---
 
 It is easy to define software complexity, but not so easy to define how complex a specific piece of software is. There have been lots of work in academia to find ways to describe it, but these approaches are not generally applied. Complex software directly [refers to its effects on the human](https://www.johndcook.com/blog/2008/08/26/different-kinds-of-software-complexity/) mind.

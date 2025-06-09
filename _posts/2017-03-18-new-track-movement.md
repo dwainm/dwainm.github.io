@@ -1,6 +1,10 @@
 ---
 title: "New Track: Movement"
 date: 2017-03-18
+tags:
+  - music
+  - personal
+  - creativity
 ---
 
 Just uploaded a new track.

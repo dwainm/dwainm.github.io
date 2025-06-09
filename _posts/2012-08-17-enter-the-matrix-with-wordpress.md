@@ -1,6 +1,10 @@
 ---
 title: "Enter the matrix with WordPress"
 date: 2012-08-17
+tags:
+  - wordpress
+  - tutorial
+  - advanced
 ---
 
 Would you like to enter the matrix with Wordpress?

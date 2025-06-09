@@ -1,6 +1,10 @@
 ---
 title: "Keeping a journal can change your life"
 date: 2017-12-13
+tags:
+  - journaling
+  - personal-development
+  - habits
 ---
 
 I started some time ago, but it is now more focused and intentional.

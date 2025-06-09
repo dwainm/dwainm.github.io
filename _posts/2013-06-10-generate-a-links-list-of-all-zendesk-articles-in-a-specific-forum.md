@@ -1,6 +1,10 @@
 ---
 title: "Generate a link list of all Zendesk articles in a specific forum"
 date: 2013-06-10
+tags:
+  - zendesk
+  - automation
+  - scripting
 ---
 
 I needed to print out a list of links for all articles in a specific forum, for use in our Project management system. I had to go through all the items to ensure that they are compatible with the latest version of our Canvas Theme.

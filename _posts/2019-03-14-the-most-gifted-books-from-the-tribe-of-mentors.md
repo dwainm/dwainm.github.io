@@ -2,6 +2,7 @@
 title: "The most gifted books from the tribe of mentors"
 date: 2019-03-14
 coverImage: "1d365-tim-ferris-tribe-of-mentors-852x568-1.jpg"
+tags: [book-review, recommendations, reading]
 ---
 
 I read Tribe of Mentors, [a year ago]({% link _posts/2018-03-07-tribe-of-mentors-quick-review.md %}), and wrote down all the recommended books. I made notes on these books as I wanted to see if there are commonalities between the things highly successful people read. To no surprise, I found that many of the mentors recommended the same books.

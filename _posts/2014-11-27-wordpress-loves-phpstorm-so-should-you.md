@@ -1,6 +1,10 @@
 ---
 title: "WordPress loves PHPStorm, so should you!"
 date: 2014-11-27
+tags:
+  - wordpress
+  - phpstorm
+  - tools
 ---
 
 I've fallen in love with another text editor. Its been since a while since I've last opened SublimeText and Coda.  It has also been a little bit challenging to adjust at times but there's no looking back when it comes to building WordPress based products. My workflow is even better than ever. Now let me tell you why you should love PHPStorm.

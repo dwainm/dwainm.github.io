@@ -1,6 +1,10 @@
 ---
 title: "Life Lessons learnt in support"
 date: 2013-09-21
+tags:
+  - support
+  - career
+  - lessons
 ---
 
 On 1 December 2012, I started working full time as a support ninja at [WooThemes](http://wooothemes.com "Premium Themes and Plugins").

@@ -1,6 +1,7 @@
 ---
 title: "How many bytes are emoji characters in GO?"
 date: 2020-01-17
+tags: [programming, go, unicode]
 ---
 
 It takes 4 bytes for each emoji character and 1 byte for every ASCII character.

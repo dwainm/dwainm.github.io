@@ -1,6 +1,10 @@
 ---
 title: "9 months with Colemak"
 date: 2018-02-01
+tags:
+- colemak
+- typing
+- productivity
 ---
 
 [9 months Ago]({% link _posts/2017-12-19-colemak-fingers.md %})  I decided to switch to the Colemak keyboard layout, read more about that here: [{% link _posts/2017-12-19-colemak-fingers.md %}.]({% link _posts/2017-12-19-colemak-fingers.md %})

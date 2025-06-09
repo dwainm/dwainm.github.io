@@ -1,6 +1,10 @@
 ---
 title: "Integrity simplified"
 date: 2013-06-18
+tags:
+  - integrity
+  - character
+  - values
 ---
 
 I learnt this very neat way to think about integrity and and its practical implementation. It goes something like this:

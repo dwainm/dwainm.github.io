@@ -1,6 +1,10 @@
 ---
 title: "Not use to this at all"
 date: 2012-04-20
+tags:
+  - personal
+  - adaptation
+  - change
 ---
 
 [](http://instagr.am/p/JoUD_Kr8cK/)

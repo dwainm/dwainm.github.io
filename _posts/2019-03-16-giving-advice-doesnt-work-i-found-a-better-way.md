@@ -1,6 +1,7 @@
 ---
 title: "Giving Advice Doesn’t Work, I found a better way"
 date: 2019-03-16
+tags: [communication, advice, relationships]
 ---
 
 I was recently chatting to a friend. He mentioned some area where he was not succeeding . I had the perfect answer. If he'd only follow my advice.

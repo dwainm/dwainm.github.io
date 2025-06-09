@@ -1,6 +1,10 @@
 ---
 title: "Dropping the color attribute."
 date: 2015-12-13
+tags:
+  - programming
+  - wordpress
+  - accessibility
 ---
 
 Many times in the media, from friends and in the industry, I hear terms like:

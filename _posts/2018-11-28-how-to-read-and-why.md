@@ -1,6 +1,10 @@
 ---
 title: "How to read and why"
 date: 2018-11-28
+tags:
+- reading
+- learning
+- book-review
 ---
 
 I thoroughly enjoyed this article on how to read and why:

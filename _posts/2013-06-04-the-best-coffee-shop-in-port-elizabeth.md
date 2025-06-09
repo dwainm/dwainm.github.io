@@ -1,6 +1,10 @@
 ---
 title: "The best coffee shop in Port Elizabeth"
 date: 2013-06-04
+tags:
+  - coffee
+  - personal
+  - review
 ---
 
 ![2013-06-04 13.51.03](/images/2013-06-04-13-51-03.jpg)

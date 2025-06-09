@@ -1,6 +1,7 @@
 ---
 title: "When are you proficient in a programming language?"
 date: 2019-01-17
+tags: [programming, learning, proficiency]
 ---
 
 Learning a programming language gives you the opportunity to explore other problem domains alongside new approaches to addressing familiar problems.

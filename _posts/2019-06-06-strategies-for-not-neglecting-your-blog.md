@@ -1,6 +1,7 @@
 ---
 title: "Strategies for not neglecting your blog"
 date: 2019-06-06
+tags: [blogging, consistency, writing]
 ---
 
 https://twitter.com/unxpectedbowtie/status/1084297723417935873

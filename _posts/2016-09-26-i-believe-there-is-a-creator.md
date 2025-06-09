@@ -1,6 +1,10 @@
 ---
 title: "I believe there is a Creator"
 date: 2016-09-26
+tags:
+  - faith
+  - personal
+  - spiritual
 ---
 
 If you're reading this as an atheist or and agnostic thinker please know that this comes from a personal place.

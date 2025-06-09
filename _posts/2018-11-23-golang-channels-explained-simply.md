@@ -1,6 +1,10 @@
 ---
 title: "Golang Channels: explained simply"
 date: 2018-11-23
+tags:
+- programming
+- go
+- concurrency
 ---
 
 I see go channels as a pipe connecting two air tight vacuum cleaners. One vacuum cleaner can not push anything into the pipe, if the other vacuum is not pulling from the pipe. Both need to do the opposite action. If one sends the "package" will be stuck until the other turns on it's receiving action.

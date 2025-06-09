@@ -1,6 +1,10 @@
 ---
 title: "Start your Journey now"
 date: 2014-01-26
+tags:
+  - motivation
+  - journey
+  - personal-development
 ---
 
 At this point in my life I am happy. I have a relationship with my heavenly Father through Jesus. I have a loving wife with who'm I'm excited to share the rest of my life with and together we are working towards common goals.

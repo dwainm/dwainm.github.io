@@ -4,10 +4,7 @@ date: 2019-07-11
 categories: 
   - "business"
   - "personal-development"
-tags: 
-  - "book"
-  - "review"
-  - "tribe-of-mentors"
+tags: [book-review, advice, mentorship]
 coverImage: "1d365-tim-ferris-tribe-of-mentors-852x568-1.jpg"
 ---
 

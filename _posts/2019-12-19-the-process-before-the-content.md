@@ -1,6 +1,7 @@
 ---
 title: "The process before the content"
 date: 2019-12-19
+tags: [writing, process, productivity]
 ---
 
 From my perspective, I still have a long way to go. I do however think that sharing what I know today is valuable, not for the sake of what I share, but for the process of refining the idea. I place the process before the content, with the hope that a refined process will lead to fine content.

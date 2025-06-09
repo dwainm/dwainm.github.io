@@ -1,6 +1,7 @@
 ---
 title: "Confusing income potential and wealth"
 date: 2019-03-07
+tags: [finance, mindset, wealth]
 ---
 
 This is more of a mental note for myself. The connection between wealth and income is very obvious, yet we tend to think they are one and the same. I do it all the time.

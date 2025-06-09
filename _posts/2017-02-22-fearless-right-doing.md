@@ -1,6 +1,10 @@
 ---
 title: "Fearless right doing"
 date: 2017-02-22
+tags:
+  - integrity
+  - courage
+  - character
 ---
 
 The article in a local newspaper from a political leader honestly and openly speaking out. Speaking out knowing that persecution will come. Knowing that what he is doing will be frowned upon and even ridiculed by those so close to him. 

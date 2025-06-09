@@ -1,6 +1,10 @@
 ---
 title: "Version controlled comments on Facebook"
 date: 2012-10-11
+tags:
+  - version-control
+  - social-media
+  - humor
 ---
 
 Did you know that Facebook now has version control for comments. For non geek people out there: It stores your initial comment just in case you want to go back to it.

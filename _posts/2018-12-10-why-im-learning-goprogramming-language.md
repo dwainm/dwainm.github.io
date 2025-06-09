@@ -1,6 +1,10 @@
 ---
 title: "Why I'm learning a new Programming Language called Go"
 date: 2018-12-10
+tags:
+- programming
+- go
+- learning
 ---
 
 For the past few years, I got stuck in a rut, a good one. My sole focus was not the technology I used. but rather the thought processes behind why and how I write code. I write in PHP and I mainly focus on the WordPress CMS. This pays the bills and helps me take care of my family but, while focusing on thought processes, I didn't realise that learning a new language can have the same effect, helping me think differently about similar problems.

@@ -1,6 +1,10 @@
 ---
 title: "Be a better developer"
 date: 2014-11-26
+tags:
+  - programming
+  - improvement
+  - career
 ---
 
 Today, I'm truly happy to share with you  what I know and have learned in my career as a developer. This post hopes to give you some advice on how to be a better developer.

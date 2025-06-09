@@ -1,6 +1,10 @@
 ---
 title: "10 things I learned from reading my 2017 journal."
 date: 2018-01-14
+tags:
+- journaling
+- reflection
+- learning
 ---
 
 Since [I decided to start Journaling]({% link _posts/2017-12-13-keeping-a-journal-can-change-your-life.md %}), I also decided that I'll read my own Journals to keep tabs on myself. As the saying goes: "Pen and paper do not forget".

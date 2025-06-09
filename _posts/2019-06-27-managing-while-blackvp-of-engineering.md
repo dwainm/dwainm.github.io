@@ -1,6 +1,7 @@
 ---
 title: "Managing while black (VP of engineering)"
 date: 2019-06-27
+tags: [leadership, diversity, management]
 ---
 
 > I didn't sell out, I bought in.

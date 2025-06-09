@@ -1,6 +1,7 @@
 ---
 title: "Habits of Highly effective Software Engineers"
 date: 2019-06-13
+tags: [programming, habits, productivity]
 ---
 
 Valuable advice from the "Tech Lead". A career in software engineering is a long term game, it's a marathon, not a sprint. Having habits like these, ensure that you're preserving yourself as you grow in experience and influence.

@@ -1,6 +1,10 @@
 ---
 title: "Technology does not make us any better"
 date: 2018-11-26
+tags:
+- technology
+- philosophy
+- humanity
 ---
 
 Technology didn't make our lives better, it simply changed what we can accomplish, but it seems, humans are still very much like we were 100 year ago:

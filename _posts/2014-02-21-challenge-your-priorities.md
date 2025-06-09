@@ -1,6 +1,10 @@
 ---
 title: "Focus on what matters"
 date: 2014-02-21
+tags:
+  - priorities
+  - focus
+  - productivity
 ---
 
 This is really simple so I'll keep it short. This statement has to do with being successful in your career.

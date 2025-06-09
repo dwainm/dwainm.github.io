@@ -1,6 +1,10 @@
 ---
 title: "How to make your followers happy"
 date: 2015-12-12
+tags:
+  - social-media
+  - content
+  - engagement
 ---
 
 This article is from the perspective of the follower.

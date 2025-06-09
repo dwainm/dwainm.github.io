@@ -1,6 +1,10 @@
 ---
 title: "Happiness"
 date: 2017-02-09
+tags:
+  - happiness
+  - philosophy
+  - personal
 ---
 
 Inspired by talk. I'll be taking picks or simply writing a general note of things and people that make me happy.

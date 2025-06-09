@@ -1,6 +1,7 @@
 ---
 title: "What does 6 months paternity leave feel like with 2 babys?"
 date: 2019-04-11
+tags: [personal, family, work-life-balance]
 ---
 
 I didn’t want to say much about this as it is not that common, especially here in South Africa. The norm here is three days and some annual leave. When I share that I’m on family responsibility leave and for how long, people usually either respond with excellent or a mild form of disgusted jealousy. I’m am truly blessed to have the privilege of paid leave for such a long time.

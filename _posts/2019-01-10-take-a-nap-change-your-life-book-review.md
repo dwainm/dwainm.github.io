@@ -1,6 +1,7 @@
 ---
 title: "Take a Nap, Change your life Book Review"
 date: 2019-01-10
+tags: [book-review, health, sleep]
 ---
 
 I used to ascribe to the phrase: "sleep when you die", but to what benefit? Hustling? Working hard? That may seem like the best thing to do now, but it may take 3 times as long for you to reach your goals, if you are burnt out, as you make a lot of mistakes in this state.

@@ -1,6 +1,10 @@
 ---
 title: "Have you tried working Less?"
 date: 2014-11-25
+tags:
+  - productivity
+  - work-life-balance
+  - rest
 ---
 
 **Let me just say this:**  Stop working overtime on that project. Set your hours. Push hard at it and then rest at a pre-defined point. Enjoy life after working hard.

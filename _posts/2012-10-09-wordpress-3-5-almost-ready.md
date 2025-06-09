@@ -1,6 +1,10 @@
 ---
 title: "WordPress 3.5 Almost ready"
 date: 2012-10-09
+tags:
+  - wordpress
+  - release
+  - news
 ---
 
 WordPress updates aims to move the whole community forward. That is why I'm delighted to see the progress being made towards the final 3.5 release.

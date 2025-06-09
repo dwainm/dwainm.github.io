@@ -1,6 +1,10 @@
 ---
 title: "Faster VIM syntax checking with A.L.E"
 date: 2017-06-20
+tags:
+  - vim
+  - programming
+  - tools
 ---
 
 Is syntactic still slowing down your workflow, try A.L.E. It's a drop in replacement for syntastic ( make sure your language is supported ): https://github.com/w0rp/ale

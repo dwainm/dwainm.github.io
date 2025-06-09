@@ -1,6 +1,10 @@
 ---
 title: "Long term paternity leave"
 date: 2022-05-11
+tags:
+  - personal
+  - family
+  - career
 ---
 
 It's been five months since I last thought about work. My laptop is in its original packaging. My home office turned into a guest room and work goodies packed away. I'm currently taking a six month break from work since the arrival of Ariah.

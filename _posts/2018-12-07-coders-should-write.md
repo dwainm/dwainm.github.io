@@ -1,6 +1,10 @@
 ---
 title: "Coders should write"
 date: 2018-12-07
+tags:
+- programming
+- writing
+- communication
 ---
 
 I read this great article that I'd like to share with you:

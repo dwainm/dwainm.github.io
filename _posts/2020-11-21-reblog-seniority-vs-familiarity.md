@@ -1,6 +1,7 @@
 ---
 title: "Reblog: Seniority vs Familiarity"
 date: 2020-11-21
+tags: [career, programming, experience]
 ---
 
 A great post about the trap of becoming a senior before you're ready. Avoid being the biggest fish in a small pond. Read on below.

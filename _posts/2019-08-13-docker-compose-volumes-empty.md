@@ -1,6 +1,7 @@
 ---
 title: "Docker Compose Volumes Empty?"
 date: 2019-08-13
+tags: [docker, programming, troubleshooting]
 ---
 
 > The problem is that **you're expecting files from the Container to be mounted on your host**.  

@@ -1,6 +1,7 @@
 ---
 title: "Comparing Software Engineering to RailRoads in the 1800's"
 date: 2019-06-20
+tags: [programming, history, analogy]
 ---
 
 An amazing (biased) talk about the rust language by one of the core contributors. Comparing accidents in the rail road industry to computer programming and memory safety.

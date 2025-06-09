@@ -1,6 +1,10 @@
 ---
 title: "Farewell WooMattic"
 date: 2025-04-24
+tags:
+  - career
+  - personal
+  - automattic
 ---
 
 I was unfortunately affected by the [recent Automattic layoffs](https://automattic.com/2025/04/02/restructuring-announcement/). We had a tradition at Automattic to post a farewell message on a special message board called farewell p2. I thought I'd share it on my blog as well as many people that I've worked with in the last 12 years have moved on already or were part of the layoffs.

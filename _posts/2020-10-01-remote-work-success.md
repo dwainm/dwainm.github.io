@@ -1,6 +1,7 @@
 ---
 title: "Remote work success"
 date: 2020-10-01
+tags: [remote-work, career, productivity]
 ---
 
 The [global pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) induced a mass workplace migration. Many office inhabitants were thrown into the wild remote working paradise. The expected [decrease in Covid-19 case numbers](https://www.worldometers.info/coronavirus/country/south-africa/) will see most people abandon the remote working paradise, but for some, the distributed work environment is here to stay. I’m writing this guide for those who will become permanent remote workers.

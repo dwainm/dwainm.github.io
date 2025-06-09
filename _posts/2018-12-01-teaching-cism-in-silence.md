@@ -1,6 +1,10 @@
 ---
 title: "Teaching -cism in silence"
 date: 2018-12-01
+tags:
+- education
+- racism
+- social-issues
 ---
 
 As a child, just after apartheid, I don't remember learning about how white, is "better", and black "is not". I don't remember sitting in a lecture being indoctrinated. I don't remember anything else, but I do remember the subtle cues around me.

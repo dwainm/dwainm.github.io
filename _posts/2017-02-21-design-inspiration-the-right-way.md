@@ -1,6 +1,10 @@
 ---
 title: "Design inspiration the right way"
 date: 2017-02-21
+tags:
+  - design
+  - inspiration
+  - creativity
 ---
 
 > I do not consider myself to be a designer.

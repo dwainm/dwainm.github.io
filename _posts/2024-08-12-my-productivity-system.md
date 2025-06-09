@@ -1,6 +1,10 @@
 ---
 title: "My productivity system"
 date: 2024-08-12
+tags:
+  - productivity
+  - systems
+  - time-management
 ---
 
 I've had this post in draft for over a year. I kept the draft to keep notes and to remind myself of my commitment to a new way to work. After learning about the new system, I jumped in head first and tried it out for a few months,but after discovering the shortcomings I stopped using it.

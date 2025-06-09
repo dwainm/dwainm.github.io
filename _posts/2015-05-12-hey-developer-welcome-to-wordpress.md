@@ -1,6 +1,10 @@
 ---
 title: "Hey Developer, Welcome to WordPress"
 date: 2015-05-12
+tags:
+  - wordpress
+  - development
+  - tutorial
 ---
 
 Some time ago, a friend of mine wanted to start doing WordPress development. I created this resource for him and thought that many of you may also want to see this, so here it is:

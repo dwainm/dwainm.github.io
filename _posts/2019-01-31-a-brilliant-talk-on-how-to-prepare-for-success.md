@@ -1,6 +1,7 @@
 ---
 title: "A brilliant talk on how to prepare for success"
 date: 2019-01-31
+tags: [success, preparation, inspiration]
 ---
 
 I watched this talk and it answered most of the questions I had about how to succeed and make an impact.

@@ -1,6 +1,7 @@
 ---
 title: "Why I no longer call them goals"
 date: 2019-07-18
+tags: [productivity, goals, mindset]
 ---
 
 Calling your goals, "goals", leaves you at a disadvantage. From now on, I suggest that you call them outcomes.

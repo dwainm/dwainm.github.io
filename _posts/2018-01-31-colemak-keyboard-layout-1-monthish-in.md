@@ -1,6 +1,10 @@
 ---
 title: "Colemak Keyboard Layout, 1 Month(ish) In"
 date: 2018-01-31
+tags:
+- colemak
+- typing
+- tools
 ---
 
 Typing is one of the most important aspects of my professional career.  That's why, a month ago, I decided to [change my keyboard layout to Colemak]({% link _posts/2017-12-19-colemak-fingers.md %}).

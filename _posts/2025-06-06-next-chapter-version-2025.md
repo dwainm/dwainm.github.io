@@ -1,6 +1,10 @@
 ---
 title: "Next Chapter version 2025"
 date: 2025-06-06
+tags:
+  - career
+  - entrepreneurship
+  - personal
 ---
 
 It's time for me to move on and I'm pretty excited. I had a wonderful 2 months of reflecting and look forward to working on my startup, being open to contracting, baking some more bread as well as switching to the Ruby on Rails tech stack, which has been on my heart for a long.

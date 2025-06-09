@@ -1,6 +1,7 @@
 ---
 title: "WP Docker Curl Error"
 date: 2019-03-29
+tags: [wordpress, docker, troubleshooting]
 ---
 
 If you are using Docker for WordPress development you may have discovered an issue while trying to connect to your installation from the CLI.

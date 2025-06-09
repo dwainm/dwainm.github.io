@@ -1,6 +1,10 @@
 ---
 title: "Let's get this Hippo started"
 date: 2014-11-24
+tags:
+  - blogging
+  - motivation
+  - writing
 ---
 
 Ready set go, The Hippo’s party is starting earlier than what you might expect. WooCommerce 2.3 is readying itself behind the scenes for a few awesome leaps forward on the e-commerce dance floor. 

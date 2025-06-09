@@ -1,6 +1,7 @@
 ---
 title: "Imposters handbook: a quick review"
 date: 2019-02-14
+tags: [book-review, computer-science, learning]
 ---
 
 A year ago I read the imposters handbook. It seemed like this book was specifically for people like me. The found himself in the same position I was in: Feeling like an imposter.

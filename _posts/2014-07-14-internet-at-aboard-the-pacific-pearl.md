@@ -1,6 +1,10 @@
 ---
 title: "Internet at aboard the pacific pearl"
 date: 2014-07-14
+tags:
+  - travel
+  - internet
+  - cruise
 ---
 
 Working remotely for [Woothemes](http://woothemes.com) which allows me to change my office location like I change my shocks. With this benefit my wife and I decided to take the opportunity to work out at sea.

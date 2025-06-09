@@ -1,6 +1,7 @@
 ---
 title: "One liner for importing multiple SQL files using WP CLI DB command"
 date: 2019-04-18
+tags: [wordpress, cli, database]
 ---
 
 In some cases, SQL backups break exports into multiple files, usualy by table name.

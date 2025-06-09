@@ -1,6 +1,10 @@
 ---
 title: "My first Podcast interview"
 date: 2018-02-07
+tags:
+- personal
+- podcast
+- career
 ---
 
 I was interviewed by [Jonathan Bossenger](https://jonathanbossenger.com/about/) on WP Hackercast.

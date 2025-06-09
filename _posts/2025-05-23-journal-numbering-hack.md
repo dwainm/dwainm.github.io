@@ -2,7 +2,7 @@
 title: Journal Numbering Hack
 tags:
   - journaling
-  - ideas
+  - productivity
   - tips
 ---
 

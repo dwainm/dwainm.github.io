@@ -1,6 +1,10 @@
 ---
 title: "WordPress, why we really need front end editing"
 date: 2014-07-19
+tags:
+  - wordpress
+  - ux
+  - editing
 ---
 
 We all know quite a few online website creation tools that lets one create a website without touching a single line of code, but unless your the end user, this kind of solution is not something you'll recommend to your client. The current basic WordPress website workflow: Designer/Developer completes the implementation of the theme and a few plugins and trains the new user how to use the site.

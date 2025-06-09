@@ -1,6 +1,10 @@
 ---
 title: "The Psychology of Money"
 date: 2018-06-04
+tags:
+- finance
+- psychology
+- book-review
 ---
 
 Let me tell you the story of two investors, neither of whom knew each other, but whose paths crossed in an interesting way....

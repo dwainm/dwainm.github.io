@@ -1,6 +1,10 @@
 ---
 title: "Tribe of Mentors: Quick Review"
 date: 2018-03-07
+tags:
+- book-review
+- mentorship
+- advice
 ---
 
 The book contains 100+ interviews with highly successful people, the mentors. These people share their best advice and struggles.

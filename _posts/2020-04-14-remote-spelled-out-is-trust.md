@@ -1,6 +1,7 @@
 ---
 title: "Remote spelled out is TRUST"
 date: 2020-04-14
+tags: [remote-work, leadership, trust]
 ---
 
 Bright and I had a very interesting chat about remote work, because of the COVID-19 lockdown situation in South Africa, they were thrown deep into the weirdness of distributed work.

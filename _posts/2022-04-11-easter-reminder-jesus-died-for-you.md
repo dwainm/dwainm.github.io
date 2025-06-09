@@ -1,6 +1,10 @@
 ---
 title: "Easter reminder: Jesus died for you"
 date: 2022-04-11
+tags:
+  - faith
+  - personal
+  - spiritual
 ---
 
 Thinking ahead about easter/passover weekend, I'm reflecting on the reasons for observing it. I consider this to be the perfect weekend to consider who Jesus is, why He was born and died in such a [gruesome manner](https://www.coraevans.com/blog/article/the-most-gruesome-details-of-the-crucifixion-of-jesus).

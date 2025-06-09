@@ -1,6 +1,10 @@
 ---
 title: "Remove Disqus comments from WordPress pages"
 date: 2013-09-18
+tags:
+  - wordpress
+  - disqus
+  - tutorial
 ---
 
 You have just installed the [Disqus](http://wordpress.org/plugins/disqus-comment-system/‎) comment system on your WordPress blog and now you see it appearing all over the show, on both pages and posts alike. I ran into the same issue and for obvious reasons only wanted to show it on single blog posts and would love to share how I fixed this with you.

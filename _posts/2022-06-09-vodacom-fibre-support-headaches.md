@@ -1,6 +1,10 @@
 ---
 title: "Vodacom Fibre Support Headaches"
 date: 2022-06-09
+tags:
+  - personal
+  - technology
+  - customer-service
 ---
 
 Vodacom is the best mobile operator in the country, period! However, the success doesn't translate into their Fibre offering. They don't own all the pieces of the puzzle and I think their processes aren't geared toward this. Especially with how their support teams are setup. I've had two long-standing marathon support interactions over two months and it was not a pleasure.

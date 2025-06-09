@@ -1,6 +1,10 @@
 ---
 title: "Is enough, enough?"
 date: 2018-03-14
+tags:
+- contentment
+- minimalism
+- philosophy
 ---
 
 **When is enough enough?** How long are we delaying our lives as we struggle for someone else's picture of perfection? How many more years should we put into building a fortune, for our old age? We all need to read the story below na make up our one minds.

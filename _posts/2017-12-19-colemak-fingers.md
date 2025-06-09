@@ -1,6 +1,10 @@
 ---
 title: "Colemak Fingers"
 date: 2017-12-19
+tags:
+  - colemak
+  - typing
+  - ergonomics
 ---
 
 I'm switching to Colemak. It's an alternate keyboard layout that allows you to type while your fingers travel shorter distances. You can read more about the reasons this is better than QWERTY here: http://chetansurpur.com/blog/2012/11/colemak.html

@@ -1,6 +1,10 @@
 ---
 title: "On the fence about Neovim"
 date: 2022-07-30
+tags:
+  - vim
+  - tools
+  - programming
 ---
 
 I've been using vim for the last 5 years. [I've written about trying this out 5 years ago]({% link _posts/2017-05-26-so-i-tried-an-editor-called-vim.md %}) and stuck to it. It's a fantastic experience and I truly enjoy working with this editor. I've been rethinking it this week though, as I was updating my configuration to get auto-completion to work.

@@ -1,6 +1,10 @@
 ---
 title: "Accountability as a service?"
 date: 2018-11-23
+tags:
+- accountability
+- productivity
+- systems
 ---
 
 Hire a boss, get stuff done

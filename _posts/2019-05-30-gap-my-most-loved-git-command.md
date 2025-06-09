@@ -1,6 +1,7 @@
 ---
 title: "gap, my most loved git command"
 date: 2019-05-30
+tags: [git, programming, tools]
 ---
 
 `gap` the alias I created, mapping to `git add -p` has been one of my most typed commands ever since I changed my workflow.

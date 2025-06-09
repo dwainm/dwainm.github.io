@@ -1,6 +1,7 @@
 ---
 title: "PHP is just fine"
 date: 2020-05-07
+tags: [programming, php, technology]
 ---
 
 A programming language starts decaying right after inception. The idea that a language is perfect soon hits the harsh reality of users running into situations the author(s) have not anticipated.

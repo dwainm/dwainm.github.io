@@ -1,6 +1,10 @@
 ---
 title: "Planning Down Time"
 date: 2018-11-13
+tags:
+- productivity
+- rest
+- planning
 ---
 
 After periods of intensity I find myself automatically collapse into a slower period, a period where I feel very unproductive. This was very frustrating as I feel like, you know you can do more, but you're just not getting to it.

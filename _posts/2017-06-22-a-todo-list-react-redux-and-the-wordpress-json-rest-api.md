@@ -1,6 +1,10 @@
 ---
 title: "A todo list, React, Redux and the WordPress JSON REST API"
 date: 2017-06-22
+tags:
+  - programming
+  - react
+  - wordpress
 ---
 
 I always wanted to create a very simple WordPress based Todo App. After putting it off for a very long time I finally had the time to look into it.

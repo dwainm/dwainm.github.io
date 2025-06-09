@@ -1,6 +1,7 @@
 ---
 title: "Choose boring technology"
 date: 2020-04-18
+tags: [programming, architecture, technology]
 ---
 
 I read an interesting article about choosing boring technology. Here are my key take a ways:

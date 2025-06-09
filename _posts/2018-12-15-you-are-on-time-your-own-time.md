@@ -1,6 +1,10 @@
 ---
 title: "You are on time, your own time"
 date: 2018-12-15
+tags:
+- time-management
+- perspective
+- pressure
 ---
 
 New York is 3 hours ahead of California, but that doesn't make California slow.

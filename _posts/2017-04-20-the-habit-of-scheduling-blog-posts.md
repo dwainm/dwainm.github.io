@@ -1,6 +1,10 @@
 ---
 title: "The habit of scheduling blog posts"
 date: 2017-04-20
+tags:
+  - blogging
+  - scheduling
+  - habits
 ---
 
 I'm not good at blogging. I do a terrible job of regularly updating this site, well tat's untill I discovered scheduling.

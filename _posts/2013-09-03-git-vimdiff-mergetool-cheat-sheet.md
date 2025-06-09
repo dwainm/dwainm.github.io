@@ -1,6 +1,10 @@
 ---
 title: "Git vimdiff Mergetool Cheat sheet"
 date: 2013-09-03
+tags:
+  - git
+  - vim
+  - tutorial
 ---
 
 Your project is progressing at an amazing pace. You're committing regularly, getting close to the release date when you suddenly hit a **merge conflict**! What do you do now?

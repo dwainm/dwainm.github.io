@@ -1,6 +1,10 @@
 ---
 title: "Converting HTML entities to UTF-8 in VimScript"
 date: 2022-08-04
+tags:
+  - vim
+  - programming
+  - scripting
 ---
 
 I wrote a small script to fetch a web page title, inserting it as amarkdown formatted link: `[title](URL)` One of of the issues I ran into was that some titles contain HTML entities and Vim has no built-in way to deal with this.

@@ -1,6 +1,10 @@
 ---
 title: "Repost: The worst reply to mentions of white privilege"
 date: 2018-06-05
+tags:
+- social-justice
+- privilege
+- society
 ---
 
 > _The worst reply: “I’ve worked hard my whole life.”_

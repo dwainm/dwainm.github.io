@@ -1,6 +1,10 @@
 ---
 title: "Creative Computer Science"
 date: 2018-12-18
+tags:
+- computer-science
+- creativity
+- education
 ---
 
 I read an interesting article on how personal development as a Software Engineer should be largely focused on thinking rather than specific technologies.
