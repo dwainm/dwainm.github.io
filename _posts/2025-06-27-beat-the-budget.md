@@ -32,7 +32,7 @@ I plan to run a friends and family alpha for a few weeks and then launch a paid 
 
 I plan to enjoy the work, working in a way that bring me joy, hoping that this will show up in the product.
 
-I plan learn and share as much as I can and I hope you'll join me.
+I plan to learn and share as much as I can and I hope you'll join me.
 
 ## Follow along!
 For more information, follow along at [klop.finance](https://klop.finance). We have a newsletter that you can sign up to. Lets learn together.
