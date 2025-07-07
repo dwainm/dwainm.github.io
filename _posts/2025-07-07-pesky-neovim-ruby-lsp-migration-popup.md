@@ -4,7 +4,12 @@ tags: rails, ruby, lsp, popup, migration, neovim
 
 ---
 
-For the last while I've had this annoying lsp popup that shows up when I add a migration. I tried hard to find a solution, but it was tricky, I was sweating cash and prompts while Claude made the tokens rain.
+For the last while I've had this annoying lsp popup that shows up when I add a migration:
+
+"Migrations are pending. To resolve this issue, run: bin/rails"
+
+I tried hard to find a solution, but it was tricky, I was sweating cash and prompts while Claude made the tokens rain.
+
 
 ![Ruby LSP migration popup](/images/migration-popup.png){: width="500px" }
 
