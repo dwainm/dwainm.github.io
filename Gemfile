@@ -9,3 +9,5 @@ group :jekyll_plugins do
   'jekyll-paginate'
   'jekyll-compose'
 end
+
+gem "jekyll-compose", "~> 0.12.0", group: :jekyll_plugins
