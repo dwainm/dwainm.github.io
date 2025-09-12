@@ -6,8 +6,7 @@ gem "github-pages"
 
 group :jekyll_plugins do
   "liquid_reading_time"
-  'jekyll-paginate'
-  'jekyll-compose'
+  "jekyll-paginate"
 end
 
-gem "jekyll-compose", "~> 0.12.0", group: :jekyll_plugins
+gem "jekyll-compose", group: :jekyll_plugins
