@@ -4,7 +4,7 @@ title: Non Boulangerie
 date: 2025-09-19 10:28 +0200
 ---
 
-[Last week I mentioned]({post_url 2025-09-12-feels-like-a-blur/}) the "stressful bakery experience" and didn't have time to go into it, but thought I'd share more about it today. My love for bread started as a kid, but we never had the luxury of healthy bread. I found out about healthy bread as an adult, more specficially after a trip to France where you find a Boulangerie (Bakery) on every corner. This lead me to try out baking sourdough bread at home.
+[Last week I mentioned]({%post_url 2025-09-12-feels-like-a-blur %}) the "stressful bakery experience" and didn't have time to go into it, but thought I'd share more about it today. My love for bread started as a kid, but we never had the luxury of healthy bread. I found out about healthy bread as an adult, more specficially after a trip to France where you find a Boulangerie (Bakery) on every corner. This lead me to try out baking sourdough bread at home.
 
 
 When [my time at Automattic came to an end](https://dwain.maralack.com/farewell-woomattic/), I had a few Ideas, but no real plan. The first thing I knew was that I needed to make time to take a few things off Lauren's hands so that she can do some extra work, while we figure out the finances. This meant that I only have 4 hours from 8-12 for work. So I needed to do something there. At that time I was already baking for our family and a few friends on request. Why not make a business out of it?
