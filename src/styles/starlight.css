@@ -1,0 +1,16 @@
+/* Custom styles for Starlight health docs */
+
+/* Add "Back to Blog" link styling */
+.back-to-blog {
+  display: block;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  color: var(--sl-color-gray-3);
+  font-size: 0.875rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--sl-color-gray-5);
+}
+
+.back-to-blog:hover {
+  color: var(--sl-color-white);
+}

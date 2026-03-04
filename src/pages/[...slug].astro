@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from 'astro:content';
+import BlogPost from '../layouts/BlogPost.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+// Extract title from front matter or first heading
+function extractTitle(): string {
+  if (post.data.title) return post.data.title;
+  const match = post.body?.match(/^#\s+(.+)$/m);
+  if (match) return match[1];
+  return post.id.replace(/-/g, ' ');
+}
+
+const title = extractTitle();
+const date = post.data.date || new Date();
+const tags = post.data.tags || [];
+---
+
+<BlogPost title={title} date={date} tags={tags}>
+  <Content />
+</BlogPost>

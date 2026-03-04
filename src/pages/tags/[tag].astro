@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+
+  // Collect all unique tags
+  const tags = new Set<string>();
+  posts.forEach(post => {
+    post.data.tags?.forEach(tag => tags.add(tag));
+  });
+
+  return Array.from(tags).map(tag => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: posts.filter(post => post.data.tags?.includes(tag)),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+
+function extractTitle(post: typeof posts[0]): string {
+  if (post.data.title) return post.data.title;
+  const match = post.body?.match(/^#\s+(.+)$/m);
+  if (match) return match[1];
+  return post.id.replace(/-/g, ' ');
+}
+
+function formatDate(date: Date | undefined): string {
+  if (!date) return '';
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+}
+
+const sortedPosts = posts.sort((a, b) => {
+  const dateA = a.data.date || new Date(0);
+  const dateB = b.data.date || new Date(0);
+  return dateB.getTime() - dateA.getTime();
+});
+---
+
+<BaseLayout title={`#${tag}`}>
+  <h1>#{tag}</h1>
+  <p class="count">{posts.length} post{posts.length !== 1 ? 's' : ''}</p>
+
+  <ul class="post-list">
+    {sortedPosts.map(post => (
+      <li class="post-item">
+        <a href={`/${post.id}/`}>
+          <span class="post-title">{extractTitle(post)}</span>
+          <time datetime={post.data.date?.toISOString()}>{formatDate(post.data.date)}</time>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
+
+<style>
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .count {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+  }
+
+  .post-list {
+    list-style: none;
+  }
+
+  .post-item {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .post-item a {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .post-item a:hover .post-title {
+    color: var(--accent);
+  }
+
+  time {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+</style>

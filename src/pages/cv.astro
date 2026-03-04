@@ -1,0 +1,91 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Content } from '../content/cv.md';
+---
+
+<BaseLayout title="CV">
+  <div class="cv-header">
+    <a href="/Dwain_Maralack_CV.pdf" class="download-btn">Download PDF</a>
+    <a href="/Dwain_Maralack_CV.docx" class="download-btn">Download DOCX</a>
+  </div>
+
+  <article class="cv-content">
+    <Content />
+  </article>
+</BaseLayout>
+
+<style>
+  .cv-header {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .download-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: var(--accent);
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+
+  .download-btn:hover {
+    opacity: 0.9;
+    text-decoration: none;
+  }
+
+  .cv-content {
+    max-width: 100%;
+  }
+
+  .cv-content :global(h1) {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .cv-content :global(h2) {
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 0.5rem;
+  }
+
+  .cv-content :global(h3) {
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .cv-content :global(p) {
+    margin-bottom: 1rem;
+  }
+
+  .cv-content :global(ul) {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+  }
+
+  .cv-content :global(li) {
+    margin-bottom: 0.5rem;
+  }
+
+  .cv-content :global(hr) {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 1.5rem 0;
+  }
+
+  .cv-content :global(strong) {
+    font-weight: 600;
+  }
+
+  @media print {
+    .cv-header {
+      display: none;
+    }
+  }
+</style>

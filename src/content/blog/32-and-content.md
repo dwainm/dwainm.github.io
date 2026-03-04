@@ -1,0 +1,15 @@
+---
+title: "32 and content"
+date: 2019-01-21
+tags: [personal, reflection, contentment]
+---
+
+Yesterday I turned 32. What an amazing time to be alive. There are so many mountains to climb and challenges to overcome. I have a sense of destiny awaiting while feeling thankful that I have opportunities to reach for things greater than where I come from.
+
+I had no party, no event, not too many people over and it felt libarating. Having the option to choose what to do and then choosing a simple day, with loved ones. Those very close to me. This, in the form of conversations, phone calls and messages. I appreciate the day called birthday and I understand why it's such an important day to almost every one.
+
+I realise that health is something one takes for granted and that it is one of the biggest blessings in our lives. Without it, nothing works. I'm eternally greatful for mine.
+
+[I am a beliver]({% link _posts/2016-09-26-i-believe-there-is-a-creator.md %}) and it shapes every part of my life. I'm thankful for every new year that's added to my life. I'm so thankful for all the good gifts I have recieved and I'm eternally greaful for salvation and a walk that challenges me to grow.
+
+I hope that this is just the beginning, I hope that my story continues further into the happily ever after. I hope that I grow in character, skill and spheres of impact. I hope to spend more days feeling content and less days thinking about what I do not have. I hope focus on who I'm becoming and not what I'm acquiring.

@@ -1,0 +1,131 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+
+// Sort by date descending
+const sortedPosts = posts
+  .filter(post => !post.data.draft)
+  .sort((a, b) => {
+    const dateA = a.data.date || new Date(0);
+    const dateB = b.data.date || new Date(0);
+    return dateB.getTime() - dateA.getTime();
+  });
+
+function extractTitle(post: typeof posts[0]): string {
+  if (post.data.title) return post.data.title;
+  // Try to extract from first heading in body
+  const match = post.body?.match(/^#\s+(.+)$/m);
+  if (match) return match[1];
+  // Fall back to slug
+  return post.id.replace(/-/g, ' ').replace(/\.md$/, '');
+}
+
+function formatDate(date: Date | undefined): string {
+  if (!date) return '';
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+}
+---
+
+<BaseLayout>
+  <div class="intro">
+    <p>
+      I live in <a href="https://en.wikipedia.org/wiki/Ceres,_South_Africa">Ceres, South Africa</a> with my wife, Lauren, and four champs: Judah, Hosea, Avah and Ariah.
+    </p>
+    <p>
+      I'm a Software Engineering Lead with 15 years of experience, building online solutions.
+      I'm a problem solver with a keen interest in people, processes and clarity.
+      I've spent the last decade at Automattic and have helped grow and scale up WooCommerce teams. I write here occasionally and would love to chat to you. Feel free to reach out.
+    </p>
+    <p class="social-links">
+      <a href="mailto:dwain.maralack@gmail.com">Email</a> |
+      <a href="https://twitter.com/dwainm">Twitter</a> |
+      <a href="https://www.linkedin.com/in/dwainm/">LinkedIn</a> |
+      <a href="https://github.com/dwainm">Github</a>
+    </p>
+    <picture>
+      <source srcset="/images/blog/about-family.webp" type="image/webp" />
+      <img src="/images/blog/about-family.png" alt="Dwain's family. Parents and 4 Kids" class="family-photo" />
+    </picture>
+  </div>
+
+  <h2>Recent Posts</h2>
+  <ul class="post-list">
+    {sortedPosts.map(post => (
+      <li class="post-item">
+        <a href={`/${post.id}/`}>
+          <span class="post-title">{extractTitle(post)}</span>
+          <time datetime={post.data.date?.toISOString()}>{formatDate(post.data.date)}</time>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
+
+<style>
+  .intro {
+    margin-bottom: 2rem;
+  }
+
+  .intro p {
+    margin-bottom: 1rem;
+  }
+
+  .social-links {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .family-photo {
+    border-radius: 1rem;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: var(--text-muted);
+  }
+
+  .post-list {
+    list-style: none;
+  }
+
+  .post-item {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .post-item:last-child {
+    border-bottom: none;
+  }
+
+  .post-item a {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .post-item a:hover .post-title {
+    color: var(--accent);
+  }
+
+  .post-title {
+    flex: 1;
+  }
+
+  time {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+</style>
