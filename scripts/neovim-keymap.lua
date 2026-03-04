@@ -4,7 +4,7 @@
 
 local M = {}
 
-local blog_path = vim.fn.expand('~/projects/dwain.maralack.com-astro/src/content/blog/')
+local blog_path = vim.fn.expand('~/dwain.maralack.com/src/content/blog/')
 
 -- Convert title to slug: lowercase, spaces to hyphens, strip punctuation
 local function slugify(title)
