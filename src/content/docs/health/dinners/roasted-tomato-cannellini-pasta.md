@@ -13,6 +13,7 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Whole wheat or brown rice penne | ½ lb | |
+| Onion, diced | 1 medium | |
 | Vegetable stock or water | 2 tbsp | For sautéing |
 | Garlic, chopped | 6-8 cloves | Adjust to taste |
 | Cannellini beans | 1 box (13.4 oz) | Rinsed and drained |
@@ -27,13 +28,15 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 
 1. **Cook pasta**: In large pot, cook pasta in boiling water until al dente. Set aside.
 
-2. **Sauté garlic**: In medium pot, sauté garlic in vegetable stock or water over medium heat for 2-3 minutes.
+2. **Sauté onions and garlic**: In medium pot, sauté onions and garlic in vegetable stock or water over medium heat until browned.
 
-3. **Simmer sauce**: Stir in beans and tomatoes. Simmer on low for about 20 minutes.
+3. **Add stock**: Add vegetable stock or water as needed to deglaze.
 
-4. **Season**: Add salt, pepper, and red pepper flakes to taste.
+4. **Simmer sauce**: Stir in beans and tomatoes. Simmer on low for about 20 minutes.
 
-5. **Combine**: Stir in pasta and serve.
+5. **Season**: Add salt, pepper, and red pepper flakes to taste.
+
+6. **Combine**: Stir in pasta and serve.
 
 ---
 
