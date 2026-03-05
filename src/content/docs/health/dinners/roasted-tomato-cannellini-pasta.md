@@ -1,5 +1,8 @@
 ---
 title: "Roasted Tomato and Cannellini Bean Pasta"
+badge:
+  text: Kids Favourite
+  variant: success
 ---
 
 **Plant-based | Hearty | Easy to double | 30-minute meal**
