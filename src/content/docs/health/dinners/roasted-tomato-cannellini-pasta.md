@@ -18,6 +18,7 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 | Whole wheat or brown rice penne | 225g | |
 | Onion, diced | 1 medium | |
 | Brown mushrooms, sliced | 1 pack (250-390g) | |
+| Spinach | 1 bag | |
 | Capers | 1 tbsp | |
 | Vegetable stock or water | 2 tbsp | For sautéing |
 | Garlic, chopped | 6-8 cloves | Adjust to taste |
@@ -38,15 +39,17 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 
 3. **Add mushrooms**: Stir in sliced mushrooms and cook until browned.
 
-4. **Add capers**: Stir in capers.
+4. **Add spinach**: Stir in spinach and cook until wilted.
 
-5. **Add stock**: Add vegetable stock or water as needed to deglaze.
+5. **Add capers**: Stir in capers.
 
-6. **Simmer sauce**: Stir in beans and tomatoes. Simmer on low for about 20 minutes.
+6. **Add stock**: Add vegetable stock or water as needed to deglaze.
 
-7. **Season**: Add salt, pepper, and red pepper flakes to taste.
+7. **Simmer sauce**: Stir in beans and tomatoes. Simmer on low for about 20 minutes.
 
-8. **Combine**: Stir in pasta and serve.
+8. **Season**: Add salt, pepper, and red pepper flakes to taste.
+
+9. **Combine**: Stir in pasta and serve.
 
 ---
 
