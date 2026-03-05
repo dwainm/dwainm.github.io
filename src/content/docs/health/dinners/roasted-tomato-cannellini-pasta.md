@@ -12,14 +12,14 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Whole wheat or brown rice penne | ½ lb | |
+| Whole wheat or brown rice penne | 225g | |
 | Onion, diced | 1 medium | |
 | Brown mushrooms, sliced | 1 pack (250-390g) | |
 | Capers | 1 tbsp | |
 | Vegetable stock or water | 2 tbsp | For sautéing |
 | Garlic, chopped | 6-8 cloves | Adjust to taste |
-| Cannellini beans | 3 cans (13.4 oz each) | Rinsed and drained |
-| Fire roasted tomatoes | 1 can (15.5 oz) | Can also add 1 cup sundried tomato paste |
+| Cannellini beans | 3 cans (380g each) | Rinsed and drained |
+| Fire roasted tomatoes | 1 can (440g) | Can also add 1 cup sundried tomato paste |
 | Peeled tomatoes | 2 cans | |
 | Salt | To taste | |
 | Black pepper | To taste | |
