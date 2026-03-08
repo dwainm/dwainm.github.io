@@ -9,16 +9,17 @@ tags:
 
 ![Dal](/images/blog/dal.jpg "Dal")
 
-Two approaches to red lentil dal - one simple with a butter tadka, one vegan with coconut milk. Try both and pick your favourite.
+Three approaches to dal - try them and pick your favourite.
 
-## Ayurvedic Prep (For Both Recipes)
+## Prep (For All Recipes)
 
-Before cooking either recipe, skim the foam:
+Before cooking any recipe:
 
-1. Rinse red lentils until water runs clear
-2. Boil in water (no other ingredients yet)
-3. When foam rises, skim and discard it (2-3 times)
-4. This removes purines/uric acid - easier on joints and kidneys
+1. Wash lentils twice, draining the water each time
+2. On the third wash, leave the water in and transfer to cooking pot (prevents lentils sticking to vessel)
+3. Set aside to soak for 1 hour
+4. When cooking, boil in water (no other ingredients yet)
+5. When foam rises, skim and discard it (2-3 times) - this removes purines/uric acid, easier on joints and kidneys
 
 ---
 
@@ -99,10 +100,53 @@ More spiced, coconut-based, no butter. Gets richness from coconut milk and almon
 
 ---
 
+## Option 3: Restaurant-Style Dal Tadka
+
+*From [YouTube](https://www.youtube.com/watch?v=XzVxjs3PTm4)*
+
+The restaurant secret is a richer tadka with more aromatics, and optionally smoking the dal (dhungar method).
+
+### Ingredients (serves 4-6)
+
+**Dal:**
+- 1 cup toor dal (or mix of toor and masoor dal)
+- 3 cups water
+- ½ tsp turmeric
+- Salt to taste
+- 1 tomato, chopped
+- 1-inch ginger, chopped
+
+**Tadka:**
+- 2 tbsp ghee
+- 1 tsp cumin seeds
+- Pinch of hing (asafoetida)
+- 2-3 dry red chilies
+- 4-5 garlic cloves, sliced
+- 1 small onion, finely chopped
+- 1 tomato, chopped
+- ½ tsp red chili powder
+- ½ tsp coriander powder
+- Fresh coriander for garnish
+
+**Optional - Dhungar (Smoking):**
+- Small piece of charcoal
+- 1 tbsp ghee
+
+### Method
+
+1. After prep (see above), pressure cook dal with turmeric, salt, tomato, ginger and water for 3-4 whistles (or simmer 25-30 mins)
+2. Mash dal to creamy consistency
+3. **Tadka:** Heat ghee, add cumin seeds and let sizzle. Add hing, dry red chilies, garlic - sauté 1 minute. Add onions, cook until golden. Add tomatoes, cook 3-4 minutes. Add chili powder and coriander powder
+4. Pour hot tadka over dal, mix well
+5. **Optional dhungar:** Place small steel bowl in dal pot. Heat charcoal until red-hot, place in bowl. Pour 1 tbsp ghee over charcoal, immediately cover pot. Let smoke infuse 5-10 minutes
+6. Garnish with fresh coriander, serve with rice or roti
+
+---
+
 ## Notes
 
-- **Option 1** is simpler, more traditional - flavour comes from the tadka
-- **Option 2** is richer and more heavily spiced - no butter needed
-- Both benefit from the Ayurvedic foam-skimming step
-- Red lentils cook fast - great for busy days
-- Both improve overnight (good meal prep)
+- **Option 1** - Simple, minimal spices, flavour comes from the tadka
+- **Option 2** - Vegan, coconut-based, more heavily spiced
+- **Option 3** - Restaurant-style with richer tadka and optional smoking
+- All benefit from the washing/soaking and foam-skimming prep
+- All improve overnight (good meal prep)
