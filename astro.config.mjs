@@ -40,6 +40,10 @@ export default defineConfig({
           autogenerate: { directory: 'health/sides' },
         },
         {
+          label: 'Sauces',
+          autogenerate: { directory: 'health/sauces' },
+        },
+        {
           label: 'Treats',
           autogenerate: { directory: 'health/treats' },
         },

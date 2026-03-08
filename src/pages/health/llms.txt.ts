@@ -34,7 +34,7 @@ This is a personal health and recipe collection. All recipes are plant-forward, 
 
 `;
 
-  const categoryOrder = ['breakfasts', 'lunches', 'dinners', 'soups', 'sides', 'treats', 'specialmeals'];
+  const categoryOrder = ['breakfasts', 'lunches', 'dinners', 'soups', 'sides', 'sauces', 'treats', 'specialmeals'];
 
   for (const category of categoryOrder) {
     const recipes = categories[category];
