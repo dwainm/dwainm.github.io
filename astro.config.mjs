@@ -12,6 +12,10 @@ export default defineConfig({
       customCss: ['./src/styles/starlight.css'],
       sidebar: [
         {
+          label: '← Back to Blog',
+          link: '/',
+        },
+        {
           label: 'Overview',
           link: '/health/',
         },
