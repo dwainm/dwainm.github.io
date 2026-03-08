@@ -1,13 +1,6 @@
 ---
-title: "Dal"
-date: 2026-03-08
-tags:
-  - recipes
-  - dal
-  - cooking
+title: Dal
 ---
-
-![Dal](/images/blog/dal.jpg "Dal")
 
 Three approaches to dal - try them and pick your favourite.
 
