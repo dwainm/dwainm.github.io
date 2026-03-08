@@ -24,12 +24,17 @@ export default defineConfig({
           autogenerate: { directory: 'health/breakfasts' },
         },
         {
-          label: 'Lunches',
-          autogenerate: { directory: 'health/lunches' },
-        },
-        {
-          label: 'Dinners',
-          autogenerate: { directory: 'health/dinners' },
+          label: 'Meals',
+          items: [
+            {
+              label: 'Lunches',
+              autogenerate: { directory: 'health/lunches' },
+            },
+            {
+              label: 'Dinners',
+              autogenerate: { directory: 'health/dinners' },
+            },
+          ],
         },
         {
           label: 'Soups',

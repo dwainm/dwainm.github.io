@@ -34,7 +34,21 @@ This is a personal health and recipe collection. All recipes are plant-forward, 
 
 `;
 
-  const categoryOrder = ['breakfasts', 'lunches', 'dinners', 'soups', 'sides', 'sauces', 'treats', 'specialmeals'];
+  const categoryOrder = ['breakfasts', 'soups', 'sides', 'sauces', 'treats', 'specialmeals'];
+
+  const meals = [...(categories.lunches || []), ...(categories.dinners || [])];
+  if (meals.length > 0) {
+    output += '### Meals\n\n';
+    for (const recipe of meals.sort((a, b) => a.id.localeCompare(b.id))) {
+      if (recipe.id.toLowerCase().includes('readme') || recipe.id.endsWith('index')) continue;
+
+      const title = recipe.data.title || recipe.id.split('/').pop()?.replace(/-/g, ' ') || recipe.id;
+      const slug = recipe.id.replace(/^health\//, '');
+      output += `- [${title}](/health/${slug}/)\n`;
+    }
+
+    output += '\n';
+  }
 
   for (const category of categoryOrder) {
     const recipes = categories[category];
