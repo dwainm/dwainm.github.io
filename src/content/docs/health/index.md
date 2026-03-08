@@ -53,7 +53,7 @@ Our core rotation. These are automatic, repeatable, and scalable.
 - [Herbed Instant Pot Rice Pilaf](/health/sides/herbed-rice-pilaf/)
 - [Smoky Vegan Stuffed Mushrooms](/health/sides/smoky-stuffed-mushrooms/)
 
-## Treats (18)
+## Treats (19)
 
 - [Apple-Raisin Oatmeal Cookies](/health/treats/apple-raisin-oatmeal-cookies/)
 - [Banana Pancakes](/health/treats/banana-pancakes/)
@@ -62,6 +62,7 @@ Our core rotation. These are automatic, repeatable, and scalable.
 - [Chocolate Mousse Pie](/health/treats/chocolate-mousse-pie/)
 - [Cranberry Orange Pumpkin Muffins](/health/treats/cranberry-orange-pumpkin-muffins/)
 - [Frozen Chocolate Banana Treats](/health/treats/frozen-chocolate-banana-treats/)
+- [High-Protein Grapefruit Snack](/health/treats/high-protein-grapefruit-snack/)
 - [Healthy Bananas Foster](/health/treats/bananas-foster/)
 - [Mango Nice Cream](/health/treats/mango-nice-cream/)
 - [Perfect Vegan Carrot Cake](/health/treats/carrot-cake/)
