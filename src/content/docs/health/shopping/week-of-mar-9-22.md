@@ -8,6 +8,8 @@ sidebar:
 
 2-week shopping list from the menu plan, scaled for a family of 6.
 
+_Tip: checkboxes are interactive and saved in this browser._
+
 ## Produce
 
 - [ ] Onions: 18-22 medium
@@ -87,3 +89,32 @@ sidebar:
 - [ ] Walnuts: 800 g-1 kg
 - [ ] Chia/hemp/flax mix: 1-1.5 kg total
 - [ ] Salt, pepper, cumin, coriander, paprika, smoked paprika, chili powder, oregano, turmeric, curry powder/garam masala, garlic powder, onion powder: top up to full jars
+
+<script is:inline>
+  (() => {
+    const checkboxes = Array.from(
+      document.querySelectorAll('.sl-markdown-content li.task-list-item input[type="checkbox"]'),
+    );
+
+    if (checkboxes.length === 0) return;
+
+    const storageKey = `shopping-list:${window.location.pathname}`;
+    const saved = JSON.parse(window.localStorage.getItem(storageKey) || '{}');
+
+    const persist = () => {
+      const next = {};
+      checkboxes.forEach((checkbox, index) => {
+        const itemText = checkbox.parentElement?.textContent?.trim() || `item-${index}`;
+        next[itemText] = checkbox.checked;
+      });
+      window.localStorage.setItem(storageKey, JSON.stringify(next));
+    };
+
+    checkboxes.forEach((checkbox, index) => {
+      const itemText = checkbox.parentElement?.textContent?.trim() || `item-${index}`;
+      checkbox.disabled = false;
+      checkbox.checked = Boolean(saved[itemText]);
+      checkbox.addEventListener('change', persist);
+    });
+  })();
+</script>
