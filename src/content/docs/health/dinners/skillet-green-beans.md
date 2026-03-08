@@ -25,6 +25,7 @@ Sweet caramelized onions and crunchy toasted almonds add delicious depth to this
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Caramelize onions**: In large nonstick skillet, cook onions covered over low heat 10-15 minutes until tender, stirring occasionally and adding broth 1-2 tablespoons at a time as needed. Cook uncovered over medium-high 3-5 minutes until very tender and golden, stirring constantly. Add maple syrup the last 1 minute. Remove from heat; cover to keep warm.
 
 1. **Cook mushrooms and beans**: In large skillet, cook mushrooms over medium 3-4 minutes, stirring occasionally and adding broth as needed. Stir in green beans, thyme, and remaining broth. Bring to boiling; reduce heat. Simmer covered 6-8 minutes until beans are crisp-tender.

@@ -30,6 +30,7 @@ Bright aromas and bold flavors in this Chinese-inspired soup. Tart lemon juice m
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté vegetables**: Heat wok or large nonstick skillet over high. Add mushrooms, carrots, bell pepper, ginger, and garlic. Cook 5-7 minutes until lightly cooked, stirring frequently and adding water 1-2 tablespoons at a time as needed.
 
 1. **Add bok choy**: Stir in bok choy and a pinch of Sichuan pepper flakes (if using). Cook about 2 minutes until bok choy turns bright green. Add 7 cups water. Bring to boiling.

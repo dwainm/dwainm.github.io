@@ -20,6 +20,7 @@ Frozen bananas create the creamy base for this simple vanilla nice cream. Real v
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Scrape seeds**: Using small sharp knife, scrape seeds from vanilla bean.
 
 1. **Blend**: In food processor, combine vanilla seeds, frozen bananas, and ¼ cup milk. Cover and process until smooth, adding remaining milk as needed.

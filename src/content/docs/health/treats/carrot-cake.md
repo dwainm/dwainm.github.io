@@ -30,6 +30,7 @@ Perfectly moist carrot cake studded with raisins and naturally sweetened with da
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Soak dates**: Combine plant milk, dates, ¼ cup raisins, banana, and vanilla in bowl. Let stand 15 minutes until dates soften.
 
 1. **Preheat**: Oven to 350°F (175°C). Line 8-inch square baking pan with parchment paper.

@@ -27,6 +27,7 @@ Crispy, spicy cauliflower bites that satisfy the craving for buffalo wings—wit
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 450°F (230°C). Line 2 baking sheets with parchment paper.
 
 1. **Make batter**: In blender, combine brown rice flour, almond flour, tomato paste, garlic powder, onion powder, smoked paprika, parsley, and ⅔ cup water. Blend until smooth and thick.

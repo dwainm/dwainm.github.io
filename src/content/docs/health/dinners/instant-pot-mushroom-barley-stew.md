@@ -33,6 +33,7 @@ A beef-like stew that uses hulled barley for a meaty texture and satisfying mout
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Combine**: In 6-quart electric multicooker, combine first 13 ingredients (through sage).
 
 1. **Pressure cook**: Lock lid in place; set pressure valve to sealing. Cook on high pressure 20 minutes.

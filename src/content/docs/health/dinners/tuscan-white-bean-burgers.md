@@ -37,6 +37,7 @@ A good veggie burger should stick together without crumbling, fill your belly, a
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Pulse vegetables**: In food processor, combine first 7 ingredients (through garlic). Pulse into small bits.
 
 1. **Cook**: Transfer to large skillet. Cook over medium 15 minutes until moisture has cooked off, stirring frequently. Do not add liquid.

@@ -21,6 +21,7 @@ A simple, creamy sauce that works as a dressing, dip, spread, or topping. Just t
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Blend**: Purée beans, garlic, and tamari in food processor until very smooth.
 
 1. **Adjust consistency**: Add water as needed—more water for a thinner dressing, less for a thicker dip.

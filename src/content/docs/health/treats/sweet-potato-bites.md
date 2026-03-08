@@ -21,6 +21,7 @@ Based on an Okinawan recipe, these sweet potato bites were a staple—sweet pota
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Cook potatoes**: Boil or steam potatoes until tender.
 
 1. **Mash**: Drain and mash potatoes with sugar until smooth.

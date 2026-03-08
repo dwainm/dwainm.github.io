@@ -31,6 +31,7 @@ A hearty, satisfying pasta sauce that's packed with vegetables and red lentils. 
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté vegetables**: Heat olive oil in large skillet or Dutch oven. Add onion, celery, and carrot. Cook 5-10 minutes until softened.
 
 1. **Add aromatics**: Stir in garlic, cook 30 seconds until fragrant.

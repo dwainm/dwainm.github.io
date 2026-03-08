@@ -25,6 +25,7 @@ Classic fluffy pancakes made with mashed bananas for natural sweetness. The spar
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Mix dry**: In bowl, combine flour, baking powder, salt, and egg replacer.
 
 1. **Mix wet**: In separate bowl, mash bananas well. Stir in plant milk and sparkling water.

@@ -25,6 +25,7 @@ These cocoa-rich frozen bites are rolled in crunchy cereal for a wholesome twist
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Mash**: In large bowl, mash bananas with fork.
 
 1. **Mix**: Add cocoa powder, plant milk, maple syrup, vanilla, and peppermint (if using). Mash and stir to combine.

@@ -47,6 +47,7 @@ Rich, creamy, crowd-pleasing. Our go-to for impressing guests.
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté aromatics**: Melt butter, add onions, garlic, ginger. Cook until soft and golden
 1. **Toast spices**: Add butter chicken spice and bay leaves, cook 1 minute
 1. **Build base**: Add tomato paste, cook 2 minutes. Add whole tomatoes

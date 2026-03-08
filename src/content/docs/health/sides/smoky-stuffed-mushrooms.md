@@ -28,6 +28,7 @@ Melt-in-your-mouth mushroom caps are stuffed with a smoky, savory mixture of mas
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Grill vegetables**: Preheat grill pan over medium-high. Grill fennel and red onion 6-10 minutes until crisp-tender, turning once.
 
 1. **Chop**: Transfer vegetables to cutting board. Cool slightly and finely chop.

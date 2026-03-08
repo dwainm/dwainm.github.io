@@ -26,6 +26,7 @@ These baked falafels taste just as good as the fried original, without all the a
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Prep**: Preheat the oven to 400°F. Line a baking sheet with parchment paper.
 
 1. **Process**: Combine all ingredients (chickpeas, onion, garlic, parsley, arrowroot, coriander, cumin, salt, and pepper) in a food processor and process, leaving a little texture to the beans.

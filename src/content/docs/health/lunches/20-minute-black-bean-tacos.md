@@ -25,6 +25,7 @@ Sweet corn kernels and creamy avocado slices make these simple black bean tacos 
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Prep filling**: In a microwave-safe bowl, stir together beans, corn, taco seasoning, and ¼ cup water.
 
 1. **Microwave filling**: Cover and microwave 4-6 minutes or until heated through, stirring once. Lightly mash mixture to the texture of chunky refried beans, leaving some beans whole.

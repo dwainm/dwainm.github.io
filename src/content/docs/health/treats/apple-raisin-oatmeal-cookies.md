@@ -29,6 +29,7 @@ Perfect for hiking or satisfying a sweet tooth, these oversized cookies are deli
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F. Line two cookie sheets with parchment.
 
 1. **Mix wet**: In large bowl, combine banana, apple, peanut butter, maple syrup, milk, and vanilla.

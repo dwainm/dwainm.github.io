@@ -32,6 +32,7 @@ Loaded with veggies and fresh herbs, this Instant Pot rice pilaf is subtly sweet
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté spices**: Set Instant Pot to Sauté on Normal. Add cinnamon, bay leaf, and cumin seeds; cook uncovered 2 minutes, stirring frequently.
 
 1. **Sauté aromatics**: Add onion, garlic, and ginger; stir in ¼ cup water. Cook uncovered 5 minutes more, stirring frequently.

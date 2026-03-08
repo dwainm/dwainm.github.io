@@ -36,6 +36,7 @@ These Moroccan pancakes (called baghrir) are light, spongy crepes with a delicat
 
 ## Method
 
+1. Get all ingredients ready.
 ### Make the Pancakes
 
 1. **Activate yeast**: In large bowl, combine 1 cup warm water, yeast, and ½ tsp date paste. Cover with cloth; let stand 10 minutes until frothy.

@@ -27,6 +27,7 @@ A tender, berry-topped baked oatmeal casserole that feeds the whole family. Hear
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F (175°C)
 
 1. **Mix base**: In a 2-quart baking dish, combine oats, plant milk, raisins, maple syrup, vanilla, and cinnamon. Add ¾ cup water and mix well.

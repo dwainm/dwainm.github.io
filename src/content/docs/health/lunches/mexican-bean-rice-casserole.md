@@ -28,6 +28,7 @@ Classic beans and rice get a kick with ancho chile powder and cumin. A creamy No
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F.
 
 1. **Sauté vegetables**: In large saucepan over medium heat, sauté onion and bell pepper 7-8 minutes until onion browns. Add water 1-2 tbsp at a time to prevent sticking.

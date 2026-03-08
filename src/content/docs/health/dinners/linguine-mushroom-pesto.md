@@ -29,6 +29,7 @@ Fresh, filling, and full of flavor—this easy linguine comes together in just 2
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Cook pasta**: Cook pasta according to package directions. Reserve ½ cup pasta cooking water. Drain and return to pot.
 
 1. **Sauté mushrooms**: Meanwhile, in extra-large nonstick skillet, cook mushrooms and garlic over medium-high 5 minutes until tender and liquid evaporates, stirring occasionally.

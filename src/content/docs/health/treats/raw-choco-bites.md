@@ -24,6 +24,7 @@ These raw chocolate bites might look and taste decadent, but they're mainly made
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Prep**: Chop carrot into large pieces.
 
 1. **Process**: In food processor, blend carrots, figs, and dates 10-15 seconds until minced. Set aside.

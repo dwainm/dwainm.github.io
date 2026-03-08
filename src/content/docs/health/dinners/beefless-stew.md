@@ -29,6 +29,7 @@ A chunky, classic-style stew that delivers all the comfort of traditional beef s
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté vegetables**: In Dutch oven or soup pot, cook onions, carrots, and celery with 1 tablespoon water over medium-high heat for 8 minutes, stirring frequently and adding water 1-2 tablespoons at a time as needed to prevent sticking.
 
 1. **Add mushrooms**: Stir in mushrooms and garlic; cook 5 minutes more, stirring frequently and adding water as needed.

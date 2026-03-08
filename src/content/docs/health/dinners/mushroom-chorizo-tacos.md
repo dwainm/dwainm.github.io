@@ -41,6 +41,7 @@ A mix of mushrooms, walnuts, and chickpeas make a meaty vehicle for savory seaso
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Cook mushrooms**: In extra-large oven-safe skillet, cook mushrooms over medium-high 6-8 minutes until lightly browned and liquid has evaporated, stirring occasionally and adding water 1-2 tablespoons at a time as needed. (If using oil: Heat oil first, then add mushrooms.)
 
 1. **Make chorizo mixture**: In large bowl, stir together chili powder, ancho powder, cumin, oregano, coriander, garlic powder, paprika, and cinnamon. In food processor, combine mushrooms, chickpeas, walnuts, and lime juice. Pulse until chopped. Add to seasonings; stir well. Let stand.

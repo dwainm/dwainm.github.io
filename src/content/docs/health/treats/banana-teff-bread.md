@@ -29,6 +29,7 @@ A nourishing banana bread featuring teff—the world's tiniest whole grain. This
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F (175°C). Line 8x4-inch loaf pan with parchment paper.
 
 1. **Mash bananas**: In bowl, mash bananas with fork until mostly smooth.

@@ -30,6 +30,7 @@ Sink your teeth into meaty portobello mushrooms roasted in garlicky soy sauce. S
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 400°F. Line extra-large rimmed baking sheet with parchment.
 
 1. **Prep mushrooms**: Place mushrooms on baking sheet, stem side up.

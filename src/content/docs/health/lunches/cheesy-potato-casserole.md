@@ -27,6 +27,7 @@ Transform ordinary steamed potatoes into this comforting hash brown–inspired p
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Steam potatoes**: Place whole potatoes in steamer basket over boiling water. Steam covered 10-15 minutes until tender. (Microwave option: prick potatoes, microwave 5 minutes, flip, microwave 5 more minutes.) Let cool, then roughly chop.
 
 1. **Make sauce**: In large bowl, whisk together vinegar and tahini. Whisk in milk, nutritional yeast, smoked paprika, and salt.

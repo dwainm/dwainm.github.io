@@ -29,6 +29,7 @@ These little snackles are great for packing in lunches, curbing midmorning cravi
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F. Line baking sheet with parchment.
 
 1. **Mix dry**: In large bowl, combine oats, oat flour, raisins, coconut, baking powder, cinnamon, zest, salt, and nutmeg.

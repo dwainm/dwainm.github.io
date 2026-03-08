@@ -34,6 +34,7 @@ Tender spaghetti squash strands hold up against a hearty homemade red sauce pack
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Bake squash**: Preheat oven to 350°F. Place spaghetti squash cut sides down on baking sheet. Bake 45-55 minutes until tender. Cool slightly, then shred flesh into strands with two forks. Leave in skins for serving.
 
 1. **Make sauce**: In large saucepan, cook onion, carrot, and garlic over medium 3-4 minutes until tender, stirring occasionally and adding wine 1-2 tbsp at a time as needed to prevent sticking.

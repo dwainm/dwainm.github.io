@@ -30,6 +30,7 @@ Umami-rich mushrooms and earthy asparagus are the dream team in this classic Ita
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Warm broth**: In medium saucepan, combine broth and 3 cups water. Bring to boiling; reduce heat to keep warm.
 
 1. **Sauté vegetables**: In 4- to 5-quart Dutch oven, cook mushrooms, onion, and garlic over medium 5-6 minutes, stirring occasionally and adding hot broth 1-2 tablespoons at a time as needed to prevent sticking.

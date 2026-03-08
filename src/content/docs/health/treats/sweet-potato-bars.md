@@ -31,6 +31,7 @@ Moist bars packed with warming spices and velvety sweet potato puree. Toasted ha
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Make flax egg**: Stir together flaxseed meal and 3 tbsp water. Let stand 10 minutes.
 
 1. **Preheat**: Oven to 350°F. Line 8-inch square pan with parchment, extending over edges.

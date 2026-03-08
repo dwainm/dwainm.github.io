@@ -27,6 +27,7 @@ A quick and easy pasta dish that comes together in 20 minutes using pantry stapl
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Cook pasta**: Bring large pot of water to boil. Cook penne according to package instructions. Drain well and set aside.
 
 1. **Sauté vegetables**: Meanwhile, sauté onions and mushrooms in large saucepan over medium heat, stirring occasionally, until onions turn brown and translucent, 7-8 minutes. Add water 1-2 tablespoons at a time as needed to prevent sticking.

@@ -43,6 +43,7 @@ Hearty, rustic, winter comfort. Mixed meats for depth of flavor.
 
 ## Method
 
+1. Get all ingredients ready.
 ### Brown
 1. **Sear lamb first**: Brown in batches (takes longer, needs head start)
 1. **Remove lamb**, sear beef

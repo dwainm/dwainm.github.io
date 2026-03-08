@@ -53,6 +53,7 @@ Mix together:
 
 ## Method
 
+1. Get all ingredients ready.
 ### Prep
 1. **Trim lamb**: Cut fat from meat, set fat aside
 1. **Spice meat**: Rub spice blend over lamb cubes, set aside

@@ -53,6 +53,7 @@ Minimal spices in the dal itself. The magic is in the tadka.
 
 ### Method
 
+1. Get all ingredients ready.
 1. After skimming foam (see above), add tomatoes, ginger-garlic paste, turmeric, salt
 1. Simmer covered ~20 minutes until creamy
 1. Mash lightly with a ladle
@@ -90,6 +91,7 @@ More spiced, coconut-based, no butter. Gets richness from coconut milk and almon
 
 ### Method
 
+1. Get all ingredients ready.
 1. After skimming foam from lentils (see above), set aside
 1. Heat coconut oil, sauté garlic, ginger, peppers for 1-2 minutes
 1. Add all ground spices, stir 1 minute to bloom
@@ -134,6 +136,7 @@ The restaurant secret is a richer tadka with more aromatics, and optionally smok
 
 ### Method
 
+1. Get all ingredients ready.
 1. After prep (see above), pressure cook dal with turmeric, salt, tomato, ginger and water for 3-4 whistles (or simmer 25-30 mins)
 1. Mash dal to creamy consistency
 1. **Tadka:** Heat ghee, add cumin seeds and let sizzle. Add hing, dry red chilies, garlic - sauté 1 minute. Add onions, cook until golden. Add tomatoes, cook 3-4 minutes. Add chili powder and coriander powder

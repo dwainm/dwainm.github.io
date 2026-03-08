@@ -39,6 +39,7 @@ A stunning tart that uses two types of sweet potatoes for a beautiful end result
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Make crust**: Preheat oven to 400°F. In food processor, combine oats, flaxseed meal, almond butter, and 1¼ tsp pumpkin pie spice. Pulse until combined. With processor running, slowly add milk until mixture clings together and is slightly moistened. Press onto bottom and up sides of 10-inch tart pan. Bake 8 minutes. Remove and reduce oven to 350°F.
 
 1. **Make orange sauce**: In small saucepan, combine orange juice, dates, and remaining ¼ tsp pumpkin pie spice. Bring to boiling; reduce to gentle boil 7-10 minutes until reduced by half (to ½ cup). Set aside 2 tablespoons.

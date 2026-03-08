@@ -29,6 +29,7 @@ This gorgeous dish takes vegan mac and cheese to a whole new level. Pasta and an
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Roast tomatoes**: Preheat oven to 450°F. Line a 15x10-inch baking pan with parchment paper. Spread tomatoes in prepared pan. Roast 10-12 minutes or until lightly browned and skins begin to pop. Season with black pepper.
 
 1. **Cook pasta**: Cook pasta according to package directions; drain. Return pasta to pot. Add Queso Sauce; toss to coat, adding water, 1 Tbsp. at a time, as needed to make creamy.

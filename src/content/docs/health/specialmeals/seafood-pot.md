@@ -52,6 +52,7 @@ Coastal flavors, quick cooking, impressive results. Friday night special.
 
 ## Method
 
+1. Get all ingredients ready.
 ### Build the Base
 1. **Render bacon**: Cook slowly to release fat, until crispy
 1. **Sauté vegetables**: In bacon fat, cook onions and peppers until soft

@@ -36,6 +36,7 @@ A creative take on classic hash browns using a waffle iron. Shredded carrots and
 
 ## Method
 
+1. Get all ingredients ready.
 ### Make the Bean Topping
 
 1. **Simmer base**: In medium saucepan, combine sliced onion, tomato paste, thyme, bay leaf, 1 minced garlic clove, cayenne, and 1½ cups water. Bring to boil, reduce heat, simmer uncovered 15 minutes.

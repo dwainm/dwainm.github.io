@@ -28,6 +28,7 @@ These wholesome muffins are packed with pumpkin, orange zest, and cranberries. T
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F. Line muffin tin with silicone cups or parchment liners.
 
 1. **Blend wet**: In food processor with "S" blade, process bananas and orange juice until smooth. Add pumpkin, date paste, vanilla, zest, flax seeds, and spice. Process until smooth and creamy.

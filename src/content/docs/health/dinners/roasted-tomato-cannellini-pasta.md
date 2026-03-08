@@ -25,6 +25,7 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Cook pasta**: In large pot, cook pasta in boiling water until al dente. Set aside.
 
 1. **Sauté garlic**: In medium pot, sauté garlic in vegetable stock or water over medium heat for 2-3 minutes.

@@ -28,6 +28,7 @@ Smoked paprika gives this classic dish an unmistakably smoky flavor, while fresh
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté onion**: In a large skillet, cook onion over medium heat for 3 minutes or until tender, stirring occasionally and adding water 1-2 tablespoons at a time as needed to prevent sticking.
 
 1. **Add aromatics**: Stir in garlic and smoked paprika. Cook and stir for 1 minute.

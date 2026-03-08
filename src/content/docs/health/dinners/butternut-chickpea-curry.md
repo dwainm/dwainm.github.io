@@ -32,6 +32,7 @@ A creamy, satisfying curry that uses butternut instead of pumpkin for natural sw
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Sauté aromatics**: Heat 2 tbsp water or broth in large pot. Sauté onion 5 minutes until soft. Add garlic and ginger, cook 1 minute.
 
 1. **Toast spices**: Add curry powder, cumin, turmeric, and cayenne. Stir 30 seconds until fragrant.

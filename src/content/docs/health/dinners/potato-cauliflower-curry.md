@@ -32,6 +32,7 @@ A classic Indian curry combining tender potatoes, cauliflower, and peas in a cre
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Steam cauliflower**: Place in steamer basket over boiling water. Cover and steam 5 minutes until crisp-tender. Transfer to bowl.
 
 1. **Steam potatoes**: Add to same steamer basket, cover, and steam 10 minutes until tender. Add to bowl with cauliflower. Drain water from pan.

@@ -32,6 +32,7 @@ A nourishing, warming casserole where potatoes, cauliflower, and vegetables bake
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Make spice mix**: In small bowl, stir together cumin, salt, ginger, turmeric, cayenne, and cinnamon. Set aside.
 
 1. **Preheat**: Oven to 375°F (190°C).

@@ -25,6 +25,7 @@ Gorgeous jewel-tone carrots coated in warming cardamom, cinnamon, and cayenne. R
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 400°F. Line large rimmed baking sheet with parchment or silicone mat.
 
 1. **Prep glaze**: In small bowl, whisk together lemon juice, tahini, cardamom, cinnamon, cayenne, and ¼ cup water.

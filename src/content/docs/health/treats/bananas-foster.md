@@ -22,6 +22,7 @@ Sweet, cinnamon-dusted bananas that are gooey inside and crisp outside. This hea
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Turn on broiler.
 
 1. **Make glaze**: In small bowl, whisk together maple syrup, vanilla, and cinnamon.

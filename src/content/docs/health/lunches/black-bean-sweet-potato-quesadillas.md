@@ -28,6 +28,7 @@ A regular with the Engine 2 plant-strong Hall family. These quesadillas are simp
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Bake sweet potato**: Preheat oven to 375°F. Peel and quarter sweet potato. Bake 45 minutes to 1 hour until soft.
 
 1. **Make filling**: Mash sweet potato in mixing bowl with salsa, rice, and spinach. Transfer to saucepan and mix in black beans and refried beans. Heat over medium, adding onion powder, chili powder, and cumin to taste.

@@ -30,6 +30,7 @@ A warming quinoa and apple breakfast casserole that serves four. Orange- and gin
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Reserve garnishes**: Set aside ¼ cup cherries and 2 tbsp walnuts. Store in refrigerator.
 
 1. **Mix quinoa layer**: In bowl, stir together ¼ cup remaining cherries, remaining walnuts, quinoa, ¾ cup dates, ½ cup orange juice, 1½ tsp zest, ginger, cinnamon, and salt. Add oil if using.

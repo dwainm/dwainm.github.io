@@ -25,6 +25,7 @@ Rich, chewy, densely chocolaty brownies made with—you guessed it—black beans
 
 ## Method
 
+1. Get all ingredients ready.
 1. **Preheat**: Oven to 350°F. Line 8-9 inch round cake pan with parchment paper or use silicone pan.
 
 1. **Process beans**: Combine beans, date syrup, and cocoa powder in food processor. Process just until smooth.
