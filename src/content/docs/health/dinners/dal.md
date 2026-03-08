@@ -2,6 +2,8 @@
 title: Dal
 ---
 
+![Dal](/images/health/dal.jpg)
+
 Three approaches to dal - try them and pick your favourite.
 
 ## Prep (For All Recipes)
