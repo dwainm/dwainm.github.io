@@ -1,5 +1,9 @@
 ---
 title: "Penne with Tomato-Mushroom Sauce"
+sidebar:
+  badge:
+    text: "Quick"
+    variant: success
 ---
 
 **Plant-based | 20 minutes | Pantry-friendly | Creamy**

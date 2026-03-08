@@ -13,7 +13,7 @@ Our core rotation. These are automatic, repeatable, and scalable.
 - [Whole Grain Pancakes](/health/breakfasts/pancakes/)
 - [Whole Grain Toast](/health/breakfasts/whole-grain-toast/)
 
-## Lunches (6)
+## Meals (24)
 
 - [20-Minute Black Bean Tacos](/health/lunches/20-minute-black-bean-tacos/)
 - [Black Bean and Sweet Potato Quesadillas](/health/lunches/black-bean-sweet-potato-quesadillas/)
@@ -21,9 +21,6 @@ Our core rotation. These are automatic, repeatable, and scalable.
 - [Mexican Bean and Rice Casserole](/health/lunches/mexican-bean-rice-casserole/)
 - [Shredded Portobello Open-Face Sandwiches](/health/lunches/portobello-open-face-sandwiches/)
 - [Waffled Hash Browns with Spicy White Beans](/health/lunches/waffled-hash-browns/)
-
-## Dinners (18)
-
 - [Best-Ever Beefless Stew](/health/dinners/beefless-stew/)
 - [Butternut Chickpea Curry](/health/dinners/butternut-chickpea-curry/)
 - [Easy Vegan Paella](/health/dinners/vegan-paella/)

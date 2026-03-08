@@ -1,5 +1,9 @@
 ---
 title: "20-Minute Black Bean Tacos"
+sidebar:
+  badge:
+    text: "Quick"
+    variant: success
 ---
 
 **Plant-based | 20 minutes | Quick & Easy | Mexican | Microwave-friendly**

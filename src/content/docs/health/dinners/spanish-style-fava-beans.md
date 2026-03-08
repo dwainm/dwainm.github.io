@@ -1,5 +1,9 @@
 ---
 title: "Spanish-Style Fava Beans"
+sidebar:
+  badge:
+    text: "Quick"
+    variant: success
 ---
 
 **Plant-based | 25 minutes | Gluten-free | One-pot | Spanish**

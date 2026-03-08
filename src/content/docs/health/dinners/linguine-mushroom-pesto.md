@@ -1,5 +1,9 @@
 ---
 title: "Linguine with Mushroom Pesto"
+sidebar:
+  badge:
+    text: "Quick"
+    variant: success
 ---
 
 **Plant-based | 25 minutes | Italian-inspired | 30-minute meal**

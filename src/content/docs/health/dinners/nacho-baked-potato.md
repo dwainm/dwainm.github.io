@@ -1,5 +1,9 @@
 ---
 title: "Nacho Baked Potato"
+sidebar:
+  badge:
+    text: "Quick"
+    variant: success
 ---
 
 **Plant-based | Quick & easy | Filling | Nutritious**
