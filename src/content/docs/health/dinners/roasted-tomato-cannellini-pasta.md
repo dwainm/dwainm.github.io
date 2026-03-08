@@ -21,6 +21,9 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 | Garlic, chopped | 6-8 cloves | Adjust to taste |
 | Cannellini beans | 1 box (13.4 oz) | Rinsed and drained |
 | Fire roasted tomatoes | 1 can (15.5 oz) | |
+| Brown mushrooms | 2 punnets | Sliced |
+| Kale | 1 cup | Chopped |
+| Spinach | 1 cup | |
 | Salt | To taste | |
 | Black pepper | To taste | |
 | Crushed red pepper flakes | To taste | Optional |
@@ -32,9 +35,13 @@ A simple, satisfying pasta dish with roasted tomatoes and creamy cannellini bean
 1. Get all ingredients ready.
 1. **Cook pasta**: In large pot, cook pasta in boiling water until al dente. Set aside.
 
+1. **Fry mushrooms**: In separate pan, fry sliced mushrooms until golden. Add kale and spinach, cook until wilted. Set aside.
+
 1. **Sauté garlic**: In medium pot, sauté garlic in vegetable stock or water over medium heat for 2-3 minutes.
 
 1. **Simmer sauce**: Stir in beans and tomatoes. Simmer on low for about 20 minutes.
+
+1. **Add mushroom mix**: Stir in the fried mushrooms, kale and spinach.
 
 1. **Season**: Add salt, pepper, and red pepper flakes to taste.
 
