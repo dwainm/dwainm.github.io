@@ -53,6 +53,10 @@ export default defineConfig({
           autogenerate: { directory: 'health/treats' },
         },
         {
+          label: 'Shopping Lists',
+          autogenerate: { directory: 'health/shopping' },
+        },
+        {
           label: 'Special Meals',
           autogenerate: { directory: 'health/specialmeals' },
         },

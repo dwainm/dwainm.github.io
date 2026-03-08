@@ -75,6 +75,10 @@ Our core rotation. These are automatic, repeatable, and scalable.
 - [Vegan Apple Pie](/health/treats/apple-pie/)
 - [Wholesome Oat Snackles](/health/treats/oat-snackles/)
 
+## Shopping Lists (1)
+
+- [Week of Mar 9-22](/health/shopping/week-of-mar-9-22/)
+
 ## Special Meals (5)
 
 - [Butter Chicken Curry](/health/specialmeals/butter-chicken/)
