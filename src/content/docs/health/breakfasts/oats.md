@@ -157,7 +157,7 @@ Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oa
 | Sliced banana | 1 medium | ~105 cal |
 | Ground flaxseed | 1 tbsp | Omega-3, ~55 cal |
 | Chopped walnuts | 1 tbsp | Use sparingly, ~50 cal |
-| Unsweetened applesauce | ½ cup | ~50 cal |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | ½ cup | ~50 cal |
 | Chopped dates | 2-3 | Natural sweetness |
 | Cinnamon | generous | 0 cal, helps blood sugar |
 

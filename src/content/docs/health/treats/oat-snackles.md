@@ -21,7 +21,7 @@ These little snackles are great for packing in lunches, curbing midmorning cravi
 | Lemon or orange zest | 1 tsp | Optional but recommended |
 | Sea salt | ¼ tsp | |
 | Freshly grated nutmeg | Few pinches | Optional |
-| Unsweetened applesauce | ½ cup | Or mashed banana |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | ½ cup | Or mashed banana |
 | Pure maple syrup | ¼ cup | |
 | Non-dairy chocolate chips | 2-3 tbsp | Optional |
 

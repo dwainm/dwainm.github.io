@@ -70,7 +70,7 @@ Weekend breakfast for the family. No refined flour, no added oil, still deliciou
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Plant milk (unsweetened) | 2 cups | |
-| Applesauce (unsweetened) | ½ cup | Replaces oil and eggs |
+| [Applesauce](/health/sauces/applesauce/) (unsweetened) | ½ cup | Replaces oil and eggs |
 | Maple syrup | 2 tbsp | Optional, for sweetness |
 | Vanilla extract | 1 tsp | |
 | Apple cider vinegar | 1 tbsp | Reacts with baking soda |
@@ -93,7 +93,7 @@ Weekend breakfast for the family. No refined flour, no added oil, still deliciou
 | Sliced banana | 1 medium | |
 | Stewed apples | ½ cup | Cinnamon-cooked, no sugar |
 | Pure maple syrup | 1 tbsp | Use sparingly |
-| Unsweetened applesauce | ½ cup | Zero added sugar option |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | ½ cup | Zero added sugar option |
 | Nut butter drizzle | 1 tsp | Thinned with hot water |
 | Chopped walnuts | 1 tbsp | For crunch |
 

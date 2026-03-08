@@ -18,7 +18,7 @@ Moist bars packed with warming spices and velvety sweet potato puree. Toasted ha
 | Ground nutmeg | ¼ tsp | |
 | Sea salt | ¼ tsp | |
 | Mashed sweet potato | 1 cup | See note below |
-| Unsweetened applesauce | 1 cup | |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | 1 cup | |
 | Plant-based milk | ¾ cup | Unsweetened, unflavored |
 | Pure maple syrup | 2 tbsp | |
 | Apple cider vinegar | 1 tbsp | |

@@ -126,7 +126,7 @@ The key to a satisfying smoothie bowl is texture contrast.
 | Ingredient | Amount |
 |------------|--------|
 | Rolled oats | 3 cups |
-| Unsweetened applesauce | ½ cup |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | ½ cup |
 | Maple syrup | ¼ cup |
 | Cinnamon | 1 tsp |
 | Vanilla extract | 1 tsp |

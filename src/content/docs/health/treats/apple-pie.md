@@ -23,7 +23,7 @@ A fruity, crumbly apple pie with an oat-based crust and almond butter crumble to
 |------------|--------|-------|
 | Apples | 6 medium | Peeled, cored, sliced (6 cups) |
 | Lemon juice | 2 tbsp | |
-| Unsweetened applesauce | ½ cup | |
+| Unsweetened [applesauce](/health/sauces/applesauce/) | ½ cup | |
 | Dates | ¼ cup | Pitted, chopped |
 | Apple cider | ¼ cup | |
 | Apple pie spice | 1 tbsp | |
