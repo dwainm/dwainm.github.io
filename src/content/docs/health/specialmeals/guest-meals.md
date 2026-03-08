@@ -7,9 +7,9 @@ For hosting and bringing food to others. These feel special without being stress
 ## Principles for Guest Meals
 
 1. **Familiar flavors** — No "weird health food" signals
-2. **Modular when possible** — Base + optional meat addition
-3. **Make-ahead friendly** — Less stress day-of
-4. **Travel well** — For bringing to others
+1. **Modular when possible** — Base + optional meat addition
+1. **Make-ahead friendly** — Less stress day-of
+1. **Travel well** — For bringing to others
 
 ## The 10
 
@@ -56,10 +56,10 @@ OPTIONAL ADD-ON
 ## Rules for Guest Meals
 
 1. Must be tested on family first
-2. Must work with or without meat
-3. Must be mostly make-ahead
-4. Must not require exotic ingredients
-5. No more than 10 total
+1. Must work with or without meat
+1. Must be mostly make-ahead
+1. Must not require exotic ingredients
+1. No more than 10 total
 
 ---
 

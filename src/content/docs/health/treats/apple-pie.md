@@ -43,13 +43,13 @@ A fruity, crumbly apple pie with an oat-based crust and almond butter crumble to
 
 1. **Make crust**: Preheat oven to 350°F. Soak ½ cup dates in boiling water 10 minutes; drain. In food processor, combine soaked dates, 2½ cups oats, and salt. Pulse until dates are finely chopped. Gradually add milk, pulsing until dough comes together. Press into 9-inch pie pan, covering bottom and sides (don't extend over rim).
 
-2. **Prep filling**: In large bowl, combine apples and lemon juice; toss to coat. Add applesauce, chopped dates, apple cider, and 1 tablespoon apple pie spice.
+1. **Prep filling**: In large bowl, combine apples and lemon juice; toss to coat. Add applesauce, chopped dates, apple cider, and 1 tablespoon apple pie spice.
 
-3. **Cook filling**: Place apple mixture in extra-large skillet. Cook covered over medium about 10 minutes until apples are tender, stirring occasionally. Pour into piecrust.
+1. **Cook filling**: Place apple mixture in extra-large skillet. Cook covered over medium about 10 minutes until apples are tender, stirring occasionally. Pour into piecrust.
 
-4. **Make topping**: Whisk together maple syrup and almond butter until smooth. Add remaining ½ cup oats, ¼ teaspoon apple pie spice, and flour. Toss to combine. Spoon over pie, lightly pressing down.
+1. **Make topping**: Whisk together maple syrup and almond butter until smooth. Add remaining ½ cup oats, ¼ teaspoon apple pie spice, and flour. Toss to combine. Spoon over pie, lightly pressing down.
 
-5. **Bake**: Bake 45 minutes until crust and topping are lightly browned and filling is bubbling around edges. Let cool before cutting.
+1. **Bake**: Bake 45 minutes until crust and topping are lightly browned and filling is bubbling around edges. Let cool before cutting.
 
 ---
 

@@ -29,15 +29,15 @@ A tender, berry-topped baked oatmeal casserole that feeds the whole family. Hear
 
 1. **Preheat**: Oven to 350°F (175°C)
 
-2. **Mix base**: In a 2-quart baking dish, combine oats, plant milk, raisins, maple syrup, vanilla, and cinnamon. Add ¾ cup water and mix well.
+1. **Mix base**: In a 2-quart baking dish, combine oats, plant milk, raisins, maple syrup, vanilla, and cinnamon. Add ¾ cup water and mix well.
 
-3. **Top**: Scatter raspberries, blueberries, and sliced almonds over the oatmeal mixture.
+1. **Top**: Scatter raspberries, blueberries, and sliced almonds over the oatmeal mixture.
 
-4. **Bake**: 40 minutes until bubbly around edges and heated through. Center should be set but still moist.
+1. **Bake**: 40 minutes until bubbly around edges and heated through. Center should be set but still moist.
 
-5. **Rest**: Let stand 10 minutes before serving (helps it set).
+1. **Rest**: Let stand 10 minutes before serving (helps it set).
 
-6. **Serve**: Warm, with optional drizzle of plant milk and extra maple syrup.
+1. **Serve**: Warm, with optional drizzle of plant milk and extra maple syrup.
 
 ---
 

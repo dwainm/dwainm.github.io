@@ -31,17 +31,17 @@ A nourishing banana bread featuring teff—the world's tiniest whole grain. This
 
 1. **Preheat**: Oven to 350°F (175°C). Line 8x4-inch loaf pan with parchment paper.
 
-2. **Mash bananas**: In bowl, mash bananas with fork until mostly smooth.
+1. **Mash bananas**: In bowl, mash bananas with fork until mostly smooth.
 
-3. **Wet ingredients**: Stir in plant milk, vinegar, and vanilla until well mixed.
+1. **Wet ingredients**: Stir in plant milk, vinegar, and vanilla until well mixed.
 
-4. **Dry ingredients**: In separate bowl, stir together teff flour, sugar, walnuts, baking powder, baking soda, cinnamon, and salt.
+1. **Dry ingredients**: In separate bowl, stir together teff flour, sugar, walnuts, baking powder, baking soda, cinnamon, and salt.
 
-5. **Combine**: Add wet mixture to dry ingredients. Gently fold until just combined—don't overmix.
+1. **Combine**: Add wet mixture to dry ingredients. Gently fold until just combined—don't overmix.
 
-6. **Bake**: Pour batter into prepared pan. Sprinkle raisins on top. Bake 40-45 minutes until toothpick inserted in center comes out clean.
+1. **Bake**: Pour batter into prepared pan. Sprinkle raisins on top. Bake 40-45 minutes until toothpick inserted in center comes out clean.
 
-7. **Cool**: Let loaf cool completely before slicing (this is important—teff bread slices better when fully cooled).
+1. **Cool**: Let loaf cool completely before slicing (this is important—teff bread slices better when fully cooled).
 
 ---
 

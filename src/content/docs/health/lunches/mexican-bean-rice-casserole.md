@@ -30,15 +30,15 @@ Classic beans and rice get a kick with ancho chile powder and cumin. A creamy No
 
 1. **Preheat**: Oven to 350°F.
 
-2. **Sauté vegetables**: In large saucepan over medium heat, sauté onion and bell pepper 7-8 minutes until onion browns. Add water 1-2 tbsp at a time to prevent sticking.
+1. **Sauté vegetables**: In large saucepan over medium heat, sauté onion and bell pepper 7-8 minutes until onion browns. Add water 1-2 tbsp at a time to prevent sticking.
 
-3. **Add aromatics**: Add garlic and cook 4 minutes. Add cumin and chile powder, cook 30 seconds more. Remove from heat.
+1. **Add aromatics**: Add garlic and cook 4 minutes. Add cumin and chile powder, cook 30 seconds more. Remove from heat.
 
-4. **Combine**: Add cooked rice, zucchini, black beans, corn, and No-Cheese Sauce. Mix well.
+1. **Combine**: Add cooked rice, zucchini, black beans, corn, and No-Cheese Sauce. Mix well.
 
-5. **Bake**: Spoon mixture into 8×8-inch baking dish. Bake 25 minutes until bubbly.
+1. **Bake**: Spoon mixture into 8×8-inch baking dish. Bake 25 minutes until bubbly.
 
-6. **Serve**: Garnish with fresh cilantro.
+1. **Serve**: Garnish with fresh cilantro.
 
 ---
 

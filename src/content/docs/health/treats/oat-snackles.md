@@ -31,15 +31,15 @@ These little snackles are great for packing in lunches, curbing midmorning cravi
 
 1. **Preheat**: Oven to 350°F. Line baking sheet with parchment.
 
-2. **Mix dry**: In large bowl, combine oats, oat flour, raisins, coconut, baking powder, cinnamon, zest, salt, and nutmeg.
+1. **Mix dry**: In large bowl, combine oats, oat flour, raisins, coconut, baking powder, cinnamon, zest, salt, and nutmeg.
 
-3. **Add wet**: Add applesauce, maple syrup, and chocolate chips. Stir until well incorporated.
+1. **Add wet**: Add applesauce, maple syrup, and chocolate chips. Stir until well incorporated.
 
-4. **Scoop**: Use cookie scoop or spoon (1-1½ tbsp size) to place mounds on baking sheet.
+1. **Scoop**: Use cookie scoop or spoon (1-1½ tbsp size) to place mounds on baking sheet.
 
-5. **Bake**: 14-15 minutes until lightly golden.
+1. **Bake**: 14-15 minutes until lightly golden.
 
-6. **Cool**: Let cool on pan 1 minute, then transfer to cooling rack.
+1. **Cool**: Let cool on pan 1 minute, then transfer to cooling rack.
 
 ---
 

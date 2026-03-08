@@ -30,17 +30,17 @@ Melt-in-your-mouth mushroom caps are stuffed with a smoky, savory mixture of mas
 
 1. **Grill vegetables**: Preheat grill pan over medium-high. Grill fennel and red onion 6-10 minutes until crisp-tender, turning once.
 
-2. **Chop**: Transfer vegetables to cutting board. Cool slightly and finely chop.
+1. **Chop**: Transfer vegetables to cutting board. Cool slightly and finely chop.
 
-3. **Make filling**: In medium bowl, stir together beans, dates, lemon juice, cumin, paprika, and coriander. Mash beans with fork until chunky. Stir in chopped fennel and onion. Season with salt and pepper.
+1. **Make filling**: In medium bowl, stir together beans, dates, lemon juice, cumin, paprika, and coriander. Mash beans with fork until chunky. Stir in chopped fennel and onion. Season with salt and pepper.
 
-4. **Prep mushrooms**: Remove any stems from mushrooms.
+1. **Prep mushrooms**: Remove any stems from mushrooms.
 
-5. **Stuff**: Spoon bean mixture into mushroom caps.
+1. **Stuff**: Spoon bean mixture into mushroom caps.
 
-6. **Grill**: Grill stuffed mushrooms over medium-high 10-12 minutes until tender and they release most of their liquid.
+1. **Grill**: Grill stuffed mushrooms over medium-high 10-12 minutes until tender and they release most of their liquid.
 
-7. **Garnish**: Top with fennel fronds and serve warm.
+1. **Garnish**: Top with fennel fronds and serve warm.
 
 ---
 

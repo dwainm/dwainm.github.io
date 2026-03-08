@@ -33,15 +33,15 @@ A hearty, satisfying pasta sauce that's packed with vegetables and red lentils. 
 
 1. **Sauté vegetables**: Heat olive oil in large skillet or Dutch oven. Add onion, celery, and carrot. Cook 5-10 minutes until softened.
 
-2. **Add aromatics**: Stir in garlic, cook 30 seconds until fragrant.
+1. **Add aromatics**: Stir in garlic, cook 30 seconds until fragrant.
 
-3. **Bloom tomato paste**: Stir in tomato paste, cook 1 minute.
+1. **Bloom tomato paste**: Stir in tomato paste, cook 1 minute.
 
-4. **Add tomatoes and seasonings**: Add tomato sauce, diced tomatoes with juice, basil, oregano, baking soda, and salt/pepper.
+1. **Add tomatoes and seasonings**: Add tomato sauce, diced tomatoes with juice, basil, oregano, baking soda, and salt/pepper.
 
-5. **Add lentils**: Stir in red lentils and water.
+1. **Add lentils**: Stir in red lentils and water.
 
-6. **Simmer**: Cook 20-30 minutes, stirring regularly, until lentils are tender and sauce is thick. It will look loose at first but thickens as lentils absorb liquid.
+1. **Simmer**: Cook 20-30 minutes, stirring regularly, until lentils are tender and sauce is thick. It will look loose at first but thickens as lentils absorb liquid.
 
 ---
 

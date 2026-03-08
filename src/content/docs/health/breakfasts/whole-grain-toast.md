@@ -114,9 +114,9 @@ Use **100% whole grain bread** — sourdough preferred for digestibility and fla
 To reduce calories while staying satisfied:
 
 1. **Use 1 slice toast** + load up on vegetables
-2. **Thin spread** of nut butter (1 tsp instead of 1 tbsp)
-3. **Bulk with veggies**: Tomato, cucumber, arugula, sprouts, mushrooms
-4. **Skip oil-based spreads**: Use hummus, mashed beans, or smashed avocado
+1. **Thin spread** of nut butter (1 tsp instead of 1 tbsp)
+1. **Bulk with veggies**: Tomato, cucumber, arugula, sprouts, mushrooms
+1. **Skip oil-based spreads**: Use hummus, mashed beans, or smashed avocado
 
 ---
 
@@ -124,8 +124,8 @@ To reduce calories while staying satisfied:
 
 **Weekday rush version:**
 1. Toast bread while gathering toppings
-2. Prep toppings while toast is toasting
-3. Assemble and eat
+1. Prep toppings while toast is toasting
+1. Assemble and eat
 
 **Total time: 5 minutes**
 

@@ -34,15 +34,15 @@ Loaded with veggies and fresh herbs, this Instant Pot rice pilaf is subtly sweet
 
 1. **Sauté spices**: Set Instant Pot to Sauté on Normal. Add cinnamon, bay leaf, and cumin seeds; cook uncovered 2 minutes, stirring frequently.
 
-2. **Sauté aromatics**: Add onion, garlic, and ginger; stir in ¼ cup water. Cook uncovered 5 minutes more, stirring frequently.
+1. **Sauté aromatics**: Add onion, garlic, and ginger; stir in ¼ cup water. Cook uncovered 5 minutes more, stirring frequently.
 
-3. **Add rice**: Stir in rice and 1½ cups water.
+1. **Add rice**: Stir in rice and 1½ cups water.
 
-4. **Pressure cook**: Lock lid; set valve to Sealing. Cook on Rice setting about 22 minutes. Let pressure release naturally (about 20 minutes). Open lid carefully.
+1. **Pressure cook**: Lock lid; set valve to Sealing. Cook on Rice setting about 22 minutes. Let pressure release naturally (about 20 minutes). Open lid carefully.
 
-5. **Add vegetables**: Stir in corn, peas, bell pepper, dill, cilantro, lemon juice, and salt.
+1. **Add vegetables**: Stir in corn, peas, bell pepper, dill, cilantro, lemon juice, and salt.
 
-6. **Warm through**: Lock lid. Set on Keep Warm 10 minutes. Open lid, remove cinnamon and bay leaf. Season with black pepper.
+1. **Warm through**: Lock lid. Set on Keep Warm 10 minutes. Open lid, remove cinnamon and bay leaf. Season with black pepper.
 
 ---
 

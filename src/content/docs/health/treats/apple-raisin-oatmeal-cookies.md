@@ -31,17 +31,17 @@ Perfect for hiking or satisfying a sweet tooth, these oversized cookies are deli
 
 1. **Preheat**: Oven to 350°F. Line two cookie sheets with parchment.
 
-2. **Mix wet**: In large bowl, combine banana, apple, peanut butter, maple syrup, milk, and vanilla.
+1. **Mix wet**: In large bowl, combine banana, apple, peanut butter, maple syrup, milk, and vanilla.
 
-3. **Mix dry**: In small bowl, stir together oats, flour, cinnamon, baking soda, and salt.
+1. **Mix dry**: In small bowl, stir together oats, flour, cinnamon, baking soda, and salt.
 
-4. **Combine**: Add oat mixture to apple mixture; stir until combined. Stir in raisins.
+1. **Combine**: Add oat mixture to apple mixture; stir until combined. Stir in raisins.
 
-5. **Shape**: Drop by ¼-cup portions 3 inches apart on cookie sheets. Dip spatula in water and flatten to 2¾-inch rounds (about ½ inch thick).
+1. **Shape**: Drop by ¼-cup portions 3 inches apart on cookie sheets. Dip spatula in water and flatten to 2¾-inch rounds (about ½ inch thick).
 
-6. **Bake**: 12-14 minutes until browned.
+1. **Bake**: 12-14 minutes until browned.
 
-7. **Cool**: On wire rack.
+1. **Cool**: On wire rack.
 
 ---
 

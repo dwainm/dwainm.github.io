@@ -37,13 +37,13 @@ A heavenly vegan mousse pie with a surprising secret ingredient: acorn squash. T
 
 1. **Make crust**: In food processor, combine oats, ½ cup date paste, and cashews; pulse to break down. Add cocoa powder, flaxseed, vanilla, and salt. Process until crumbly. (Dough won't completely bind—don't add water.) Transfer to 9-inch tart pan with removable bottom. Press into base and up sides.
 
-2. **Steam squash**: Steam squash cubes in steamer insert over boiling water, covered, until tender when pierced with fork, about 20 minutes. Remove and cool.
+1. **Steam squash**: Steam squash cubes in steamer insert over boiling water, covered, until tender when pierced with fork, about 20 minutes. Remove and cool.
 
-3. **Make filling**: In blender, combine cooled squash, ½ cup cocoa powder, 1 cup date paste, vanilla, and tahini. Blend until smooth and creamy.
+1. **Make filling**: In blender, combine cooled squash, ½ cup cocoa powder, 1 cup date paste, vanilla, and tahini. Blend until smooth and creamy.
 
-4. **Fill and chill**: Pour filling into crust. Chill overnight or at least 4 hours, covered.
+1. **Fill and chill**: Pour filling into crust. Chill overnight or at least 4 hours, covered.
 
-5. **Garnish**: Top with fresh berries just before serving.
+1. **Garnish**: Top with fresh berries just before serving.
 
 ---
 

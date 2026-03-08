@@ -30,13 +30,13 @@ Smoked paprika gives this classic dish an unmistakably smoky flavor, while fresh
 
 1. **Sauté onion**: In a large skillet, cook onion over medium heat for 3 minutes or until tender, stirring occasionally and adding water 1-2 tablespoons at a time as needed to prevent sticking.
 
-2. **Add aromatics**: Stir in garlic and smoked paprika. Cook and stir for 1 minute.
+1. **Add aromatics**: Stir in garlic and smoked paprika. Cook and stir for 1 minute.
 
-3. **Simmer**: Stir in peas, tomatoes, beans, and broth. Bring to boiling; reduce heat. Simmer, uncovered, for 5 minutes or until tomatoes are broken down and mixture is saucy, stirring occasionally.
+1. **Simmer**: Stir in peas, tomatoes, beans, and broth. Bring to boiling; reduce heat. Simmer, uncovered, for 5 minutes or until tomatoes are broken down and mixture is saucy, stirring occasionally.
 
-4. **Finish**: Stir in parsley, vinegar, and pepper.
+1. **Finish**: Stir in parsley, vinegar, and pepper.
 
-5. **Serve**: Serve over hot cooked brown rice or barley.
+1. **Serve**: Serve over hot cooked brown rice or barley.
 
 ---
 

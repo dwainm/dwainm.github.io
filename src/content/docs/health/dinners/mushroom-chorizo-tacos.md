@@ -43,15 +43,15 @@ A mix of mushrooms, walnuts, and chickpeas make a meaty vehicle for savory seaso
 
 1. **Cook mushrooms**: In extra-large oven-safe skillet, cook mushrooms over medium-high 6-8 minutes until lightly browned and liquid has evaporated, stirring occasionally and adding water 1-2 tablespoons at a time as needed. (If using oil: Heat oil first, then add mushrooms.)
 
-2. **Make chorizo mixture**: In large bowl, stir together chili powder, ancho powder, cumin, oregano, coriander, garlic powder, paprika, and cinnamon. In food processor, combine mushrooms, chickpeas, walnuts, and lime juice. Pulse until chopped. Add to seasonings; stir well. Let stand.
+1. **Make chorizo mixture**: In large bowl, stir together chili powder, ancho powder, cumin, oregano, coriander, garlic powder, paprika, and cinnamon. In food processor, combine mushrooms, chickpeas, walnuts, and lime juice. Pulse until chopped. Add to seasonings; stir well. Let stand.
 
-3. **Steam vegetables**: Place potatoes and onion in steamer basket in large saucepan. Add water to just below basket. Bring to boiling. Cover and steam 12-14 minutes until tender.
+1. **Steam vegetables**: Place potatoes and onion in steamer basket in large saucepan. Add water to just below basket. Bring to boiling. Cover and steam 12-14 minutes until tender.
 
-4. **Combine**: Add steamed potatoes and onion to chorizo mixture; toss to combine. Season with salt and pepper.
+1. **Combine**: Add steamed potatoes and onion to chorizo mixture; toss to combine. Season with salt and pepper.
 
-5. **Bake**: Preheat oven to 425°F. Place skillet in oven to heat. Carefully transfer potato mixture to hot skillet. Bake about 10 minutes until heated and browned.
+1. **Bake**: Preheat oven to 425°F. Place skillet in oven to heat. Carefully transfer potato mixture to hot skillet. Bake about 10 minutes until heated and browned.
 
-6. **Serve**: Serve in skillet with tortillas and desired toppings.
+1. **Serve**: Serve in skillet with tortillas and desired toppings.
 
 ---
 

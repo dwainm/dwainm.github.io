@@ -29,15 +29,15 @@ A quick and easy pasta dish that comes together in 20 minutes using pantry stapl
 
 1. **Cook pasta**: Bring large pot of water to boil. Cook penne according to package instructions. Drain well and set aside.
 
-2. **Sauté vegetables**: Meanwhile, sauté onions and mushrooms in large saucepan over medium heat, stirring occasionally, until onions turn brown and translucent, 7-8 minutes. Add water 1-2 tablespoons at a time as needed to prevent sticking.
+1. **Sauté vegetables**: Meanwhile, sauté onions and mushrooms in large saucepan over medium heat, stirring occasionally, until onions turn brown and translucent, 7-8 minutes. Add water 1-2 tablespoons at a time as needed to prevent sticking.
 
-3. **Add aromatics**: Add garlic and thyme; cook 1 minute.
+1. **Add aromatics**: Add garlic and thyme; cook 1 minute.
 
-4. **Simmer sauce**: Add crushed tomatoes with their juice; simmer, stirring occasionally, for 10 minutes.
+1. **Simmer sauce**: Add crushed tomatoes with their juice; simmer, stirring occasionally, for 10 minutes.
 
-5. **Combine**: Add plant milk, cooked pasta, and basil; season with salt and pepper. Toss until well coated. Cook until heated through, about 1 minute.
+1. **Combine**: Add plant milk, cooked pasta, and basil; season with salt and pepper. Toss until well coated. Cook until heated through, about 1 minute.
 
-6. **Serve**: Serve hot.
+1. **Serve**: Serve hot.
 
 ---
 

@@ -27,9 +27,9 @@ A great go-to meal for busy parents or people. Super-quick, super-easy, super-fi
 
 1. **Bake potato**: Preheat oven to 450°F (230°C). Pierce potato with fork or knife a few times. Bake about 40 minutes, or microwave 4-6 minutes until soft and cooked through.
 
-2. **Assemble**: Slice potato open. Sprinkle with nutritional yeast if using. Layer on black beans, salsa, and avocado.
+1. **Assemble**: Slice potato open. Sprinkle with nutritional yeast if using. Layer on black beans, salsa, and avocado.
 
-3. **Garnish**: Season with salt and pepper. Garnish with cilantro and lime.
+1. **Garnish**: Season with salt and pepper. Garnish with cilantro and lime.
 
 ---
 

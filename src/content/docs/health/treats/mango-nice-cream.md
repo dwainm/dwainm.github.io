@@ -23,11 +23,11 @@ Frozen mangoes and banana make a shockingly creamy nice cream. Top with fresh ma
 
 1. **Soften**: Remove mango from freezer and let stand 10 minutes to soften slightly.
 
-2. **Blend**: Transfer mango and banana to food processor. Pulse until broken into small pieces, then continue processing until smooth and creamy.
+1. **Blend**: Transfer mango and banana to food processor. Pulse until broken into small pieces, then continue processing until smooth and creamy.
 
-3. **Serve**: Immediately for soft-serve texture, or transfer to freezer container and freeze until ready to serve.
+1. **Serve**: Immediately for soft-serve texture, or transfer to freezer container and freeze until ready to serve.
 
-4. **Top**: With additional mango chunks and sprinkle with cardamom or paprika if desired.
+1. **Top**: With additional mango chunks and sprinkle with cardamom or paprika if desired.
 
 ---
 

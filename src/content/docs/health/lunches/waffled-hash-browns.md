@@ -40,19 +40,19 @@ A creative take on classic hash browns using a waffle iron. Shredded carrots and
 
 1. **Simmer base**: In medium saucepan, combine sliced onion, tomato paste, thyme, bay leaf, 1 minced garlic clove, cayenne, and 1½ cups water. Bring to boil, reduce heat, simmer uncovered 15 minutes.
 
-2. **Add greens and beans**: Add kale and beans, cook 10 minutes more. Remove thyme sprigs and bay leaf.
+1. **Add greens and beans**: Add kale and beans, cook 10 minutes more. Remove thyme sprigs and bay leaf.
 
 ### Make the Hash Browns
 
-3. **Shred vegetables**: Place clean dish towel on counter. Using large holes of box grater, shred remaining onion, potato, carrot, and turnip onto the towel.
+1. **Shred vegetables**: Place clean dish towel on counter. Using large holes of box grater, shred remaining onion, potato, carrot, and turnip onto the towel.
 
-4. **Squeeze**: Gather towel ends, hold over sink, and twist tightly to squeeze all excess moisture from vegetables.
+1. **Squeeze**: Gather towel ends, hold over sink, and twist tightly to squeeze all excess moisture from vegetables.
 
-5. **Season**: Transfer to bowl, stir in remaining 2 minced garlic cloves and parsley.
+1. **Season**: Transfer to bowl, stir in remaining 2 minced garlic cloves and parsley.
 
-6. **Waffle**: Preheat waffle maker on medium-high. Spoon vegetable mixture into waffle maker, gently packing it in. Close lid without locking, cook 10-15 minutes until golden brown.
+1. **Waffle**: Preheat waffle maker on medium-high. Spoon vegetable mixture into waffle maker, gently packing it in. Close lid without locking, cook 10-15 minutes until golden brown.
 
-7. **Serve**: Top with spicy bean mixture.
+1. **Serve**: Top with spicy bean mixture.
 
 ---
 

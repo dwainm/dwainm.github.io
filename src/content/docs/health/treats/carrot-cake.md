@@ -32,19 +32,19 @@ Perfectly moist carrot cake studded with raisins and naturally sweetened with da
 
 1. **Soak dates**: Combine plant milk, dates, ¼ cup raisins, banana, and vanilla in bowl. Let stand 15 minutes until dates soften.
 
-2. **Preheat**: Oven to 350°F (175°C). Line 8-inch square baking pan with parchment paper.
+1. **Preheat**: Oven to 350°F (175°C). Line 8-inch square baking pan with parchment paper.
 
-3. **Make oat flour**: Place oats in blender. Blend until powder forms. Transfer to large bowl.
+1. **Make oat flour**: Place oats in blender. Blend until powder forms. Transfer to large bowl.
 
-4. **Dry ingredients**: Stir baking powder, cinnamon, baking soda, nutmeg, and cloves into oat flour.
+1. **Dry ingredients**: Stir baking powder, cinnamon, baking soda, nutmeg, and cloves into oat flour.
 
-5. **Wet ingredients**: Transfer date mixture to blender. Blend until smooth.
+1. **Wet ingredients**: Transfer date mixture to blender. Blend until smooth.
 
-6. **Combine**: Add date mixture to oat mixture. Stir just until combined. Fold in remaining ½ cup raisins, carrots, and walnuts.
+1. **Combine**: Add date mixture to oat mixture. Stir just until combined. Fold in remaining ½ cup raisins, carrots, and walnuts.
 
-7. **Bake**: Spread batter into prepared pan. Bake 40-45 minutes until golden and toothpick comes out clean.
+1. **Bake**: Spread batter into prepared pan. Bake 40-45 minutes until golden and toothpick comes out clean.
 
-8. **Cool**: Cool in pan 10 minutes. Remove from pan and cool completely on wire rack.
+1. **Cool**: Cool in pan 10 minutes. Remove from pan and cool completely on wire rack.
 
 ---
 

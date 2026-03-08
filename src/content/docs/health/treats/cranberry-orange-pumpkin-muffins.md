@@ -30,15 +30,15 @@ These wholesome muffins are packed with pumpkin, orange zest, and cranberries. T
 
 1. **Preheat**: Oven to 350°F. Line muffin tin with silicone cups or parchment liners.
 
-2. **Blend wet**: In food processor with "S" blade, process bananas and orange juice until smooth. Add pumpkin, date paste, vanilla, zest, flax seeds, and spice. Process until smooth and creamy.
+1. **Blend wet**: In food processor with "S" blade, process bananas and orange juice until smooth. Add pumpkin, date paste, vanilla, zest, flax seeds, and spice. Process until smooth and creamy.
 
-3. **Mix**: Transfer batter to large bowl and stir in oats and dried cranberries.
+1. **Mix**: Transfer batter to large bowl and stir in oats and dried cranberries.
 
-4. **Fill**: Fill each muffin liner with about ½ cup batter (they don't rise much). Use retractable ice cream scoop for easy portioning.
+1. **Fill**: Fill each muffin liner with about ½ cup batter (they don't rise much). Use retractable ice cream scoop for easy portioning.
 
-5. **Top**: Mix nuts and cinnamon. Sprinkle evenly over muffins.
+1. **Top**: Mix nuts and cinnamon. Sprinkle evenly over muffins.
 
-6. **Bake**: 30-35 minutes until set and lightly browned.
+1. **Bake**: 30-35 minutes until set and lightly browned.
 
 ---
 

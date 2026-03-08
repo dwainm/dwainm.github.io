@@ -27,13 +27,13 @@ Rich, chewy, densely chocolaty brownies made with—you guessed it—black beans
 
 1. **Preheat**: Oven to 350°F. Line 8-9 inch round cake pan with parchment paper or use silicone pan.
 
-2. **Process beans**: Combine beans, date syrup, and cocoa powder in food processor. Process just until smooth.
+1. **Process beans**: Combine beans, date syrup, and cocoa powder in food processor. Process just until smooth.
 
-3. **Add dry**: Add oats, baking powder, and baking soda. Process just until combined.
+1. **Add dry**: Add oats, baking powder, and baking soda. Process just until combined.
 
-4. **Bake**: Spread batter into prepared pan. Sprinkle with pistachios and chocolate if using. Bake 35 minutes.
+1. **Bake**: Spread batter into prepared pan. Sprinkle with pistachios and chocolate if using. Bake 35 minutes.
 
-5. **Cool**: Cool on wire rack. Cut into wedges or squares.
+1. **Cool**: Cool on wire rack. Cut into wedges or squares.
 
 ---
 

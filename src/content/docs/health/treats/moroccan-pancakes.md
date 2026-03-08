@@ -40,15 +40,15 @@ These Moroccan pancakes (called baghrir) are light, spongy crepes with a delicat
 
 1. **Activate yeast**: In large bowl, combine 1 cup warm water, yeast, and ½ tsp date paste. Cover with cloth; let stand 10 minutes until frothy.
 
-2. **Make batter**: Stir in remaining ¾ cup almond milk and ½ cup water. In separate bowl, mix whole wheat flour, oat flour, baking powder, and salt. Add flour mixture to yeast mixture; whisk until smooth. Cover; let stand in warm place 20 minutes.
+1. **Make batter**: Stir in remaining ¾ cup almond milk and ½ cup water. In separate bowl, mix whole wheat flour, oat flour, baking powder, and salt. Add flour mixture to yeast mixture; whisk until smooth. Cover; let stand in warm place 20 minutes.
 
-3. **Cook pancakes**: Preheat nonstick skillet over medium-low 3 minutes. Pour ⅓ cup batter in center; spread into 5-inch round using crepe spreader or spatula. Cook 2-3 minutes until underside is lightly browned. Flip; cook 2-3 minutes more until golden. Keep warm in 200°F oven while making remaining pancakes.
+1. **Cook pancakes**: Preheat nonstick skillet over medium-low 3 minutes. Pour ⅓ cup batter in center; spread into 5-inch round using crepe spreader or spatula. Cook 2-3 minutes until underside is lightly browned. Flip; cook 2-3 minutes more until golden. Keep warm in 200°F oven while making remaining pancakes.
 
 ### Make the Sauce
 
-4. **Blend sauce**: In blender, combine bananas, ¾ cup almond milk, date paste, cocoa powder, and vanilla. Blend until smooth.
+1. **Blend sauce**: In blender, combine bananas, ¾ cup almond milk, date paste, cocoa powder, and vanilla. Blend until smooth.
 
-5. **Serve**: Drizzle warm pancakes with chocolate banana sauce.
+1. **Serve**: Drizzle warm pancakes with chocolate banana sauce.
 
 ---
 

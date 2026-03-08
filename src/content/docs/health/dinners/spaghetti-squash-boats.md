@@ -36,15 +36,15 @@ Tender spaghetti squash strands hold up against a hearty homemade red sauce pack
 
 1. **Bake squash**: Preheat oven to 350°F. Place spaghetti squash cut sides down on baking sheet. Bake 45-55 minutes until tender. Cool slightly, then shred flesh into strands with two forks. Leave in skins for serving.
 
-2. **Make sauce**: In large saucepan, cook onion, carrot, and garlic over medium 3-4 minutes until tender, stirring occasionally and adding wine 1-2 tbsp at a time as needed to prevent sticking.
+1. **Make sauce**: In large saucepan, cook onion, carrot, and garlic over medium 3-4 minutes until tender, stirring occasionally and adding wine 1-2 tbsp at a time as needed to prevent sticking.
 
-3. **Simmer**: Add remaining wine, tomatoes, broth, and tomato paste. Bring to boil; reduce heat. Simmer uncovered 15-20 minutes until slightly thickened.
+1. **Simmer**: Add remaining wine, tomatoes, broth, and tomato paste. Bring to boil; reduce heat. Simmer uncovered 15-20 minutes until slightly thickened.
 
-4. **Add greens**: Stir in chard, basil, oregano, thyme, and red pepper. Cook 10 minutes until chard is tender.
+1. **Add greens**: Stir in chard, basil, oregano, thyme, and red pepper. Cook 10 minutes until chard is tender.
 
-5. **Finish**: Stir in beans and vinegar. Season with pepper.
+1. **Finish**: Stir in beans and vinegar. Season with pepper.
 
-6. **Serve**: Spoon sauce over spaghetti squash. Sprinkle with nutritional yeast and garnish with additional herbs.
+1. **Serve**: Spoon sauce over spaghetti squash. Sprinkle with nutritional yeast and garnish with additional herbs.
 
 ---
 

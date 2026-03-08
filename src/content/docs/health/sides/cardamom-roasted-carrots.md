@@ -27,13 +27,13 @@ Gorgeous jewel-tone carrots coated in warming cardamom, cinnamon, and cayenne. R
 
 1. **Preheat**: Oven to 400°F. Line large rimmed baking sheet with parchment or silicone mat.
 
-2. **Prep glaze**: In small bowl, whisk together lemon juice, tahini, cardamom, cinnamon, cayenne, and ¼ cup water.
+1. **Prep glaze**: In small bowl, whisk together lemon juice, tahini, cardamom, cinnamon, cayenne, and ¼ cup water.
 
-3. **Coat carrots**: Place carrots on prepared baking sheet. Lightly brush glaze over carrots.
+1. **Coat carrots**: Place carrots on prepared baking sheet. Lightly brush glaze over carrots.
 
-4. **Roast**: Roast about 40 minutes until browned and tender, brushing with lemon juice mixture several times during cooking.
+1. **Roast**: Roast about 40 minutes until browned and tender, brushing with lemon juice mixture several times during cooking.
 
-5. **Serve**: Transfer to serving platter. Sprinkle with pomegranate seeds and season with black pepper.
+1. **Serve**: Transfer to serving platter. Sprinkle with pomegranate seeds and season with black pepper.
 
 ---
 

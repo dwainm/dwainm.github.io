@@ -34,15 +34,15 @@ A classic Indian curry combining tender potatoes, cauliflower, and peas in a cre
 
 1. **Steam cauliflower**: Place in steamer basket over boiling water. Cover and steam 5 minutes until crisp-tender. Transfer to bowl.
 
-2. **Steam potatoes**: Add to same steamer basket, cover, and steam 10 minutes until tender. Add to bowl with cauliflower. Drain water from pan.
+1. **Steam potatoes**: Add to same steamer basket, cover, and steam 10 minutes until tender. Add to bowl with cauliflower. Drain water from pan.
 
-3. **Make sauce**: In blender, combine onion, tomato paste, curry powder, ginger, cumin seeds, garlic, and 1 cup water. Blend until smooth.
+1. **Make sauce**: In blender, combine onion, tomato paste, curry powder, ginger, cumin seeds, garlic, and 1 cup water. Blend until smooth.
 
-4. **Cook sauce**: Transfer to skillet. Stir in 1 more cup water. Bring to boil, reduce to medium-high, cook 5-7 minutes. Reduce to medium-low, cook 10 minutes until sauce darkens in color.
+1. **Cook sauce**: Transfer to skillet. Stir in 1 more cup water. Bring to boil, reduce to medium-high, cook 5-7 minutes. Reduce to medium-low, cook 10 minutes until sauce darkens in color.
 
-5. **Combine**: Add steamed vegetables, peas, ground cashews, lime juice, and cayenne to sauce. Cook 5-7 minutes until sauce is absorbed by vegetables, stirring occasionally. Add water if needed for desired consistency. Season with salt.
+1. **Combine**: Add steamed vegetables, peas, ground cashews, lime juice, and cayenne to sauce. Cook 5-7 minutes until sauce is absorbed by vegetables, stirring occasionally. Add water if needed for desired consistency. Season with salt.
 
-6. **Serve**: Over brown rice, sprinkled with cilantro.
+1. **Serve**: Over brown rice, sprinkled with cilantro.
 
 ---
 

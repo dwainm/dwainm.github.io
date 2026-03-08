@@ -16,10 +16,10 @@ Three approaches to dal - try them and pick your favourite.
 Before cooking any recipe:
 
 1. Wash lentils twice, draining the water each time
-2. On the third wash, leave the water in and transfer to cooking pot (prevents lentils sticking to vessel)
-3. Set aside to soak for 1 hour
-4. When cooking, boil in water (no other ingredients yet)
-5. When foam rises, skim and discard it (2-3 times) - this removes purines/uric acid, easier on joints and kidneys
+1. On the third wash, leave the water in and transfer to cooking pot (prevents lentils sticking to vessel)
+1. Set aside to soak for 1 hour
+1. When cooking, boil in water (no other ingredients yet)
+1. When foam rises, skim and discard it (2-3 times) - this removes purines/uric acid, easier on joints and kidneys
 
 ---
 
@@ -54,11 +54,11 @@ Minimal spices in the dal itself. The magic is in the tadka.
 ### Method
 
 1. After skimming foam (see above), add tomatoes, ginger-garlic paste, turmeric, salt
-2. Simmer covered ~20 minutes until creamy
-3. Mash lightly with a ladle
-4. **Tadka:** Melt butter in small pan, add cumin and hing, then onions and garlic. Fry until golden. Finish with chili powder
-5. Pour hot tadka over dal, cover 1 minute
-6. Squeeze lime, garnish, serve
+1. Simmer covered ~20 minutes until creamy
+1. Mash lightly with a ladle
+1. **Tadka:** Melt butter in small pan, add cumin and hing, then onions and garlic. Fry until golden. Finish with chili powder
+1. Pour hot tadka over dal, cover 1 minute
+1. Squeeze lime, garnish, serve
 
 ---
 
@@ -91,12 +91,12 @@ More spiced, coconut-based, no butter. Gets richness from coconut milk and almon
 ### Method
 
 1. After skimming foam from lentils (see above), set aside
-2. Heat coconut oil, sauté garlic, ginger, peppers for 1-2 minutes
-3. Add all ground spices, stir 1 minute to bloom
-4. Add broth, lentils, tomatoes. Simmer covered 20-25 minutes
-5. Stir in coconut milk and almond butter, simmer uncovered 5-7 minutes
-6. Add lemon juice, adjust seasoning
-7. Garnish with cilantro, serve with rice or naan
+1. Heat coconut oil, sauté garlic, ginger, peppers for 1-2 minutes
+1. Add all ground spices, stir 1 minute to bloom
+1. Add broth, lentils, tomatoes. Simmer covered 20-25 minutes
+1. Stir in coconut milk and almond butter, simmer uncovered 5-7 minutes
+1. Add lemon juice, adjust seasoning
+1. Garnish with cilantro, serve with rice or naan
 
 ---
 
@@ -135,11 +135,11 @@ The restaurant secret is a richer tadka with more aromatics, and optionally smok
 ### Method
 
 1. After prep (see above), pressure cook dal with turmeric, salt, tomato, ginger and water for 3-4 whistles (or simmer 25-30 mins)
-2. Mash dal to creamy consistency
-3. **Tadka:** Heat ghee, add cumin seeds and let sizzle. Add hing, dry red chilies, garlic - sauté 1 minute. Add onions, cook until golden. Add tomatoes, cook 3-4 minutes. Add chili powder and coriander powder
-4. Pour hot tadka over dal, mix well
-5. **Optional dhungar:** Place small steel bowl in dal pot. Heat charcoal until red-hot, place in bowl. Pour 1 tbsp ghee over charcoal, immediately cover pot. Let smoke infuse 5-10 minutes
-6. Garnish with fresh coriander, serve with rice or roti
+1. Mash dal to creamy consistency
+1. **Tadka:** Heat ghee, add cumin seeds and let sizzle. Add hing, dry red chilies, garlic - sauté 1 minute. Add onions, cook until golden. Add tomatoes, cook 3-4 minutes. Add chili powder and coriander powder
+1. Pour hot tadka over dal, mix well
+1. **Optional dhungar:** Place small steel bowl in dal pot. Heat charcoal until red-hot, place in bowl. Pour 1 tbsp ghee over charcoal, immediately cover pot. Let smoke infuse 5-10 minutes
+1. Garnish with fresh coriander, serve with rice or roti
 
 ---
 

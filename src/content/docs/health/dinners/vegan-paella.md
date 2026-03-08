@@ -32,13 +32,13 @@ Whole grain rice simmered low and slow in a brothy, saffron-scented tomato sauce
 
 1. **Prepare broth**: In medium saucepan, bring broth to boiling; reduce heat. Stir in saffron. Keep warm over low.
 
-2. **Sauté vegetables**: In extra-large skillet, cook mushrooms and bell pepper over medium 5 minutes until slightly softened, stirring occasionally and adding water 1-2 tablespoons at a time as needed to prevent sticking. (If using oil: Heat oil first, then add vegetables.)
+1. **Sauté vegetables**: In extra-large skillet, cook mushrooms and bell pepper over medium 5 minutes until slightly softened, stirring occasionally and adding water 1-2 tablespoons at a time as needed to prevent sticking. (If using oil: Heat oil first, then add vegetables.)
 
-3. **Add seasonings**: Stir in olives, paprika, and salt; cook 2 minutes. Add rice; cook 2 minutes.
+1. **Add seasonings**: Stir in olives, paprika, and salt; cook 2 minutes. Add rice; cook 2 minutes.
 
-4. **Simmer**: Slowly stir in hot broth. Reduce heat to medium-low. Cover and simmer 15 minutes. Remove lid and simmer uncovered 30-35 minutes until rice is tender and liquid is absorbed.
+1. **Simmer**: Slowly stir in hot broth. Reduce heat to medium-low. Cover and simmer 15 minutes. Remove lid and simmer uncovered 30-35 minutes until rice is tender and liquid is absorbed.
 
-5. **Finish**: Stir in tomato sauce, peas, and artichoke hearts. Cook 2-3 minutes until heated through. Serve with lemon wedges.
+1. **Finish**: Stir in tomato sauce, peas, and artichoke hearts. Cook 2-3 minutes until heated through. Serve with lemon wedges.
 
 ---
 

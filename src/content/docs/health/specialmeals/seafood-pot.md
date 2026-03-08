@@ -54,26 +54,26 @@ Coastal flavors, quick cooking, impressive results. Friday night special.
 
 ### Build the Base
 1. **Render bacon**: Cook slowly to release fat, until crispy
-2. **Sauté vegetables**: In bacon fat, cook onions and peppers until soft
-3. **Add mushrooms**: Cook until browned and reduced
+1. **Sauté vegetables**: In bacon fat, cook onions and peppers until soft
+1. **Add mushrooms**: Cook until browned and reduced
 
 ### Create the Sauce
-4. **Deglaze**: Add white wine, scrape bottom
-5. **Add tomatoes**: Tomato smoor or crushed canned tomatoes
-6. **Season**: Add all spices, stir well
-7. **Simmer**: 10 minutes to meld flavors
+1. **Deglaze**: Add white wine, scrape bottom
+1. **Add tomatoes**: Tomato smoor or crushed canned tomatoes
+1. **Season**: Add all spices, stir well
+1. **Simmer**: 10 minutes to meld flavors
 
 ### Cook Seafood (in order)
-8. **Hard shells first**: Mussels and clams, cover 5 minutes until opened
-9. **Prawns**: Add, cook 3 minutes until pink
-10. **Calamari**: Add, cook 2 minutes
-11. **White fish**: Gently nestle in, cook 3-4 minutes
-12. **Soft shell**: Add pre-cooked crab/lobster at end just to warm
-13. **Finish**: Stir in cream, heat through (don't boil)
+1. **Hard shells first**: Mussels and clams, cover 5 minutes until opened
+1. **Prawns**: Add, cook 3 minutes until pink
+1. **Calamari**: Add, cook 2 minutes
+1. **White fish**: Gently nestle in, cook 3-4 minutes
+1. **Soft shell**: Add pre-cooked crab/lobster at end just to warm
+1. **Finish**: Stir in cream, heat through (don't boil)
 
 ### Serve
-14. **Garnish**: Fresh parsley, lemon wedges
-15. **Bread**: Essential for sauce
+1. **Garnish**: Fresh parsley, lemon wedges
+1. **Bread**: Essential for sauce
 
 ## Notes
 

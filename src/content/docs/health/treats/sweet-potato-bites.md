@@ -23,15 +23,15 @@ Based on an Okinawan recipe, these sweet potato bites were a staple—sweet pota
 
 1. **Cook potatoes**: Boil or steam potatoes until tender.
 
-2. **Mash**: Drain and mash potatoes with sugar until smooth.
+1. **Mash**: Drain and mash potatoes with sugar until smooth.
 
-3. **Cool**: Let cool enough to handle.
+1. **Cool**: Let cool enough to handle.
 
-4. **Shape**: Roll into walnut-size balls.
+1. **Shape**: Roll into walnut-size balls.
 
-5. **Coat**: Spread nuts on clean surface. Roll balls in nuts to coat completely.
+1. **Coat**: Spread nuts on clean surface. Roll balls in nuts to coat completely.
 
-6. **Serve**: Dust with cinnamon just before serving.
+1. **Serve**: Dust with cinnamon just before serving.
 
 ---
 

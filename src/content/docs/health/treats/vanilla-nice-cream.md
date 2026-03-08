@@ -22,11 +22,11 @@ Frozen bananas create the creamy base for this simple vanilla nice cream. Real v
 
 1. **Scrape seeds**: Using small sharp knife, scrape seeds from vanilla bean.
 
-2. **Blend**: In food processor, combine vanilla seeds, frozen bananas, and ¼ cup milk. Cover and process until smooth, adding remaining milk as needed.
+1. **Blend**: In food processor, combine vanilla seeds, frozen bananas, and ¼ cup milk. Cover and process until smooth, adding remaining milk as needed.
 
-3. **Serve**: Immediately for soft-serve consistency, or transfer to freezer container and freeze at least 4 hours for scoopable ice cream.
+1. **Serve**: Immediately for soft-serve consistency, or transfer to freezer container and freeze at least 4 hours for scoopable ice cream.
 
-4. **Store**: In freezer up to 1 week.
+1. **Store**: In freezer up to 1 week.
 
 ---
 

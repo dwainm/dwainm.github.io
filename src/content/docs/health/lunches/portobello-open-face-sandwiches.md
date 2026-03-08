@@ -32,17 +32,17 @@ Sink your teeth into meaty portobello mushrooms roasted in garlicky soy sauce. S
 
 1. **Preheat**: Oven to 400°F. Line extra-large rimmed baking sheet with parchment.
 
-2. **Prep mushrooms**: Place mushrooms on baking sheet, stem side up.
+1. **Prep mushrooms**: Place mushrooms on baking sheet, stem side up.
 
-3. **Make glaze**: In bowl, stir together broth, soy sauce, and garlic. Brush over mushrooms.
+1. **Make glaze**: In bowl, stir together broth, soy sauce, and garlic. Brush over mushrooms.
 
-4. **Add vegetables**: Arrange bell peppers and onion on baking sheet with mushrooms. Brush with 1 tablespoon vinegar.
+1. **Add vegetables**: Arrange bell peppers and onion on baking sheet with mushrooms. Brush with 1 tablespoon vinegar.
 
-5. **Roast**: 15 minutes; turn mushrooms over. Roast about 15 minutes more until vegetables are tender and lightly browned.
+1. **Roast**: 15 minutes; turn mushrooms over. Roast about 15 minutes more until vegetables are tender and lightly browned.
 
-6. **Make bean spread**: Meanwhile, in food processor combine beans, milk, nutritional yeast, and remaining 1 tablespoon vinegar. Process until smooth. Transfer to bowl; stir in 2 tablespoons chives.
+1. **Make bean spread**: Meanwhile, in food processor combine beans, milk, nutritional yeast, and remaining 1 tablespoon vinegar. Process until smooth. Transfer to bowl; stir in 2 tablespoons chives.
 
-7. **Assemble**: Cut mushrooms and bell peppers into strips. Separate onion into rings. Spread bean mixture on toast. Top with vegetables. Sprinkle with black pepper and additional chives.
+1. **Assemble**: Cut mushrooms and bell peppers into strips. Separate onion into rings. Spread bean mixture on toast. Top with vegetables. Sprinkle with black pepper and additional chives.
 
 ---
 

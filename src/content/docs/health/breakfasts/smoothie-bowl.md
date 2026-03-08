@@ -40,10 +40,10 @@ Refreshing, nutrient-dense, and highly photogenic. Best in warm weather when you
 ### Method
 
 1. **Freeze fruit ahead**: Peel and freeze ripe bananas in chunks
-2. **Blend**: Add all ingredients to high-speed blender
-3. **Blend thick**: Use tamper or stop to scrape sides. Add liquid sparingly — you want it thick enough to eat with a spoon.
-4. **Pour**: Into bowl immediately
-5. **Top**: Add toppings right away (it melts fast)
+1. **Blend**: Add all ingredients to high-speed blender
+1. **Blend thick**: Use tamper or stop to scrape sides. Add liquid sparingly — you want it thick enough to eat with a spoon.
+1. **Pour**: Into bowl immediately
+1. **Top**: Add toppings right away (it melts fast)
 
 *Dr. Greger's original includes white tea leaves and amla powder for maximum antioxidants — add if available.*
 
@@ -136,11 +136,11 @@ The key to a satisfying smoothie bowl is texture contrast.
 ### Method
 
 1. Preheat oven to 300°F (150°C)
-2. Mix all ingredients in large bowl until oats are coated
-3. Spread on parchment-lined baking sheet
-4. Bake 35-40 minutes, stirring every 10 minutes
-5. Cool completely (it crisps as it cools)
-6. Store in airtight container 2 weeks
+1. Mix all ingredients in large bowl until oats are coated
+1. Spread on parchment-lined baking sheet
+1. Bake 35-40 minutes, stirring every 10 minutes
+1. Cool completely (it crisps as it cools)
+1. Store in airtight container 2 weeks
 
 ---
 

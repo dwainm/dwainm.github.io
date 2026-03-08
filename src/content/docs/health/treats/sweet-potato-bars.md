@@ -33,19 +33,19 @@ Moist bars packed with warming spices and velvety sweet potato puree. Toasted ha
 
 1. **Make flax egg**: Stir together flaxseed meal and 3 tbsp water. Let stand 10 minutes.
 
-2. **Preheat**: Oven to 350°F. Line 8-inch square pan with parchment, extending over edges.
+1. **Preheat**: Oven to 350°F. Line 8-inch square pan with parchment, extending over edges.
 
-3. **Mix dry**: Stir together flour, baking powder, nutmeg, and salt.
+1. **Mix dry**: Stir together flour, baking powder, nutmeg, and salt.
 
-4. **Mix wet**: In large bowl, whisk flax mixture, sweet potato, applesauce, milk, maple syrup, vinegar, and vanilla.
+1. **Mix wet**: In large bowl, whisk flax mixture, sweet potato, applesauce, milk, maple syrup, vinegar, and vanilla.
 
-5. **Combine**: Stir flour mixture into wet ingredients. Fold in nuts.
+1. **Combine**: Stir flour mixture into wet ingredients. Fold in nuts.
 
-6. **Top**: Transfer to pan, smoothing top. Mix turbinado sugar and cinnamon; sprinkle on top.
+1. **Top**: Transfer to pan, smoothing top. Mix turbinado sugar and cinnamon; sprinkle on top.
 
-7. **Bake**: 35-40 minutes until toothpick comes out clean.
+1. **Bake**: 35-40 minutes until toothpick comes out clean.
 
-8. **Cool**: 10 minutes in pan. Using parchment, lift out and cut into 16 squares.
+1. **Cool**: 10 minutes in pan. Using parchment, lift out and cut into 16 squares.
 
 ---
 

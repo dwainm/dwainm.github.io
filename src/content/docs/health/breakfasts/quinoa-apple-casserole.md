@@ -32,17 +32,17 @@ A warming quinoa and apple breakfast casserole that serves four. Orange- and gin
 
 1. **Reserve garnishes**: Set aside ¼ cup cherries and 2 tbsp walnuts. Store in refrigerator.
 
-2. **Mix quinoa layer**: In bowl, stir together ¼ cup remaining cherries, remaining walnuts, quinoa, ¾ cup dates, ½ cup orange juice, 1½ tsp zest, ginger, cinnamon, and salt. Add oil if using.
+1. **Mix quinoa layer**: In bowl, stir together ¼ cup remaining cherries, remaining walnuts, quinoa, ¾ cup dates, ½ cup orange juice, 1½ tsp zest, ginger, cinnamon, and salt. Add oil if using.
 
-3. **Layer**: Arrange half the apple slices in overlapping pattern in 2-quart baking dish. Spread quinoa mixture over apples. Layer remaining apples on top.
+1. **Layer**: Arrange half the apple slices in overlapping pattern in 2-quart baking dish. Spread quinoa mixture over apples. Layer remaining apples on top.
 
-4. **Cover and chill**: Cover apple surface with plastic wrap (to prevent browning). Refrigerate up to 2 days.
+1. **Cover and chill**: Cover apple surface with plastic wrap (to prevent browning). Refrigerate up to 2 days.
 
-5. **Make cherry sauce**: In blender, combine remaining ¾ cup dates, ¼ cup cherries, ½ cup orange juice, 1½ tsp zest, almond butter, and ½ cup water. Blend until smooth. Chill until ready to bake.
+1. **Make cherry sauce**: In blender, combine remaining ¾ cup dates, ¼ cup cherries, ½ cup orange juice, 1½ tsp zest, almond butter, and ½ cup water. Blend until smooth. Chill until ready to bake.
 
-6. **Bake**: Preheat oven to 375°F. Remove plastic wrap and cover dish with foil. Bake 35-40 minutes until heated through and apples soften. Let stand covered 5 minutes.
+1. **Bake**: Preheat oven to 375°F. Remove plastic wrap and cover dish with foil. Bake 35-40 minutes until heated through and apples soften. Let stand covered 5 minutes.
 
-7. **Serve**: Drizzle with cherry sauce and sprinkle with reserved cherries, walnuts, and sesame seeds.
+1. **Serve**: Drizzle with cherry sauce and sprinkle with reserved cherries, walnuts, and sesame seeds.
 
 ---
 

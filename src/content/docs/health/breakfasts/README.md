@@ -36,10 +36,10 @@ These recipes are adapted from reputable plant-based, whole foods authorities:
 ## Breakfast Principles
 
 1. **Whole grains always** — Oats, whole wheat, no refined flour
-2. **Plant-based by default** — No eggs, dairy, or meat required
-3. **Low calorie density** — Large portions that fill you up
-4. **Minimal added oils** — Use fruit, nuts, and seeds for healthy fats
-5. **Prep ahead when possible** — Overnight oats, frozen smoothie packs
+1. **Plant-based by default** — No eggs, dairy, or meat required
+1. **Low calorie density** — Large portions that fill you up
+1. **Minimal added oils** — Use fruit, nuts, and seeds for healthy fats
+1. **Prep ahead when possible** — Overnight oats, frozen smoothie packs
 
 ---
 

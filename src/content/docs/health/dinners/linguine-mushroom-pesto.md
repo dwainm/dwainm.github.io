@@ -31,13 +31,13 @@ Fresh, filling, and full of flavor—this easy linguine comes together in just 2
 
 1. **Cook pasta**: Cook pasta according to package directions. Reserve ½ cup pasta cooking water. Drain and return to pot.
 
-2. **Sauté mushrooms**: Meanwhile, in extra-large nonstick skillet, cook mushrooms and garlic over medium-high 5 minutes until tender and liquid evaporates, stirring occasionally.
+1. **Sauté mushrooms**: Meanwhile, in extra-large nonstick skillet, cook mushrooms and garlic over medium-high 5 minutes until tender and liquid evaporates, stirring occasionally.
 
-3. **Make pesto**: Transfer mushroom mixture to food processor. Add basil, broth, walnuts, salt, pepper, and 1 tablespoon lemon juice. Pulse until uniformly blended.
+1. **Make pesto**: Transfer mushroom mixture to food processor. Add basil, broth, walnuts, salt, pepper, and 1 tablespoon lemon juice. Pulse until uniformly blended.
 
-4. **Make topping**: In bowl, combine beans, arugula, lemon zest, and remaining 2 tablespoons lemon juice. Season with additional salt and pepper.
+1. **Make topping**: In bowl, combine beans, arugula, lemon zest, and remaining 2 tablespoons lemon juice. Season with additional salt and pepper.
 
-5. **Toss and serve**: Toss mushroom pesto with pasta to coat, adding reserved pasta water a little at a time as needed to make creamy. Serve topped with bean mixture.
+1. **Toss and serve**: Toss mushroom pesto with pasta to coat, adding reserved pasta water a little at a time as needed to make creamy. Serve topped with bean mixture.
 
 ---
 

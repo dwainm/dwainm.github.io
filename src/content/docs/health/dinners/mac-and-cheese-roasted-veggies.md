@@ -31,11 +31,11 @@ This gorgeous dish takes vegan mac and cheese to a whole new level. Pasta and an
 
 1. **Roast tomatoes**: Preheat oven to 450°F. Line a 15x10-inch baking pan with parchment paper. Spread tomatoes in prepared pan. Roast 10-12 minutes or until lightly browned and skins begin to pop. Season with black pepper.
 
-2. **Cook pasta**: Cook pasta according to package directions; drain. Return pasta to pot. Add Queso Sauce; toss to coat, adding water, 1 Tbsp. at a time, as needed to make creamy.
+1. **Cook pasta**: Cook pasta according to package directions; drain. Return pasta to pot. Add Queso Sauce; toss to coat, adding water, 1 Tbsp. at a time, as needed to make creamy.
 
-3. **Sauté vegetables**: Meanwhile, in an extra-large nonstick skillet cook mushrooms, bell pepper, onion, and garlic over medium heat for 5 minutes or until tender and any liquid has evaporated, stirring occasionally.
+1. **Sauté vegetables**: Meanwhile, in an extra-large nonstick skillet cook mushrooms, bell pepper, onion, and garlic over medium heat for 5 minutes or until tender and any liquid has evaporated, stirring occasionally.
 
-4. **Assemble**: Spoon pasta mixture into bowls. Top with mushroom mixture and tomatoes. Sprinkle with basil and Aleppo pepper.
+1. **Assemble**: Spoon pasta mixture into bowls. Top with mushroom mixture and tomatoes. Sprinkle with basil and Aleppo pepper.
 
 ---
 

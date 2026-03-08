@@ -28,15 +28,15 @@ These baked falafels taste just as good as the fried original, without all the a
 
 1. **Prep**: Preheat the oven to 400°F. Line a baking sheet with parchment paper.
 
-2. **Process**: Combine all ingredients (chickpeas, onion, garlic, parsley, arrowroot, coriander, cumin, salt, and pepper) in a food processor and process, leaving a little texture to the beans.
+1. **Process**: Combine all ingredients (chickpeas, onion, garlic, parsley, arrowroot, coriander, cumin, salt, and pepper) in a food processor and process, leaving a little texture to the beans.
 
-3. **Shape**: Shape the mixture into balls, using a small ice cream scoop or tablespoon. Place them on the baking sheet.
+1. **Shape**: Shape the mixture into balls, using a small ice cream scoop or tablespoon. Place them on the baking sheet.
 
-4. **Bake first side**: Bake for 25 minutes.
+1. **Bake first side**: Bake for 25 minutes.
 
-5. **Flip and finish**: Turn the falafel balls over and bake for 20 minutes more, until crispy.
+1. **Flip and finish**: Turn the falafel balls over and bake for 20 minutes more, until crispy.
 
-6. **Serve**: Enjoy warm or at room temperature.
+1. **Serve**: Enjoy warm or at room temperature.
 
 ---
 

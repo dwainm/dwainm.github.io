@@ -34,15 +34,15 @@ A nourishing, warming casserole where potatoes, cauliflower, and vegetables bake
 
 1. **Make spice mix**: In small bowl, stir together cumin, salt, ginger, turmeric, cayenne, and cinnamon. Set aside.
 
-2. **Preheat**: Oven to 375°F (190°C).
+1. **Preheat**: Oven to 375°F (190°C).
 
-3. **Boil rice and vegetables**: In 6-qt Dutch oven, bring 10 cups water to boil. Stir in rice, return to boil, reduce heat. Simmer 15 minutes. Add potatoes, simmer 10 minutes. Add cauliflower and carrot, simmer 2 minutes more. Vegetables will still be crisp. Drain and return to Dutch oven.
+1. **Boil rice and vegetables**: In 6-qt Dutch oven, bring 10 cups water to boil. Stir in rice, return to boil, reduce heat. Simmer 15 minutes. Add potatoes, simmer 10 minutes. Add cauliflower and carrot, simmer 2 minutes more. Vegetables will still be crisp. Drain and return to Dutch oven.
 
-4. **Combine**: Stir in chickpeas, tomato sauce, diced tomatoes, and peas. Add spice mix and stir well.
+1. **Combine**: Stir in chickpeas, tomato sauce, diced tomatoes, and peas. Add spice mix and stir well.
 
-5. **Bake**: Spread into 3-qt baking dish. Cover and bake 25-30 minutes until heated through and vegetables are tender.
+1. **Bake**: Spread into 3-qt baking dish. Cover and bake 25-30 minutes until heated through and vegetables are tender.
 
-6. **Rest**: Let stand 10 minutes before serving. Top with cilantro if desired.
+1. **Rest**: Let stand 10 minutes before serving. Top with cilantro if desired.
 
 ---
 

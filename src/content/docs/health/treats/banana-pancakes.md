@@ -27,15 +27,15 @@ Classic fluffy pancakes made with mashed bananas for natural sweetness. The spar
 
 1. **Mix dry**: In bowl, combine flour, baking powder, salt, and egg replacer.
 
-2. **Mix wet**: In separate bowl, mash bananas well. Stir in plant milk and sparkling water.
+1. **Mix wet**: In separate bowl, mash bananas well. Stir in plant milk and sparkling water.
 
-3. **Combine**: Pour wet into dry ingredients. Stir to combine, being careful not to overmix. Batter will be slightly lumpy.
+1. **Combine**: Pour wet into dry ingredients. Stir to combine, being careful not to overmix. Batter will be slightly lumpy.
 
-4. **Cook**: Heat nonstick griddle over medium heat. Pour ¼ cup batter per pancake. Flatten slightly with measuring cup bottom.
+1. **Cook**: Heat nonstick griddle over medium heat. Pour ¼ cup batter per pancake. Flatten slightly with measuring cup bottom.
 
-5. **Flip**: When bubbles appear and edges turn golden, flip and cook until browned on both sides.
+1. **Flip**: When bubbles appear and edges turn golden, flip and cook until browned on both sides.
 
-6. **Serve**: Hot, topped with blueberries or your favorite toppings.
+1. **Serve**: Hot, topped with blueberries or your favorite toppings.
 
 ---
 

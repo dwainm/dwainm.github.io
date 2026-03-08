@@ -90,10 +90,10 @@ Our core rotation. These are automatic, repeatable, and scalable.
 ## Rules for Adding Meals
 
 1. Must feed 6 people without stress
-2. Must use ingredients on our standard shopping list
-3. Must be acceptable to all 4 kids (or easily modified)
-4. Must work as leftovers for lunch
-5. No more than 22 total
+1. Must use ingredients on our standard shopping list
+1. Must be acceptable to all 4 kids (or easily modified)
+1. Must work as leftovers for lunch
+1. No more than 22 total
 
 ---
 

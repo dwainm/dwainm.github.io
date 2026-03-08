@@ -29,15 +29,15 @@ Transform ordinary steamed potatoes into this comforting hash brown–inspired p
 
 1. **Steam potatoes**: Place whole potatoes in steamer basket over boiling water. Steam covered 10-15 minutes until tender. (Microwave option: prick potatoes, microwave 5 minutes, flip, microwave 5 more minutes.) Let cool, then roughly chop.
 
-2. **Make sauce**: In large bowl, whisk together vinegar and tahini. Whisk in milk, nutritional yeast, smoked paprika, and salt.
+1. **Make sauce**: In large bowl, whisk together vinegar and tahini. Whisk in milk, nutritional yeast, smoked paprika, and salt.
 
-3. **Mash beans**: Add beans to sauce; use spoon or spatula to mash gently and combine.
+1. **Mash beans**: Add beans to sauce; use spoon or spatula to mash gently and combine.
 
-4. **Combine**: Stir chopped potatoes and chives into bean mixture.
+1. **Combine**: Stir chopped potatoes and chives into bean mixture.
 
-5. **Bake**: Transfer to 9-inch pie plate; press evenly. Season with pepper. Bake 15 minutes at 450°F until golden.
+1. **Bake**: Transfer to 9-inch pie plate; press evenly. Season with pepper. Bake 15 minutes at 450°F until golden.
 
-6. **Serve**: Let cool 5 minutes, cut into wedges. Serve hot.
+1. **Serve**: Let cool 5 minutes, cut into wedges. Serve hot.
 
 ---
 

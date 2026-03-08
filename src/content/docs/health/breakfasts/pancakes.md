@@ -39,11 +39,11 @@ Weekend breakfast for the family. No refined flour, no added oil, still deliciou
 ### Method
 
 1. **Blend**: Add all ingredients to blender. Blend 30-60 seconds until smooth.
-2. **Rest**: Let batter sit 5 minutes while pan heats
-3. **Cook**: Heat non-stick pan or griddle over medium heat
-4. **Pour**: ¼ cup batter per pancake
-5. **Flip**: When bubbles form on surface and edges look set (2-3 minutes)
-6. **Cook**: 1-2 minutes on second side until golden
+1. **Rest**: Let batter sit 5 minutes while pan heats
+1. **Cook**: Heat non-stick pan or griddle over medium heat
+1. **Pour**: ¼ cup batter per pancake
+1. **Flip**: When bubbles form on surface and edges look set (2-3 minutes)
+1. **Cook**: 1-2 minutes on second side until golden
 
 *These have a heartier texture and more fiber than flour-based pancakes.*
 
@@ -78,10 +78,10 @@ Weekend breakfast for the family. No refined flour, no added oil, still deliciou
 ### Method
 
 1. **Mix dry**: Whisk flour, baking powder, baking soda, salt, cinnamon
-2. **Mix wet**: Combine plant milk, applesauce, maple syrup, vanilla, vinegar
-3. **Combine**: Pour wet into dry. Stir until just combined — lumps okay. Do not overmix.
-4. **Rest**: 5 minutes
-5. **Cook**: As directed above
+1. **Mix wet**: Combine plant milk, applesauce, maple syrup, vanilla, vinegar
+1. **Combine**: Pour wet into dry. Stir until just combined — lumps okay. Do not overmix.
+1. **Rest**: 5 minutes
+1. **Cook**: As directed above
 
 ---
 
@@ -115,9 +115,9 @@ Combine and store in jar:
 ### Freeze Cooked Pancakes
 
 1. Cool completely on wire rack
-2. Freeze in single layer on baking sheet
-3. Transfer to freezer bag
-4. Reheat in toaster or microwave
+1. Freeze in single layer on baking sheet
+1. Transfer to freezer bag
+1. Reheat in toaster or microwave
 
 **Keeps 2 months in freezer**
 
@@ -126,9 +126,9 @@ Combine and store in jar:
 ## Lower Calorie Tips
 
 1. **Skip the maple syrup** — use fresh fruit or applesauce
-2. **Make smaller pancakes** — easier to control portions
-3. **Load up on berries** — high volume, low calorie
-4. **Use unsweetened plant milk**
+1. **Make smaller pancakes** — easier to control portions
+1. **Load up on berries** — high volume, low calorie
+1. **Use unsweetened plant milk**
 
 ---
 

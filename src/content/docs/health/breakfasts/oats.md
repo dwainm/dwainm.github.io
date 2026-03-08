@@ -20,67 +20,27 @@ For a lighter, lower-calorie version, see [Steel-Cut Oats (Stovetop)](#steel-cut
 
 ---
 
-## Peanut Butter Banana Power Bowl
-
-**Serves 1 | ~500 calories | Ready in 10 minutes**
-
-This is our go-to high-energy breakfast. The peanut butter and banana combo is addictive, naturally sweet, and keeps you full for hours.
-
-### Ingredients
-
-| Ingredient | Amount | Notes |
-|------------|--------|-------|
-| Rolled oats (old-fashioned) | ½ cup | Not instant—better texture |
-| Unsweetened almond milk | 1 cup | Or any milk you prefer |
-| Water | ½ cup | For creaminess |
-| Ripe banana, mashed | 1 medium | Plus extra slices for topping |
-| Natural peanut butter | 2 tbsp | ~190 calories of flavor |
-| Maple syrup or honey | 1 tbsp | Start here, adjust to taste |
-| Cinnamon | ½ tsp | Warm, flavorful depth |
-| Salt | pinch | Enhances everything |
-| **Optional boosts** | | |
-| Chia seeds | 1 tbsp | +60 cal, omega-3s, creaminess |
-| Chopped walnuts | 1 tbsp | +80 cal, crunch |
-
-### Method
-
-1. **Combine**: Add oats, almond milk, water, mashed banana, cinnamon, and salt to pot
-2. **Cook**: Bring to gentle boil, reduce to low, simmer 5-8 minutes until thick and creamy. Stir occasionally. Add splash more liquid if too thick.
-3. **Enrich**: Remove from heat. Stir in peanut butter and maple syrup until fully melted and incorporated—this makes it velvety.
-4. **Taste**: Adjust sweetness if needed (banana keeps it naturally sweet)
-5. **Top**: Spoon into bowl. Add banana slices, drizzle of extra peanut butter, sprinkle of cinnamon, and any nuts/chia for crunch.
-
-### Nutrition (with chia seeds)
-
-- **Calories**: ~500
-- **Protein**: ~15g
-- **Carbs**: ~65g
-- **Fat**: ~22g (healthy fats from PB)
-- **Fiber**: ~10g
-
----
-
 ## Stovetop Oats
 
 **Base recipe: 1 cup oats | Scale up as needed**
 
 Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oats. Both work with the apple-carrot variation.
 
-### Steel-Cut Oats
+### Simple Oats
 
 **Serves 2-3 | 20-30 minutes**
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Steel-cut oats | 1 cup | Also called Irish oats |
+| Jungle Oats (regular stell cut) | 1 cup | Also called Irish oats |
 | Water | 3 cups | Or unsweetened plant milk (3:1 ratio) |
 | Salt | ¼ tsp | Essential for flavor |
 | Cinnamon | ¼ tsp | Optional |
 
 **Method:**
 1. **Add liquid and salt**: Bring to boil
-2. **Simmer**: Reduce heat, cover, cook 20-30 minutes until creamy
-3. **Stir occasionally**: Prevent sticking
+1. **Simmer**: Reduce heat, cover, cook 20-30 minutes until creamy
+1. **Stir occasionally**: Prevent sticking
 
 ### Rolled Oats
 
@@ -94,11 +54,11 @@ Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oa
 
 **Method:**
 1. **Combine**: Add oats, water, and salt to pot
-2. **Boil**: Bring to boil over medium-high heat
-3. **Simmer**: Reduce heat, cook 3-5 minutes, stirring occasionally
-4. **Rest**: Remove from heat, let stand 1 minute to thicken
+1. **Boil**: Bring to boil over medium-high heat
+1. **Simmer**: Reduce heat, cook 3-5 minutes, stirring occasionally
+1. **Rest**: Remove from heat, let stand 1 minute to thicken
 
-### Apple-Carrot Variation
+### Apple-Carrot Oats Variation
 
 **Per 1 cup oats:**
 - 1 medium apple, grated
@@ -107,9 +67,9 @@ Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oa
 
 **Method:**
 1. **Grate**: Apple and carrot (no need to peel)
-2. **Microwave**: Place grated mixture and water in bowl. Cover and microwave 2-3 minutes until soft
-3. **Add to pot**: Stir into oats during last 5 minutes (steel-cut) or last 2 minutes (rolled) of cooking
-4. **Season**: Add cinnamon, vanilla, nuts
+1. **Microwave**: Place grated mixture and water in bowl. Cover and microwave 2-3 minutes until soft
+1. **Add to pot**: Stir into oats during last 5 minutes (steel-cut) or last 2 minutes (rolled) of cooking
+1. **Season**: Add cinnamon, vanilla, nuts
 
 **Benefits:**
 - Natural sweetness reduces need for added sugar
@@ -143,9 +103,9 @@ Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oa
 ### Method
 
 1. Combine all ingredients in jar or bowl
-2. Stir well
-3. Refrigerate overnight (minimum 4 hours)
-4. Serve cold or warmed slightly
+1. Stir well
+1. Refrigerate overnight (minimum 4 hours)
+1. Serve cold or warmed slightly
 
 ### Flavor Variations
 
@@ -182,10 +142,10 @@ Use steel-cut for chewy texture (longer cook), or rolled oats for creamy fast oa
 ### Method
 
 1. Preheat oven to 375°F (190°C)
-2. Mix all ingredients in large bowl
-3. Pour into 9x13 baking dish
-4. Bake 35-40 minutes until set
-5. Serve warm or cool completely for grab-and-go portions
+1. Mix all ingredients in large bowl
+1. Pour into 9x13 baking dish
+1. Bake 35-40 minutes until set
+1. Serve warm or cool completely for grab-and-go portions
 
 ---
 

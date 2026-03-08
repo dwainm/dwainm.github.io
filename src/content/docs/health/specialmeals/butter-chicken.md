@@ -48,14 +48,14 @@ Rich, creamy, crowd-pleasing. Our go-to for impressing guests.
 ## Method
 
 1. **Sauté aromatics**: Melt butter, add onions, garlic, ginger. Cook until soft and golden
-2. **Toast spices**: Add butter chicken spice and bay leaves, cook 1 minute
-3. **Build base**: Add tomato paste, cook 2 minutes. Add whole tomatoes
-4. **Simmer**: Let sauce reduce and deepen, 15-20 minutes
-5. **Add chicken**: Cube and add to sauce, cook until done (20-25 min)
-6. **Sweeten**: Add chopped dates, stir to dissolve
-7. **Vegetables**: Add peppers, cook 5 minutes until tender-crisp
-8. **Finish**: Add extra butter, toasted cashews, fresh coriander
-9. **Adjust**: Taste for salt, add stock powder if needed
+1. **Toast spices**: Add butter chicken spice and bay leaves, cook 1 minute
+1. **Build base**: Add tomato paste, cook 2 minutes. Add whole tomatoes
+1. **Simmer**: Let sauce reduce and deepen, 15-20 minutes
+1. **Add chicken**: Cube and add to sauce, cook until done (20-25 min)
+1. **Sweeten**: Add chopped dates, stir to dissolve
+1. **Vegetables**: Add peppers, cook 5 minutes until tender-crisp
+1. **Finish**: Add extra butter, toasted cashews, fresh coriander
+1. **Adjust**: Taste for salt, add stock powder if needed
 
 ## Serving
 

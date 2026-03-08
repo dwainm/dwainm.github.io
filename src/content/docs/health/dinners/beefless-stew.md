@@ -31,13 +31,13 @@ A chunky, classic-style stew that delivers all the comfort of traditional beef s
 
 1. **Sauté vegetables**: In Dutch oven or soup pot, cook onions, carrots, and celery with 1 tablespoon water over medium-high heat for 8 minutes, stirring frequently and adding water 1-2 tablespoons at a time as needed to prevent sticking.
 
-2. **Add mushrooms**: Stir in mushrooms and garlic; cook 5 minutes more, stirring frequently and adding water as needed.
+1. **Add mushrooms**: Stir in mushrooms and garlic; cook 5 minutes more, stirring frequently and adding water as needed.
 
-3. **Add remaining ingredients**: Stir in potatoes, tomato paste, Italian seasoning, and paprika. Add 5 cups water. Bring to boiling; reduce heat to medium-low. Stir in rosemary.
+1. **Add remaining ingredients**: Stir in potatoes, tomato paste, Italian seasoning, and paprika. Add 5 cups water. Bring to boiling; reduce heat to medium-low. Stir in rosemary.
 
-4. **Simmer**: Cook covered 15 minutes, stirring occasionally. Stir in peas; cook covered 5 minutes more until carrots and potatoes are tender.
+1. **Simmer**: Cook covered 15 minutes, stirring occasionally. Stir in peas; cook covered 5 minutes more until carrots and potatoes are tender.
 
-5. **Thicken**: Transfer 2 cups of mixture to blender. Cover and blend until smooth. Return to soup pot. Stir in parsley.
+1. **Thicken**: Transfer 2 cups of mixture to blender. Cover and blend until smooth. Return to soup pot. Stir in parsley.
 
 ---
 

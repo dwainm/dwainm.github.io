@@ -24,17 +24,17 @@ Sweet, cinnamon-dusted bananas that are gooey inside and crisp outside. This hea
 
 1. **Preheat**: Turn on broiler.
 
-2. **Make glaze**: In small bowl, whisk together maple syrup, vanilla, and cinnamon.
+1. **Make glaze**: In small bowl, whisk together maple syrup, vanilla, and cinnamon.
 
-3. **Prepare dish**: Brush thin layer of glaze on bottom of broiler-safe shallow baking dish.
+1. **Prepare dish**: Brush thin layer of glaze on bottom of broiler-safe shallow baking dish.
 
-4. **Arrange**: Place banana halves, cut sides up, in dish.
+1. **Arrange**: Place banana halves, cut sides up, in dish.
 
-5. **First broil**: Brush bananas with half remaining glaze. Broil 4-5 inches from heat 5 minutes until they begin to soften and darken.
+1. **First broil**: Brush bananas with half remaining glaze. Broil 4-5 inches from heat 5 minutes until they begin to soften and darken.
 
-6. **Second broil**: Brush with remaining glaze and sprinkle with extra cinnamon. Broil 3 minutes more until caramelized.
+1. **Second broil**: Brush with remaining glaze and sprinkle with extra cinnamon. Broil 3 minutes more until caramelized.
 
-7. **Serve**: Hot, with aquafaba whipped cream. Sprinkle cream with additional cinnamon if desired.
+1. **Serve**: Hot, with aquafaba whipped cream. Sprinkle cream with additional cinnamon if desired.
 
 ---
 

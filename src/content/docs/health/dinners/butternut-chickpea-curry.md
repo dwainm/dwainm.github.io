@@ -34,15 +34,15 @@ A creamy, satisfying curry that uses butternut instead of pumpkin for natural sw
 
 1. **Sauté aromatics**: Heat 2 tbsp water or broth in large pot. Sauté onion 5 minutes until soft. Add garlic and ginger, cook 1 minute.
 
-2. **Toast spices**: Add curry powder, cumin, turmeric, and cayenne. Stir 30 seconds until fragrant.
+1. **Toast spices**: Add curry powder, cumin, turmeric, and cayenne. Stir 30 seconds until fragrant.
 
-3. **Add squash and liquid**: Add butternut cubes, chickpeas, coconut milk, and broth. Bring to boil.
+1. **Add squash and liquid**: Add butternut cubes, chickpeas, coconut milk, and broth. Bring to boil.
 
-4. **Simmer**: Reduce heat, cover, simmer 20-25 minutes until squash is tender. Stir occasionally.
+1. **Simmer**: Reduce heat, cover, simmer 20-25 minutes until squash is tender. Stir occasionally.
 
-5. **Finish**: Stir in spinach until wilted. Add lime juice. Taste and adjust salt.
+1. **Finish**: Stir in spinach until wilted. Add lime juice. Taste and adjust salt.
 
-6. **Serve**: Over brown rice or with whole grain naan. Garnish with cilantro if desired.
+1. **Serve**: Over brown rice or with whole grain naan. Garnish with cilantro if desired.
 
 ---
 

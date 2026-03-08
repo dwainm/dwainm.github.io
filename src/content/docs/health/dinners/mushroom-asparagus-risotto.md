@@ -32,15 +32,15 @@ Umami-rich mushrooms and earthy asparagus are the dream team in this classic Ita
 
 1. **Warm broth**: In medium saucepan, combine broth and 3 cups water. Bring to boiling; reduce heat to keep warm.
 
-2. **Sauté vegetables**: In 4- to 5-quart Dutch oven, cook mushrooms, onion, and garlic over medium 5-6 minutes, stirring occasionally and adding hot broth 1-2 tablespoons at a time as needed to prevent sticking.
+1. **Sauté vegetables**: In 4- to 5-quart Dutch oven, cook mushrooms, onion, and garlic over medium 5-6 minutes, stirring occasionally and adding hot broth 1-2 tablespoons at a time as needed to prevent sticking.
 
-3. **Add wine**: Add wine; cook 1-2 minutes until evaporated. Add rice; cook 1-2 minutes until rice smells nutty.
+1. **Add wine**: Add wine; cook 1-2 minutes until evaporated. Add rice; cook 1-2 minutes until rice smells nutty.
 
-4. **Cook risotto**: Add ½ cup hot broth to rice mixture; stir frequently until absorbed. Continue adding broth in ½-cup increments until rice is nearly tender, about 45 minutes.
+1. **Cook risotto**: Add ½ cup hot broth to rice mixture; stir frequently until absorbed. Continue adding broth in ½-cup increments until rice is nearly tender, about 45 minutes.
 
-5. **Add asparagus**: Add asparagus; cook 3-5 minutes more until rice and asparagus are tender.
+1. **Add asparagus**: Add asparagus; cook 3-5 minutes more until rice and asparagus are tender.
 
-6. **Finish**: Stir in lemon juice, dill, salt, and pepper. Sprinkle with nutritional yeast if using. Serve with lemon wedges.
+1. **Finish**: Stir in lemon juice, dill, salt, and pepper. Sprinkle with nutritional yeast if using. Serve with lemon wedges.
 
 ---
 

@@ -45,24 +45,24 @@ Hearty, rustic, winter comfort. Mixed meats for depth of flavor.
 
 ### Brown
 1. **Sear lamb first**: Brown in batches (takes longer, needs head start)
-2. **Remove lamb**, sear beef
-3. **Sauté onions** in same pot until deeply golden
-4. **Add aromatics**: Garlic, ginger, cook 1 minute
+1. **Remove lamb**, sear beef
+1. **Sauté onions** in same pot until deeply golden
+1. **Add aromatics**: Garlic, ginger, cook 1 minute
 
 ### Build
-5. **Return meat** to pot
-6. **Add herbs**: Coriander, mixed herbs, bay leaves
-7. **Deglaze**: Red wine, scrape bottom
-8. **Add liquid**: Stock and chakalaka soup
-9. **Layer vegetables**:
+1. **Return meat** to pot
+1. **Add herbs**: Coriander, mixed herbs, bay leaves
+1. **Deglaze**: Red wine, scrape bottom
+1. **Add liquid**: Stock and chakalaka soup
+1. **Layer vegetables**:
    - Sweet potato slices
    - Carrot slices
    - Baby potatoes on top
 
 ### Cook
-10. **Pressure cooker**: 35 minutes high pressure, natural release 10 min
-11. **OR slow cook**: 6-8 hours on low
-12. **OR stovetop**: Simmer covered 2.5-3 hours
+1. **Pressure cooker**: 35 minutes high pressure, natural release 10 min
+1. **OR slow cook**: 6-8 hours on low
+1. **OR stovetop**: Simmer covered 2.5-3 hours
 
 ## Serving
 

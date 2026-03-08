@@ -26,17 +26,17 @@ These raw chocolate bites might look and taste decadent, but they're mainly made
 
 1. **Prep**: Chop carrot into large pieces.
 
-2. **Process**: In food processor, blend carrots, figs, and dates 10-15 seconds until minced. Set aside.
+1. **Process**: In food processor, blend carrots, figs, and dates 10-15 seconds until minced. Set aside.
 
-3. **Mash**: In large bowl, mash banana and oats with fork or hands until combined.
+1. **Mash**: In large bowl, mash banana and oats with fork or hands until combined.
 
-4. **Mix**: Add carrot mixture and cacao powder to banana-oat mixture. Blend until uniform.
+1. **Mix**: Add carrot mixture and cacao powder to banana-oat mixture. Blend until uniform.
 
-5. **Shape**: Form into 1-inch round balls.
+1. **Shape**: Form into 1-inch round balls.
 
-6. **Coat** (optional): Roll in shredded coconut.
+1. **Coat** (optional): Roll in shredded coconut.
 
-7. **Chill**: Refrigerate at least 30 minutes to firm up.
+1. **Chill**: Refrigerate at least 30 minutes to firm up.
 
 ---
 

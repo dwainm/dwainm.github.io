@@ -39,17 +39,17 @@ A good veggie burger should stick together without crumbling, fill your belly, a
 
 1. **Pulse vegetables**: In food processor, combine first 7 ingredients (through garlic). Pulse into small bits.
 
-2. **Cook**: Transfer to large skillet. Cook over medium 15 minutes until moisture has cooked off, stirring frequently. Do not add liquid.
+1. **Cook**: Transfer to large skillet. Cook over medium 15 minutes until moisture has cooked off, stirring frequently. Do not add liquid.
 
-3. **Add beans and seasonings**: Add next 7 ingredients (through crushed red pepper). Mix well and coarsely mash. Remove from heat and cool.
+1. **Add beans and seasonings**: Add next 7 ingredients (through crushed red pepper). Mix well and coarsely mash. Remove from heat and cool.
 
-4. **Preheat**: Oven to 350°F. Line baking sheet with parchment.
+1. **Preheat**: Oven to 350°F. Line baking sheet with parchment.
 
-5. **Shape patties**: Form bean mixture into twelve 3-inch patties (⅓ cup mixture each). Arrange on baking sheet.
+1. **Shape patties**: Form bean mixture into twelve 3-inch patties (⅓ cup mixture each). Arrange on baking sheet.
 
-6. **Bake**: 35-40 minutes until evenly browned.
+1. **Bake**: 35-40 minutes until evenly browned.
 
-7. **Assemble**: Spread mustard and ketchup on buns. Add lettuce, burgers, tomato, and onion. Sprinkle with additional parsley if desired.
+1. **Assemble**: Spread mustard and ketchup on buns. Add lettuce, burgers, tomato, and onion. Sprinkle with additional parsley if desired.
 
 ---
 

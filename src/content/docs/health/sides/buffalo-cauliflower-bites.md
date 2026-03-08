@@ -29,17 +29,17 @@ Crispy, spicy cauliflower bites that satisfy the craving for buffalo wings—wit
 
 1. **Preheat**: Oven to 450°F (230°C). Line 2 baking sheets with parchment paper.
 
-2. **Make batter**: In blender, combine brown rice flour, almond flour, tomato paste, garlic powder, onion powder, smoked paprika, parsley, and ⅔ cup water. Blend until smooth and thick.
+1. **Make batter**: In blender, combine brown rice flour, almond flour, tomato paste, garlic powder, onion powder, smoked paprika, parsley, and ⅔ cup water. Blend until smooth and thick.
 
-3. **Coat cauliflower**: Transfer batter to large bowl. Add cauliflower florets and toss until well coated.
+1. **Coat cauliflower**: Transfer batter to large bowl. Add cauliflower florets and toss until well coated.
 
-4. **Arrange**: Place florets in single layer on prepared baking sheets, making sure they don't touch each other.
+1. **Arrange**: Place florets in single layer on prepared baking sheets, making sure they don't touch each other.
 
-5. **Bake**: 20-25 minutes until crisp on edges. They won't be crispy all over while still in the oven.
+1. **Bake**: 20-25 minutes until crisp on edges. They won't be crispy all over while still in the oven.
 
-6. **Crisp**: Remove from oven and let stand 3 minutes to crisp up more.
+1. **Crisp**: Remove from oven and let stand 3 minutes to crisp up more.
 
-7. **Sauce**: Transfer to bowl and drizzle with hot sauce or barbecue sauce. Serve immediately.
+1. **Sauce**: Transfer to bowl and drizzle with hot sauce or barbecue sauce. Serve immediately.
 
 ---
 

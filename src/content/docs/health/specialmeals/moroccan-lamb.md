@@ -55,23 +55,23 @@ Mix together:
 
 ### Prep
 1. **Trim lamb**: Cut fat from meat, set fat aside
-2. **Spice meat**: Rub spice blend over lamb cubes, set aside
+1. **Spice meat**: Rub spice blend over lamb cubes, set aside
 
 ### Cook
-3. **Render fat**: Brown lamb fat in heavy pot to release oil (no added oil needed)
-4. **Sauté aromatics**: Add ginger-garlic-onion mix (reserve 1 onion), cook until golden
-5. **Sear meat**: Add spiced lamb, brown on all sides
-6. **Deglaze**: Add red wine, scrape bottom
-7. **Build liquid**: Add stock, whole tomatoes, salt, pepper
-8. **Layer vegetables**: 
+1. **Render fat**: Brown lamb fat in heavy pot to release oil (no added oil needed)
+1. **Sauté aromatics**: Add ginger-garlic-onion mix (reserve 1 onion), cook until golden
+1. **Sear meat**: Add spiced lamb, brown on all sides
+1. **Deglaze**: Add red wine, scrape bottom
+1. **Build liquid**: Add stock, whole tomatoes, salt, pepper
+1. **Layer vegetables**: 
    - Add thinly sliced sweet potato
    - Add thinly sliced carrots
    - Add halved baby potatoes
    - Add chopped dates
-9. **Top layer**: Quarter remaining onion into thick sheets, layer on top
-10. **Slow cook**: Cover, simmer 2-3 hours until lamb is tender
-11. **Finish**: Add peppers and mushrooms in last 30 minutes
-12. **Brighten**: Stir in lemon juice and fresh coriander before serving
+1. **Top layer**: Quarter remaining onion into thick sheets, layer on top
+1. **Slow cook**: Cover, simmer 2-3 hours until lamb is tender
+1. **Finish**: Add peppers and mushrooms in last 30 minutes
+1. **Brighten**: Stir in lemon juice and fresh coriander before serving
 
 ## Serving
 

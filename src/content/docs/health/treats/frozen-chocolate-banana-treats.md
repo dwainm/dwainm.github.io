@@ -27,17 +27,17 @@ These cocoa-rich frozen bites are rolled in crunchy cereal for a wholesome twist
 
 1. **Mash**: In large bowl, mash bananas with fork.
 
-2. **Mix**: Add cocoa powder, plant milk, maple syrup, vanilla, and peppermint (if using). Mash and stir to combine.
+1. **Mix**: Add cocoa powder, plant milk, maple syrup, vanilla, and peppermint (if using). Mash and stir to combine.
 
-3. **Add oats**: Stir in oats and mix well. If mixture is too runny, refrigerate 15-30 minutes to help set.
+1. **Add oats**: Stir in oats and mix well. If mixture is too runny, refrigerate 15-30 minutes to help set.
 
-4. **Prepare**: Line baking sheet with waxed or parchment paper. Place cereal in small bowl.
+1. **Prepare**: Line baking sheet with waxed or parchment paper. Place cereal in small bowl.
 
-5. **Shape**: Using melon baller or small spoon, scoop chocolate mixture and drop into cereal. Roll to coat completely. Place on prepared baking sheet. Flatten with back of spoon into cookie shape if desired.
+1. **Shape**: Using melon baller or small spoon, scoop chocolate mixture and drop into cereal. Roll to coat completely. Place on prepared baking sheet. Flatten with back of spoon into cookie shape if desired.
 
-6. **Freeze**: Place baking sheet in freezer until treats are frozen solid.
+1. **Freeze**: Place baking sheet in freezer until treats are frozen solid.
 
-7. **Store**: Transfer to airtight container and store in freezer.
+1. **Store**: Transfer to airtight container and store in freezer.
 
 ---
 
