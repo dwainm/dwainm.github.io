@@ -24,7 +24,7 @@ Bright aromas and bold flavors in this Chinese-inspired soup. Tart lemon juice m
 | Reduced-sodium soy sauce | 2 tbsp | Or tamari |
 | Arrowroot powder | 2 tbsp | |
 | Lemon juice | 1 tbsp | |
-| Fresh cilantro | 3 tbsp | Chopped, optional |
+| Fresh coriander | 3 tbsp | Chopped, optional |
 
 ---
 
@@ -37,7 +37,7 @@ Bright aromas and bold flavors in this Chinese-inspired soup. Tart lemon juice m
 
 1. **Make sauce**: Meanwhile, in small bowl whisk together remaining pinch of Sichuan pepper flakes, maple syrup, vinegar, soy sauce, arrowroot powder, and lemon juice.
 
-1. **Finish**: Stir sauce mixture into soup. Return to boiling; turn off heat. Sprinkle with cilantro and additional Sichuan pepper flakes if desired.
+1. **Finish**: Stir sauce mixture into soup. Return to boiling; turn off heat. Sprinkle with coriander and additional Sichuan pepper flakes if desired.
 
 ---
 

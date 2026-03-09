@@ -82,7 +82,7 @@ More spiced, coconut-based, no butter. Gets richness from coconut milk and almon
 - 1 can (400ml) full-fat coconut milk
 - 3 tbsp almond butter (or tahini/peanut butter)
 - Juice of ½ lemon
-- Fresh cilantro for garnish
+- Fresh coriander for garnish
 
 ### Method
 
@@ -93,7 +93,7 @@ More spiced, coconut-based, no butter. Gets richness from coconut milk and almon
 1. Add broth, lentils, tomatoes. Simmer covered 20-25 minutes
 1. Stir in coconut milk and almond butter, simmer uncovered 5-7 minutes
 1. Add lemon juice, adjust seasoning
-1. Garnish with cilantro, serve with rice or naan
+1. Garnish with coriander, serve with rice or naan
 
 ---
 

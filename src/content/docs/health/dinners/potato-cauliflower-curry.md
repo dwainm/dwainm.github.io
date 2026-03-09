@@ -26,7 +26,7 @@ A classic Indian curry combining tender potatoes, cauliflower, and peas in a cre
 | Cayenne pepper | To taste | Optional, for heat |
 | Sea salt | To taste | |
 | Cooked brown rice | 4 cups | For serving |
-| Fresh cilantro | 1 tbsp | For garnish |
+| Fresh coriander | 1 tbsp | For garnish |
 
 ---
 
@@ -43,7 +43,7 @@ A classic Indian curry combining tender potatoes, cauliflower, and peas in a cre
 
 1. **Combine**: Add steamed vegetables, peas, ground cashews, lime juice, and cayenne to sauce. Cook 5-7 minutes until sauce is absorbed by vegetables, stirring occasionally. Add water if needed for desired consistency. Season with salt.
 
-1. **Serve**: Over brown rice, sprinkled with cilantro.
+1. **Serve**: Over brown rice, sprinkled with coriander.
 
 ---
 

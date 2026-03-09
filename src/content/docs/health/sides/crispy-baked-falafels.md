@@ -54,7 +54,7 @@ These baked falafels taste just as good as the fried original, without all the a
 
 **Arrowroot substitute**: Cornstarch or tapioca starch work well if you don't have arrowroot.
 
-**Add cilantro**: Mix in 1 tbsp chopped fresh cilantro for extra flavor.
+**Add coriander**: Mix in 1 tbsp chopped fresh coriander for extra flavor.
 
 **Freezing**: These freeze well—make a double batch and freeze half for later.
 

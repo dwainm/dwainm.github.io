@@ -23,7 +23,7 @@ Loaded with veggies and fresh herbs, this Instant Pot rice pilaf is subtly sweet
 | Peas | ½ cup | Frozen |
 | Red bell pepper | ½ cup | Thinly sliced |
 | Fresh dill | ½ cup | Finely chopped |
-| Fresh cilantro | ¼ cup | Finely chopped |
+| Fresh coriander | ¼ cup | Finely chopped |
 | Lemon juice | 2 tbsp | |
 | Sea salt | ½ tsp | |
 | Black pepper | To taste | Freshly ground |
@@ -41,7 +41,7 @@ Loaded with veggies and fresh herbs, this Instant Pot rice pilaf is subtly sweet
 
 1. **Pressure cook**: Lock lid; set valve to Sealing. Cook on Rice setting about 22 minutes. Let pressure release naturally (about 20 minutes). Open lid carefully.
 
-1. **Add vegetables**: Stir in corn, peas, bell pepper, dill, cilantro, lemon juice, and salt.
+1. **Add vegetables**: Stir in corn, peas, bell pepper, dill, coriander, lemon juice, and salt.
 
 1. **Warm through**: Lock lid. Set on Keep Warm 10 minutes. Open lid, remove cinnamon and bay leaf. Season with black pepper.
 

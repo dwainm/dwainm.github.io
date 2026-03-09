@@ -26,7 +26,7 @@ A nourishing, warming casserole where potatoes, cauliflower, and vegetables bake
 | Tomato sauce (no salt) | 1 can (15 oz) | |
 | Fire-roasted diced tomatoes | 1 can (14.5 oz) | Undrained |
 | Frozen peas | ½ cup | |
-| Fresh cilantro | ¼ cup | Optional, for topping |
+| Fresh coriander | ¼ cup | Optional, for topping |
 
 ---
 
@@ -43,7 +43,7 @@ A nourishing, warming casserole where potatoes, cauliflower, and vegetables bake
 
 1. **Bake**: Spread into 3-qt baking dish. Cover and bake 25-30 minutes until heated through and vegetables are tender.
 
-1. **Rest**: Let stand 10 minutes before serving. Top with cilantro if desired.
+1. **Rest**: Let stand 10 minutes before serving. Top with coriander if desired.
 
 ---
 
