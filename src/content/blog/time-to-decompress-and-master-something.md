@@ -1,5 +1,5 @@
 ---
-title: time to decompress and master something
+title: Time to Decompress and Master Something
 date: 2026-03-13
 ---
 
