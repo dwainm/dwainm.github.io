@@ -39,7 +39,7 @@ Classic beans and rice get a kick with ancho chile powder and cumin. A creamy No
 
 1. **Bake**: Spoon mixture into 8×8-inch baking dish. Bake 25 minutes until bubbly.
 
-1. **Serve**: Garnish with fresh cilantro.
+1. **Serve**: Garnish with fresh coriander.
 
 ---
 

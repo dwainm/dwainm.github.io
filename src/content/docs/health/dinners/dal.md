@@ -58,42 +58,55 @@ Minimal spices in the dal itself. The magic is in the tadka.
 
 ---
 
-## Option 2: Vegan Red Lentil Curry
+## Option 2: Dal Review (Updated)
 
-*From [Rainbow Plant Life](https://www.youtube.com/watch?v=BHRyfEbhFFU) - [Full recipe](https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry)*
+*Modified from [Rainbow Plant Life](https://www.youtube.com/watch?v=BHRyfEbhFFU) - [Full recipe](https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry)*
 
-More spiced, coconut-based, no butter. Gets richness from coconut milk and almond butter.
+More spiced, coconut-based. Richness comes from coconut milk, dates, and sun-dried tomato paste.
 
-### Ingredients (serves 4-6)
+### Ingredients (per 1 cup red lentils)
 
+**Aromatics:**
 - 1 tbsp coconut oil
 - 4 cloves garlic, minced
 - 2-inch fresh ginger, grated
 - 1-2 serrano peppers, diced (deseed for mild)
-- 1 tsp ground cumin
-- ½ tsp ground coriander
-- ½ tsp red chili powder
-- 2 tsp curry powder
-- 1 tsp garam masala
+- 10-15 pearl onions, quartered (or 1 small red onion, diced)
+
+**Spices (1 tbsp each):**
+- 1 tbsp ground cumin
+- 1 tbsp ground coriander
+- 1 tbsp red chili powder
+- 1 tbsp curry powder
+- 1 tbsp garam masala
 - Salt and black pepper to taste
+
+**Dal Base:**
 - 1 cup red lentils, rinsed
 - 2 cups vegetable broth
-- 1 can (400g) crushed tomatoes
+- ½ can (200g) crushed tomatoes
+- 1 raw tomato, chopped
+- 1 sachet (2 tbsp) tomato paste
+- 1 tbsp sun-dried tomato paste
+- 3-4 dates, pitted and chopped
+
+**Finish:**
 - 1 can (400ml) full-fat coconut milk
-- 3 tbsp almond butter (or tahini/peanut butter)
-- Juice of ½ lemon
-- Fresh cilantro for garnish
+- ¼ large lemon, juiced (or juice of ½ small lemon)
+- **Optional:** Handful of spinach, handful of sliced mushrooms
+- Fresh coriander for garnish
 
 ### Method
 
 1. Get all ingredients ready.
 1. After skimming foam from lentils (see above), set aside
-1. Heat coconut oil, sauté garlic, ginger, peppers for 1-2 minutes
-1. Add all ground spices, stir 1 minute to bloom
-1. Add broth, lentils, tomatoes. Simmer covered 20-25 minutes
-1. Stir in coconut milk and almond butter, simmer uncovered 5-7 minutes
+1. Heat coconut oil, sauté garlic, ginger, peppers, and pearl onions for 2-3 minutes
+1. Add all ground spices (1 tbsp each), stir 1 minute to bloom
+1. Add broth, lentils, crushed tomatoes, raw tomato, tomato paste, sun-dried tomato paste, and dates. Simmer covered 20-25 minutes
+1. **Optional:** Add spinach and mushrooms in last 10 minutes of cooking
+1. Stir in coconut milk, simmer uncovered 5-7 minutes
 1. Add lemon juice, adjust seasoning
-1. Garnish with cilantro, serve with rice or naan
+1. Garnish with coriander, serve with rice or naan
 
 ---
 

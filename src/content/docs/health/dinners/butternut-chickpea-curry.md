@@ -43,7 +43,7 @@ A creamy, satisfying curry that uses butternut instead of pumpkin for natural sw
 
 1. **Finish**: Stir in spinach until wilted. Add lime juice. Taste and adjust salt.
 
-1. **Serve**: Over brown rice or with whole grain naan. Garnish with cilantro if desired.
+1. **Serve**: Over brown rice or with whole grain naan. Garnish with coriander if desired.
 
 ---
 

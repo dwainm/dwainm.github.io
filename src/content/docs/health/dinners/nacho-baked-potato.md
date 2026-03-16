@@ -34,7 +34,7 @@ A great go-to meal for busy parents or people. Super-quick, super-easy, super-fi
 
 1. **Assemble**: Slice potato open. Sprinkle with nutritional yeast if using. Layer on black beans, salsa, and avocado.
 
-1. **Garnish**: Season with salt and pepper. Garnish with cilantro and lime.
+1. **Garnish**: Season with salt and pepper. Garnish with coriander and lime.
 
 ---
 

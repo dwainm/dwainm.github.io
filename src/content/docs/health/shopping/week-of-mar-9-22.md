@@ -27,7 +27,7 @@ _Tip: checkboxes are interactive and saved in this browser._
 - [ ] Avocados: 12-16
 - [ ] Limes: 10-12
 - [ ] Lemons: 10-12
-- [ ] Fresh herbs (cilantro, basil, parsley): 8-10 bunches
+- [ ] Fresh herbs (coriander, basil, parsley): 8-10 bunches
 - [ ] Grapefruit: 24
 - [ ] Apples: 18-24
 - [ ] Bananas: 30-36
