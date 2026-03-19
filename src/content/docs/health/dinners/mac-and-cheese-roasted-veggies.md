@@ -16,7 +16,7 @@ This gorgeous dish takes vegan mac and cheese to a whole new level. Pasta and an
 |------------|--------|-------|
 | Grape or cherry tomatoes | 2 cups | |
 | Black pepper | To taste | Freshly ground |
-| Short whole wheat pasta (macaroni) | 12 oz | Dry |
+| Short whole wheat pasta (macaroni) | 3 cups | Dry |
 | Vegan Queso sauce | 1¼ to 1½ cups | [Recipe link](https://www.forksoverknives.com/recipes/vegan-sauces-condiments/vegan-queso-sauce/) |
 | Cremini mushrooms | 6 cups | Sliced fresh |
 | Bell pepper | 1 | Any color, chopped (1 cup) |

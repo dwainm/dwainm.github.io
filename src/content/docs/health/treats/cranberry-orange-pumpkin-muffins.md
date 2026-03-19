@@ -14,7 +14,7 @@ These wholesome muffins are packed with pumpkin, orange zest, and cranberries. T
 |------------|--------|-------|
 | Bananas, very ripe | 2 large | |
 | Orange juice | ½ cup | Plus zest of 1 orange |
-| Pumpkin puree | 1 can (15 oz) | Not pumpkin pie filling |
+| Pumpkin puree | 1 can | Not pumpkin pie filling |
 | Date paste | ½ cup | Or maple syrup |
 | Ground flax seeds | 2 tbsp | |
 | Pumpkin pie spice | 1 tbsp | |

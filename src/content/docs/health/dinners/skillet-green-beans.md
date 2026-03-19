@@ -15,8 +15,8 @@ Sweet caramelized onions and crunchy toasted almonds add delicious depth to this
 | Sweet onions | 6 cups | Thinly sliced (about 3 medium) |
 | Low-sodium vegetable broth | ½ cup | Divided |
 | Pure maple syrup | 2 tsp | |
-| Button mushrooms | 8 oz | Halved or quartered |
-| Green beans | 1 lb | Trimmed |
+| Button mushrooms | 2 cups | Halved or quartered (~225g) |
+| Green beans | 4 cups | Trimmed (~450g) |
 | Fresh thyme | ½ tsp | Chopped |
 | Sea salt and pepper | To taste | |
 | Sliced almonds | 2 tbsp | Toasted |

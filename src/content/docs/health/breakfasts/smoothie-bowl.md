@@ -59,7 +59,7 @@ Refreshing, nutrient-dense, and highly photogenic. Best in warm weather when you
 |------------|--------|
 | Frozen banana | 1 large |
 | Frozen mango | ½ cup |
-| Fresh spinach | 2 cups (about 2 oz) |
+| Fresh spinach | 2 cups | ~60g |
 | Plant milk | 1 cup |
 | Ground flaxseed | 1 tbsp |
 | Fresh parsley (optional) | small handful |

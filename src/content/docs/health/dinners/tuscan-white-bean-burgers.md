@@ -13,13 +13,13 @@ A good veggie burger should stick together without crumbling, fill your belly, a
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Onion | 1 cup | Finely chopped |
-| Trumpet mushrooms | 2 cups | Finely chopped (about 4 oz) |
+| Trumpet mushrooms | 2 cups | Finely chopped |
 | Carrots | 2 cups | Finely chopped |
 | Green beans | 2 cups | Finely chopped |
 | Celery | 1 cup | Finely chopped |
 | Fresh Italian parsley | ¼ cup | Chopped |
 | Garlic | 12 cloves | Minced |
-| Cannellini beans | 2 cans (15 oz each) | Rinsed and drained (3 cups) |
+| Cannellini beans | 2 cans | Rinsed and drained (3 cups) |
 | Cooked short grain brown rice | 1 cup | |
 | Dried Italian seasoning | 4½ tsp | Crushed |
 | White wine vinegar | 1 tbsp | |

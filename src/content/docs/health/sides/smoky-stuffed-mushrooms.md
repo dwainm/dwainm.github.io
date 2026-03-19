@@ -14,7 +14,7 @@ Melt-in-your-mouth mushroom caps are stuffed with a smoky, savory mixture of mas
 |------------|--------|-------|
 | Fennel bulb | 1 cup | Thinly sliced, fronds reserved for garnish |
 | Red onion | ¾ cup | Thickly sliced |
-| Cannellini beans | ¾ cup | Half of a 15-oz can, rinsed and drained |
+| Cannellini beans | ¾ cup | Half can, rinsed and drained |
 | Dates | 2 tbsp | Chopped (about 4 dates) |
 | Lemon juice | 2 tbsp | |
 | Ground cumin | 1 tsp | |

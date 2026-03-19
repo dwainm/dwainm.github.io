@@ -19,12 +19,12 @@ A nourishing, warming casserole where potatoes, cauliflower, and vegetables bake
 | Cayenne pepper | ⅛-¼ tsp | Adjust to taste |
 | Ground cinnamon | ⅛ tsp | |
 | Brown rice | 1 cup | Uncooked |
-| Yukon gold potatoes | 1 lb | Cut ¾-inch pieces |
+| Yukon gold potatoes | 3 cups | Cut ¾-inch pieces (~450g) |
 | Cauliflower florets | 4 cups | Small florets |
 | Carrot, thinly sliced | ½ cup | |
-| Chickpeas (canned) | 1 can (15 oz) | Rinsed and drained |
-| Tomato sauce (no salt) | 1 can (15 oz) | |
-| Fire-roasted diced tomatoes | 1 can (14.5 oz) | Undrained |
+| Chickpeas (canned) | 1 can | Rinsed and drained |
+| Tomato sauce (no salt) | 1 can | |
+| Fire-roasted diced tomatoes | 1 can | Undrained |
 | Frozen peas | ½ cup | |
 | Fresh coriander | ¼ cup | Optional, for topping |
 

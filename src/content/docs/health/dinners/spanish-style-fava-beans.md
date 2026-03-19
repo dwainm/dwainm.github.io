@@ -21,7 +21,7 @@ Smoked paprika gives this classic dish an unmistakably smoky flavor, while fresh
 | Smoked paprika | 1½ tsp | |
 | Green peas | 3 cups | Fresh shelled or frozen English peas |
 | Roma tomatoes | 2 cups | Coarsely chopped |
-| Fava beans (or butter beans) | 1 can (15 oz) | Rinsed and drained (2 cups) |
+| Fava beans (or butter beans) | 1 can | Rinsed and drained (2 cups) |
 | Low-sodium vegetable broth | ⅔ cup | |
 | Fresh parsley | ¼ cup | Chopped |
 | Sherry vinegar | 2 tbsp | |

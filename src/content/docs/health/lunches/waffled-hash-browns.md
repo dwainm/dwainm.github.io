@@ -20,13 +20,13 @@ A creative take on classic hash browns using a waffle iron. Shredded carrots and
 | Garlic | 1 clove | Minced |
 | Cayenne pepper | Pinch | |
 | Kale | 1 cup | Chopped |
-| Cannellini beans | 1 can (15 oz) | Rinsed and drained |
+| Cannellini beans | 1 can | Rinsed and drained |
 
 ### Hash Browns
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Onion | 1 small | |
-| Russet potato | 1 large (8 oz) | |
+| Russet potato | 1 large | ~225g |
 | Carrot | 1 medium | Peeled |
 | Turnip or beet | 1 small | Peeled |
 | Garlic | 2 cloves | Minced |

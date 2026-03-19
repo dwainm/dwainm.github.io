@@ -15,13 +15,13 @@ Whole grain rice simmered low and slow in a brothy, saffron-scented tomato sauce
 | Low-sodium vegetable broth | 4 cups | |
 | Saffron threads | ½ tsp | |
 | Extra-virgin olive oil | 1 tbsp | Optional (see tips) |
-| Button mushrooms | 8 oz | Trimmed and quartered |
+| Button mushrooms | 2 cups | Trimmed and quartered (~225g) |
 | Red or orange bell pepper | 1 | Cut into strips |
 | Pimiento-stuffed green olives | ½ cup | Sliced |
 | Smoked paprika | 1 tsp | |
 | Sea salt | ⅛ tsp | |
 | Short-grain brown rice | 2 cups | Dry |
-| Tomato sauce | 1 can (15 oz) | No-salt-added |
+| Tomato sauce | 1 can | No-salt-added |
 | Frozen green peas | 1½ cups | Thawed |
 | Frozen artichoke hearts | 1 cup | Quartered, thawed |
 | Lemon wedges | For serving | |

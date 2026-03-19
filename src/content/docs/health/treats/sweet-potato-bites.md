@@ -12,7 +12,7 @@ Based on an Okinawan recipe, these sweet potato bites were a staple—sweet pota
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Sweet potatoes | 1 lb | ~3 potatoes, any variety |
+| Sweet potatoes | 3 medium | Any variety (~450g) |
 | Brown sugar | 1 tbsp | Or maple syrup |
 | Ground peanuts, macadamia nuts, or sesame seeds | ⅓ cup | For coating |
 | Cinnamon | Dash | For serving |

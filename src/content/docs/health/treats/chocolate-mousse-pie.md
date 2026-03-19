@@ -24,7 +24,7 @@ A heavenly vegan mousse pie with a surprising secret ingredient: acorn squash. T
 ### Filling
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Acorn squash | 4 cups | 1¼ lbs peeled, seeded, cubed |
+| Acorn squash | 4 cups | Peeled, seeded, cubed |
 | Cocoa powder | ½ cup | Unsweetened |
 | Date paste | 1 cup | |
 | Vanilla extract | 1 tbsp | Pure |
@@ -52,7 +52,7 @@ A heavenly vegan mousse pie with a surprising secret ingredient: acorn squash. T
 
 **Squash alternatives**: Buttercup, kabocha, or pumpkin can substitute for acorn squash
 
-**Date paste**: Blend 1 lb pitted dates with 1 cup water until smooth
+**Date paste**: Blend 2½ cups pitted dates (~450g) with 1 cup water until smooth
 
 **Cashew-free**: Use sunflower seeds instead of cashews for nut-free version
 

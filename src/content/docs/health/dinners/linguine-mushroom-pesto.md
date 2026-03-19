@@ -16,8 +16,8 @@ Fresh, filling, and full of flavor—this easy linguine comes together in just 2
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Whole wheat linguine | 12 oz | Dry |
-| Button or cremini mushrooms | 1 lb | Sliced |
+| Whole wheat linguine | 3 cups | Dry |
+| Button or cremini mushrooms | 5 cups | Sliced (~450g) |
 | Garlic | 4 cloves | Minced |
 | Fresh basil | 1 cup | Lightly packed |
 | Low-sodium vegetable broth | ½ cup | |
@@ -25,7 +25,7 @@ Fresh, filling, and full of flavor—this easy linguine comes together in just 2
 | Sea salt | ¼ tsp | |
 | Black pepper | ¼ tsp | Freshly ground |
 | Lemon juice | 3 tbsp | Divided |
-| Cannellini beans | 1 can (15 oz) | No-salt-added, rinsed and drained (1½ cups) |
+| Cannellini beans | 1 can | No-salt-added, rinsed and drained (1½ cups) |
 | Fresh arugula | 3 cups | |
 | Lemon zest | ½ tsp | |
 

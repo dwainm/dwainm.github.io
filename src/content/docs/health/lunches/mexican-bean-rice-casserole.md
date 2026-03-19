@@ -19,7 +19,7 @@ Classic beans and rice get a kick with ancho chile powder and cumin. A creamy No
 | Ancho chile powder | 2 tsp | |
 | Zucchini, diced | 2 medium | ½-inch dice |
 | Cooked brown rice | 2 cups | |
-| Cooked black beans | 2 cups | Or 1 can (15 oz), drained |
+| Cooked black beans | 2 cups | Or 1 can, drained |
 | Corn kernels | 2 cups | About 3 ears |
 | No-Cheese Sauce | 1 recipe | See link below |
 | Cilantro, chopped | For garnish | |

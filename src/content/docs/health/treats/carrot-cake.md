@@ -13,7 +13,7 @@ Perfectly moist carrot cake studded with raisins and naturally sweetened with da
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Unsweetened plant milk | 1½ cups | Almond, soy, or oat |
-| Pitted whole dates, chopped | 4½ oz | ~5-6 Medjool dates |
+| Pitted whole dates, chopped | 5-6 Medjool dates | ~⅔ cup chopped |
 | Raisins | ¾ cup | Divided |
 | Ripe banana, sliced | ½ cup | ~1 medium |
 | Pure vanilla extract | 1 tsp | Or seeds from 1 vanilla bean |

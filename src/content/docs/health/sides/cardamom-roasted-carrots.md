@@ -12,7 +12,7 @@ Gorgeous jewel-tone carrots coated in warming cardamom, cinnamon, and cayenne. R
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Small to medium whole multicolor carrots | 3 lbs | Trimmed, tops on |
+| Small to medium whole multicolor carrots | 12-14 medium | Trimmed, tops on (~1.4 kg) |
 | Lemon juice | 2 tbsp | |
 | Tahini | 2 tbsp | |
 | Ground cardamom | 2 tsp | |

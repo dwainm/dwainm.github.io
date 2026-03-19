@@ -12,7 +12,7 @@ Transform ordinary steamed potatoes into this comforting hash brown–inspired p
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Yukon Gold potatoes | 1 lb | About 5, scrubbed |
+| Yukon Gold potatoes | 5 medium | Scrubbed (~450g) |
 | Apple cider vinegar | 1 tbsp | |
 | Tahini | 1½ tsp | |
 | Plant-based milk | 1½ tbsp | Unsweetened, unflavored |

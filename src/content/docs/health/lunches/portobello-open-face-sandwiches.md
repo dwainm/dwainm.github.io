@@ -19,7 +19,7 @@ Sink your teeth into meaty portobello mushrooms roasted in garlicky soy sauce. S
 | Bell peppers | 2 medium | Any color, halved |
 | Sweet onion | 1 medium | Sliced ½-inch thick |
 | Brown rice vinegar | 2 tbsp | Divided |
-| Cannellini beans | 1½ cans (15 oz) | Rinsed and drained (2¼ cups) |
+| Cannellini beans | 1½ cans | Rinsed and drained (2¼ cups) |
 | Plant-based milk | 3-4 tbsp | Unsweetened, unflavored |
 | Nutritional yeast | ¼ cup | |
 | Fresh chives | 2 tbsp | Chopped, plus more for garnish |

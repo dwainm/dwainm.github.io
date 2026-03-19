@@ -17,7 +17,7 @@ A chunky, classic-style stew that delivers all the comfort of traditional beef s
 | Celery | 3 ribs | Cut into ¾-inch pieces (about 1 cup) |
 | Portobello mushrooms | 2 medium | Cut into ¾-inch pieces (about 4 cups) |
 | Garlic | 6 cloves | Minced |
-| White potatoes | 2 lbs | Peeled and cut into ¾-inch chunks (about 6 cups) |
+| White potatoes | 6 cups | Peeled and cut into ¾-inch chunks |
 | Tomato paste | ⅓ cup | No-salt-added |
 | Dried Italian seasoning | 1 tbsp | |
 | Paprika | 1 tbsp | |

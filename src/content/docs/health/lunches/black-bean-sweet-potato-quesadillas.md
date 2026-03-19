@@ -16,8 +16,8 @@ A regular with the Engine 2 plant-strong Hall family. These quesadillas are simp
 | Salsa | 1 cup | |
 | Brown rice | 1 cup | Cooked |
 | Fresh spinach | 1 cup | |
-| Refried beans | 8 oz | Vegetarian, no added oil |
-| Black beans | 8 oz | Drained and rinsed |
+| Refried beans | 1 cup | Vegetarian, no added oil |
+| Black beans | 1 cup | Drained and rinsed |
 | Onion powder | ¼ tsp | |
 | Chili powder | ¼ tsp | |
 | Cumin | ¼ tsp | |

@@ -16,12 +16,12 @@ A quick and easy pasta dish that comes together in 20 minutes using pantry stapl
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Whole-grain penne pasta | 12 oz | |
+| Whole-grain penne pasta | 3 cups | |
 | Yellow onion | 1 medium | Diced |
-| Mushrooms | 1 lb | Trimmed and sliced |
+| Mushrooms | 5 cups | Trimmed and sliced (~450g) |
 | Garlic | 4 cloves | Minced |
 | Dried thyme | 2 tsp | |
-| San Marzano crushed tomatoes | 1 can (28 oz) | |
+| San Marzano crushed tomatoes | 1 large can | |
 | Plant-based milk | 1 cup | Unsweetened, unflavored |
 | Fresh basil | 1 cup | Chopped |
 | Sea salt | To taste | |

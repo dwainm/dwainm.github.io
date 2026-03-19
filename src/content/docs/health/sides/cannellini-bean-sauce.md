@@ -12,7 +12,7 @@ A simple, creamy sauce that works as a dressing, dip, spread, or topping. Just t
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Cannellini beans | 1 can (15 oz) | No-salt-added, drained and rinsed |
+| Cannellini beans | 1 can | No-salt-added, drained and rinsed |
 | Garlic | 1-2 cloves | Adjust to taste |
 | Low-sodium tamari | 2 tbsp | Or soy sauce |
 | Water | As needed | For consistency |

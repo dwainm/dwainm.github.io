@@ -16,7 +16,7 @@ Sweet corn kernels and creamy avocado slices make these simple black bean tacos 
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Black beans | 1 can (15 oz) | Rinsed and drained (1½ cups) |
+| Black beans | 1 can | Rinsed and drained (1½ cups) |
 | Corn | 1 cup | Fresh or frozen kernels |
 | Low-sodium taco seasoning | 1 tbsp | |
 | Water | ¼ cup | |

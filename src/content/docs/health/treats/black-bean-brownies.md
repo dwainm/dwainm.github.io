@@ -12,7 +12,7 @@ Rich, chewy, densely chocolaty brownies made with—you guessed it—black beans
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Black beans, canned | 1 can (15 oz) | Drained and rinsed |
+| Black beans, canned | 1 can | Drained and rinsed |
 | Pure date syrup | 1 cup | Or date paste thinned with water |
 | Unsweetened cocoa powder | ½ cup | |
 | Rolled oats | ¾ cup | |

@@ -12,7 +12,7 @@ These baked falafels taste just as good as the fried original, without all the a
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Chickpeas | 2 cans (15 oz each) | Drained and rinsed |
+| Chickpeas | 2 cans | Drained and rinsed |
 | Yellow onion | 1 medium | Chopped |
 | Garlic | 6 cloves | Chopped |
 | Fresh parsley | 4 tbsp | Chopped |

@@ -13,7 +13,7 @@ A mix of mushrooms, walnuts, and chickpeas make a meaty vehicle for savory seaso
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
 | Extra-virgin olive oil | 1 tbsp | Optional |
-| Cremini mushrooms | 4 oz | Sliced |
+| Cremini mushrooms | 1 cup | Sliced (~115g) |
 | Mild chili powder | 1½ tsp | |
 | Ancho chile powder | 1 tsp | |
 | Ground cumin | 1 tsp | |
@@ -22,10 +22,10 @@ A mix of mushrooms, walnuts, and chickpeas make a meaty vehicle for savory seaso
 | Garlic powder | ¼ tsp | |
 | Smoked paprika | ¼ tsp | |
 | Ground cinnamon | ⅛ tsp | |
-| Garbanzo beans (chickpeas) | 1 can (15 oz) | No-salt-added, rinsed and drained |
+| Garbanzo beans (chickpeas) | 1 can | No-salt-added, rinsed and drained |
 | Walnuts | ¼ cup | Chopped, toasted |
 | Lime juice | 1 tbsp | |
-| Yellow potatoes | 3 cups (1 lb) | Chopped |
+| Yellow potatoes | 3 cups | Chopped (~450g) |
 | Onion | 1 small | Chopped (¾ cup) |
 | Sea salt and pepper | To taste | |
 | Corn tortillas | For serving | Warmed |

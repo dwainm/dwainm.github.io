@@ -17,9 +17,9 @@ A hearty, satisfying pasta sauce that's packed with vegetables and red lentils. 
 | Celery, finely chopped | 1 rib | |
 | Carrots, peeled and chopped | 3 large | |
 | Garlic, minced | 7 cloves | ~2 tbsp |
-| Tomato paste | 6 oz can | |
-| Tomato sauce | 15 oz can | Unseasoned |
-| Diced Italian tomatoes | 2 cans (14.5 oz each) | With juice |
+| Tomato paste | 1 small can | |
+| Tomato sauce | 1 can | Unseasoned |
+| Diced Italian tomatoes | 2 cans | With juice |
 | Dried sweet basil | 2 tbsp | |
 | Dried oregano | 1 tsp | |
 | Baking soda | ¼ tsp | Cuts acidity—don't skip |

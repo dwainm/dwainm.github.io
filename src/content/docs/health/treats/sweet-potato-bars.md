@@ -52,7 +52,7 @@ Moist bars packed with warming spices and velvety sweet potato puree. Toasted ha
 
 ## Sweet Potato Prep
 
-Peel and chop 8 oz sweet potato. Steam 7-10 minutes until very tender. Mash until smooth, adding water 1 tbsp at a time if needed for creaminess.
+Peel and chop 1 medium sweet potato (~225g). Steam 7-10 minutes until very tender. Mash until smooth, adding water 1 tbsp at a time if needed for creaminess.
 
 ---
 

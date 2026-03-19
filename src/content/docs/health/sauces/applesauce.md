@@ -6,7 +6,7 @@ title: Applesauce
 
 ## Ingredients
 
-- 10 lbs apples, very ripe (any variety)
+- 4.5 kg apples, very ripe (any variety)
 - 1½ cups water
 - 2 Tbsp sugar (optional, or to taste)
 - Cinnamon (optional, for serving)
