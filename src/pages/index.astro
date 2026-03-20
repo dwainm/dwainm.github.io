@@ -54,6 +54,15 @@ function formatDate(date: Date | undefined): string {
     </picture>
   </div>
 
+  <hr />
+
+  <h2>Projects</h2>
+  <ul class="project-list">
+    <li><a href="https://klop.finance">Klop.Finance</a> — The budgeting app for South Africans. Connect your bank, track spending, reach your goals.</li>
+    <li><a href="https://gesondheid.com">Gesondheid.com</a> — Patient Relationship Management for South African healthcare practitioners. Zap the admin, tend to patients.</li>
+    <li><a href="https://pictocolourin.com">PicToColourIn.com</a> — Turn any photo into a printable coloring page instantly. Free, private, and works entirely in your browser.</li>
+  </ul>
+
   <h2>Recent Posts</h2>
   <ul class="post-list">
     {sortedPosts.map(post => (
@@ -95,6 +104,33 @@ function formatDate(date: Date | undefined): string {
 
   .post-list {
     list-style: none;
+  }
+
+  .project-list {
+    list-style: disc;
+    margin-left: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .project-list li {
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+  }
+
+  .project-list a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .project-list a:hover {
+    text-decoration: underline;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2rem 0;
   }
 
   .post-item {
