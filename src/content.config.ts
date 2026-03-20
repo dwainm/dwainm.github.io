@@ -13,7 +13,7 @@ const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
     title: z.string().optional(),
-    date: z.coerce.date().optional(),
+    pubDate: z.coerce.date().optional(),
     draft: z.boolean().default(false),
     tags: tagsSchema,
     image: z.string().optional(),
