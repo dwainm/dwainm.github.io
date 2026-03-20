@@ -19,5 +19,15 @@ I've spent the last decade at Automattic and have helped grow and scale up WooCo
 {% include picture.html img="about-family" style="border-radius:2em" alt="Dwain's family. Parents and 4 Kids" %}
 
 <br />
+
+---
+
+## Projects
+
+- **[Klop.Finance](https://klop.finance)** — The budgeting app for South Africans. Connect your bank, track spending, reach your goals.
+- **[Gesondheid.com](https://gesondheid.com)** — Patient Relationship Management for South African healthcare practitioners. Zap the admin, tend to patients.
+- **[PicToColourIn.com](https://pictocolourin.com)** — Turn any photo into a printable coloring page instantly. Free, private, and works entirely in your browser.
+
+<br />
 ## Most Recent Posts:
 
