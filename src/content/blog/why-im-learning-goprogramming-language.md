@@ -1,6 +1,6 @@
 ---
 title: "Why I'm learning a new Programming Language called Go"
-date: 2018-12-10
+pubDate: 2018-12-10
 tags:
 - programming
 - go

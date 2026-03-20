@@ -1,6 +1,6 @@
 ---
 title: "Planning Down Time"
-date: 2018-11-13
+pubDate: 2018-11-13
 tags:
 - productivity
 - rest

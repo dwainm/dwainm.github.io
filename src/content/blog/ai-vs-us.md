@@ -1,6 +1,6 @@
 ---
 title: "AI vs Us"
-date: 2018-02-27
+pubDate: 2018-02-27
 tags:
 - ai
 - technology

@@ -1,6 +1,6 @@
 ---
 title: "9 months with Colemak"
-date: 2018-02-01
+pubDate: 2018-02-01
 tags:
 - colemak
 - typing

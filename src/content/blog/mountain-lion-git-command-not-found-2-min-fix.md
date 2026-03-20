@@ -1,6 +1,6 @@
 ---
 title: "Mountain Lion, Git “Command Not Found” (2 min fix)"
-date: 2012-12-19
+pubDate: 2012-12-19
 tags:
   - git
   - mac

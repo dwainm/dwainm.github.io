@@ -1,6 +1,6 @@
 ---
 title: "Have you tried working Less?"
-date: 2014-11-25
+pubDate: 2014-11-25
 tags:
   - productivity
   - work-life-balance

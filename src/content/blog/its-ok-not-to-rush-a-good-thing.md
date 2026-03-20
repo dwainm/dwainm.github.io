@@ -1,6 +1,6 @@
 ---
 title: "It's ok not to rush a good thing"
-date: 2018-02-21
+pubDate: 2018-02-21
 tags:
 - patience
 - quality

@@ -1,6 +1,6 @@
 ---
 title: "The Psychology of Money"
-date: 2018-06-04
+pubDate: 2018-06-04
 tags:
 - finance
 - psychology

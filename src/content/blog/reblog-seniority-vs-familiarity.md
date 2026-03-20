@@ -1,6 +1,6 @@
 ---
 title: "Reblog: Seniority vs Familiarity"
-date: 2020-11-21
+pubDate: 2020-11-21
 tags: [career, programming, experience]
 ---
 

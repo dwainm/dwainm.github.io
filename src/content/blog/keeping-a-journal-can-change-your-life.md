@@ -1,6 +1,6 @@
 ---
 title: "Keeping a journal can change your life"
-date: 2017-12-13
+pubDate: 2017-12-13
 tags:
   - journaling
   - personal-development

@@ -1,6 +1,6 @@
 ---
 title: "Let's get this Hippo started"
-date: 2014-11-24
+pubDate: 2014-11-24
 tags:
   - blogging
   - motivation

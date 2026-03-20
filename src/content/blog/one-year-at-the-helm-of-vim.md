@@ -1,6 +1,6 @@
 ---
 title: "One year at the helm of Vim"
-date: 2019-02-21
+pubDate: 2019-02-21
 tags: [vim, tools, productivity]
 ---
 

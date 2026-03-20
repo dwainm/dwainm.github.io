@@ -1,6 +1,6 @@
 ---
 title: "The habit of scheduling blog posts"
-date: 2017-04-20
+pubDate: 2017-04-20
 tags:
   - blogging
   - scheduling

@@ -1,6 +1,6 @@
 ---
 title: "Giving Advice Doesn’t Work, I found a better way"
-date: 2019-03-16
+pubDate: 2019-03-16
 tags: [communication, advice, relationships]
 ---
 

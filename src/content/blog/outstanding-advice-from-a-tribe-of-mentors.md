@@ -1,6 +1,6 @@
 ---
 title: "Outstanding Advice from a tribe of mentors"
-date: 2019-07-11
+pubDate: 2019-07-11
 categories: 
   - "business"
   - "personal-development"

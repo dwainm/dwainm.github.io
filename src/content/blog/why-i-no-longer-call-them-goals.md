@@ -1,6 +1,6 @@
 ---
 title: "Why I no longer call them goals"
-date: 2019-07-18
+pubDate: 2019-07-18
 tags: [productivity, goals, mindset]
 ---
 

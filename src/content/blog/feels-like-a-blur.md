@@ -1,6 +1,6 @@
 ---
 title: Feels like a blur
-date: 2025-09-12
+pubDate: 2025-09-12
 ---
 The last 2 months have truly felt like a blur. I'm in a state of "no planning", which feels strange as I'm normally the person with a written down plan and a strategy for how to get there. When something happens that knocks the wind out of your sails, you don't really expect to stop sailing. Why isn't the boat moving? 
 

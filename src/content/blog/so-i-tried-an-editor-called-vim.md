@@ -1,6 +1,6 @@
 ---
 title: "So I tried an editor called VIM"
-date: 2017-05-26
+pubDate: 2017-05-26
 tags:
   - vim
   - tools

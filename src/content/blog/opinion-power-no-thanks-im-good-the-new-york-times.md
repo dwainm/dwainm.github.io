@@ -1,6 +1,6 @@
 ---
 title: "Opinion | Power? No, Thanks, I’m Good - The New York Times"
-date: 2019-05-28
+pubDate: 2019-05-28
 tags: [politics, power, opinion]
 ---
 

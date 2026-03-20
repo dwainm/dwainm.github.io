@@ -1,6 +1,6 @@
 ---
 title: "Integrity simplified"
-date: 2013-06-18
+pubDate: 2013-06-18
 tags:
   - integrity
   - character

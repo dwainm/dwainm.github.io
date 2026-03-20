@@ -1,6 +1,6 @@
 ---
 title: "5 things to keep in your Journal"
-date: 2018-12-13
+pubDate: 2018-12-13
 tags:
 - journaling
 - writing

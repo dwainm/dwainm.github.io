@@ -1,6 +1,6 @@
 ---
 title: "Hey Developer, Welcome to WordPress"
-date: 2015-05-12
+pubDate: 2015-05-12
 tags:
   - wordpress
   - development

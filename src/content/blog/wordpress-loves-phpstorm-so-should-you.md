@@ -1,6 +1,6 @@
 ---
 title: "WordPress loves PHPStorm, so should you!"
-date: 2014-11-27
+pubDate: 2014-11-27
 tags:
   - wordpress
   - phpstorm

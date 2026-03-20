@@ -1,6 +1,6 @@
 ---
 title: "Design inspiration the right way"
-date: 2017-02-21
+pubDate: 2017-02-21
 tags:
   - design
   - inspiration

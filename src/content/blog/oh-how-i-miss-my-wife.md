@@ -1,6 +1,6 @@
 ---
 title: "Oh, how I miss my wife"
-date: 2012-04-17
+pubDate: 2012-04-17
 tags:
   - personal
   - relationships

@@ -1,6 +1,6 @@
 ---
 title: "Version controlled comments on Facebook"
-date: 2012-10-11
+pubDate: 2012-10-11
 tags:
   - version-control
   - social-media

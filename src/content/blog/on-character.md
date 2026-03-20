@@ -1,6 +1,6 @@
 ---
 title: "On forging a character"
-date: 2019-02-07
+pubDate: 2019-02-07
 tags: [character, values, personal-development]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Choose boring technology"
-date: 2020-04-18
+pubDate: 2020-04-18
 tags: [programming, architecture, technology]
 ---
 

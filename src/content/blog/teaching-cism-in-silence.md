@@ -1,6 +1,6 @@
 ---
 title: "Teaching -cism in silence"
-date: 2018-12-01
+pubDate: 2018-12-01
 tags:
 - education
 - racism

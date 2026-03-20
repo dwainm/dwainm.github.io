@@ -1,6 +1,6 @@
 ---
 title: "AI credits and a little inconvenience"
-date: 2025-07-25
+pubDate: 2025-07-25
 tags:
   - tmux
   - productivity

@@ -1,6 +1,6 @@
 ---
 title: "Habits of Highly effective Software Engineers"
-date: 2019-06-13
+pubDate: 2019-06-13
 tags: [programming, habits, productivity]
 ---
 

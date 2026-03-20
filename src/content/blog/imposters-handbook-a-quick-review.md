@@ -1,6 +1,6 @@
 ---
 title: "Imposters handbook: a quick review"
-date: 2019-02-14
+pubDate: 2019-02-14
 tags: [book-review, computer-science, learning]
 ---
 

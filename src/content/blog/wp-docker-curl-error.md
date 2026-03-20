@@ -1,6 +1,6 @@
 ---
 title: "WP Docker Curl Error"
-date: 2019-03-29
+pubDate: 2019-03-29
 tags: [wordpress, docker, troubleshooting]
 ---
 

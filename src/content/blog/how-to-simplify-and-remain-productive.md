@@ -1,6 +1,6 @@
 ---
 title: "How to simplify and remain productive"
-date: 2015-09-08
+pubDate: 2015-09-08
 tags:
   - productivity
   - simplicity

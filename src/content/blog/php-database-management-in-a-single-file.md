@@ -1,6 +1,6 @@
 ---
 title: "PHP database management in a single file"
-date: 2018-02-13
+pubDate: 2018-02-13
 tags:
 - programming
 - php

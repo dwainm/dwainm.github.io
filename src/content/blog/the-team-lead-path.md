@@ -1,6 +1,6 @@
 ---
 title: "The team lead path"
-date: 2022-05-02
+pubDate: 2022-05-02
 tags:
   - leadership
   - career

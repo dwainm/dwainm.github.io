@@ -1,6 +1,6 @@
 ---
 title: "How to blog regularly"
-date: 2018-02-28
+pubDate: 2018-02-28
 tags:
   - blogging
   - consistency

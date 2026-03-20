@@ -1,6 +1,6 @@
 ---
 title: "Is enough, enough?"
-date: 2018-03-14
+pubDate: 2018-03-14
 tags:
 - contentment
 - minimalism

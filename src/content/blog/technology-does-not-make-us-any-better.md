@@ -1,6 +1,6 @@
 ---
 title: "Technology does not make us any better"
-date: 2018-11-26
+pubDate: 2018-11-26
 tags:
 - technology
 - philosophy

@@ -1,6 +1,6 @@
 ---
 title: "We’re on earth for a reason."
-date: 2020-01-17
+pubDate: 2020-01-17
 tags: [personal, purpose, reflection]
 ---
 

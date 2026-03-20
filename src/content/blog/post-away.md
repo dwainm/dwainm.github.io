@@ -1,6 +1,6 @@
 ---
 title: "Post Away"
-date: 2012-04-16
+pubDate: 2012-04-16
 tags:
   - blogging
   - first-post

@@ -1,6 +1,6 @@
 ---
 title: "Three Important Things — Via Dented Reality"
-date: 2019-01-11
+pubDate: 2019-01-11
 tags: [wisdom, advice, life-lessons]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2019 Haiku"
-date: 2019-01-01
+pubDate: 2019-01-01
 tags: [poetry, reflection, new-year]
 ---
 

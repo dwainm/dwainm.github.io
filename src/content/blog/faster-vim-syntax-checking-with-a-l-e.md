@@ -1,6 +1,6 @@
 ---
 title: "Faster VIM syntax checking with A.L.E"
-date: 2017-06-20
+pubDate: 2017-06-20
 tags:
   - vim
   - programming

@@ -1,6 +1,6 @@
 ---
 title: "My notes from the talk on how to maximise success"
-date: 2020-06-24
+pubDate: 2020-06-24
 tags: [career, advice, success]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Converting HTML entities to UTF-8 in VimScript"
-date: 2022-08-04
+pubDate: 2022-08-04
 tags:
   - vim
   - programming

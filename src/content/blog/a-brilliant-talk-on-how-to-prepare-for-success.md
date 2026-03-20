@@ -1,6 +1,6 @@
 ---
 title: "A brilliant talk on how to prepare for success"
-date: 2019-01-31
+pubDate: 2019-01-31
 tags: [success, preparation, inspiration]
 ---
 

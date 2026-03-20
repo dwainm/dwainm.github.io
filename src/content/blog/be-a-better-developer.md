@@ -1,6 +1,6 @@
 ---
 title: "Be a better developer"
-date: 2014-11-26
+pubDate: 2014-11-26
 tags:
   - programming
   - improvement

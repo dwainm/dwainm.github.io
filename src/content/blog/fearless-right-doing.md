@@ -1,6 +1,6 @@
 ---
 title: "Fearless right doing"
-date: 2017-02-22
+pubDate: 2017-02-22
 tags:
   - integrity
   - courage

@@ -1,6 +1,6 @@
 ---
 title: "Next Chapter version 2025"
-date: 2025-06-06
+pubDate: 2025-06-06
 tags:
   - career
   - entrepreneurship

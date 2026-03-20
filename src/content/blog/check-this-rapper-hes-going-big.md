@@ -1,6 +1,6 @@
 ---
 title: "Check this rapper, he's going big!"
-date: 2018-02-02
+pubDate: 2018-02-02
 tags:
 - music
 - inspiration

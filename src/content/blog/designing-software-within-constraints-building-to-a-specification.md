@@ -1,6 +1,6 @@
 ---
 title: "Designing Software Within Constraints Building to a Specification"
-date: 2018-10-12
+pubDate: 2018-10-12
 tags:
 - programming
 - design

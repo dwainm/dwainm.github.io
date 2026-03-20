@@ -1,6 +1,6 @@
 ---
 title: "Confusing income potential and wealth"
-date: 2019-03-07
+pubDate: 2019-03-07
 tags: [finance, mindset, wealth]
 ---
 

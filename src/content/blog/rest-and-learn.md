@@ -1,6 +1,6 @@
 ---
 title: "Rest and Learn"
-date: 2018-02-14
+pubDate: 2018-02-14
 tags:
 - learning
 - rest

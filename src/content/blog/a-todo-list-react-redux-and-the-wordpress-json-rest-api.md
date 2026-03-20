@@ -1,6 +1,6 @@
 ---
 title: "A todo list, React, Redux and the WordPress JSON REST API"
-date: 2017-06-22
+pubDate: 2017-06-22
 tags:
   - programming
   - react

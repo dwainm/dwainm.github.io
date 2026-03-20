@@ -1,6 +1,6 @@
 ---
 title: "Why I no longer care about politics, but I still vote"
-date: 2018-01-08
+pubDate: 2018-01-08
 tags:
 - politics
 - civic-duty

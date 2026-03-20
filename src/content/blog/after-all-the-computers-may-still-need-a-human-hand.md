@@ -1,6 +1,6 @@
 ---
 title: "After all the computers may still need a human hand."
-date: 2018-05-18
+pubDate: 2018-05-18
 tags:
 - technology
 - automation

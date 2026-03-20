@@ -1,6 +1,6 @@
 ---
 title: "Floors Done!"
-date: 2017-02-10
+pubDate: 2017-02-10
 tags:
   - personal
   - home-improvement

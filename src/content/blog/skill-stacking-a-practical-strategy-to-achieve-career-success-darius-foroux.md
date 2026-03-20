@@ -1,6 +1,6 @@
 ---
 title: "Skill Stacking: A Practical Strategy To Achieve Career Success - Darius Foroux"
-date: 2018-11-08
+pubDate: 2018-11-08
 tags:
 - career
 - skills

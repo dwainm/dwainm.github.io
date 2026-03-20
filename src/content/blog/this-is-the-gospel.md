@@ -1,6 +1,6 @@
 ---
 title: "This is the Gospel"
-date: 2013-06-03
+pubDate: 2013-06-03
 tags:
   - faith
   - spiritual

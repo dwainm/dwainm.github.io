@@ -1,6 +1,6 @@
 ---
 title: "Remote work success"
-date: 2020-10-01
+pubDate: 2020-10-01
 tags: [remote-work, career, productivity]
 ---
 

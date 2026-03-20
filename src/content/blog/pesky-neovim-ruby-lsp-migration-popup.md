@@ -1,6 +1,6 @@
 ---
 title: "Pesky Neovim Rails LSP migration popup. "
-date: 2025-07-07
+pubDate: 2025-07-07
 tags: rails, ruby, lsp, popup, migration, neovim
 ---
 

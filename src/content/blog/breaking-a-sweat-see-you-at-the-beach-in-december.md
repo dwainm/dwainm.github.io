@@ -1,6 +1,6 @@
 ---
 title: "Breaking a sweat, see you at the beach in December :)"
-date: 2012-04-16
+pubDate: 2012-04-16
 tags:
   - fitness
   - health

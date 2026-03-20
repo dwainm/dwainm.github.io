@@ -1,6 +1,6 @@
 ---
 title: "Remote spelled out is TRUST"
-date: 2020-04-14
+pubDate: 2020-04-14
 tags: [remote-work, leadership, trust]
 ---
 

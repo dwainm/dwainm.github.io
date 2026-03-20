@@ -1,6 +1,6 @@
 ---
 title: "Software Complexity"
-date: 2020-06-17
+pubDate: 2020-06-17
 tags: [programming, architecture, philosophy]
 ---
 

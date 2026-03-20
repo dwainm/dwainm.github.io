@@ -1,6 +1,6 @@
 ---
 title: "Howzit Podcast Appearance"
-date: 2020-09-23
+pubDate: 2020-09-23
 tags: [personal, podcast, career]
 ---
 

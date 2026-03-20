@@ -1,6 +1,6 @@
 ---
 title: "Strategies for not neglecting your blog"
-date: 2019-06-06
+pubDate: 2019-06-06
 tags: [blogging, consistency, writing]
 ---
 

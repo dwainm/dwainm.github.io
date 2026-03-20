@@ -1,6 +1,6 @@
 ---
 title: "Say yes to less, no to more and hell yeah to the best."
-date: 2012-06-14
+pubDate: 2012-06-14
 tags:
   - priorities
   - decision-making

@@ -1,6 +1,6 @@
 ---
 title: "Abandonware as a WordPress plugin"
-date: 2015-04-19
+pubDate: 2015-04-19
 tags:
   - wordpress
   - plugins

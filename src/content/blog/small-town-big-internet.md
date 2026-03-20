@@ -1,6 +1,6 @@
 ---
 title: "Small town, big internet"
-date: 2022-07-04
+pubDate: 2022-07-04
 tags:
   - personal
   - technology

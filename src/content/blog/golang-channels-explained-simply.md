@@ -1,6 +1,6 @@
 ---
 title: "Golang Channels: explained simply"
-date: 2018-11-23
+pubDate: 2018-11-23
 tags:
 - programming
 - go

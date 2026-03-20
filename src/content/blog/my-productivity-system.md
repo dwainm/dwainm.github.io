@@ -1,6 +1,6 @@
 ---
 title: "My productivity system"
-date: 2024-08-12
+pubDate: 2024-08-12
 tags:
   - productivity
   - systems

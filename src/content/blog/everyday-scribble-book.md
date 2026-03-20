@@ -1,6 +1,6 @@
 ---
 title: "Everyday Scribble book"
-date: 2012-04-16
+pubDate: 2012-04-16
 tags:
   - journaling
   - writing

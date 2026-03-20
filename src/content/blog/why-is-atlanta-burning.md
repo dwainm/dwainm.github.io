@@ -1,6 +1,6 @@
 ---
 title: "Why is Atlanta burning?"
-date: 2020-06-02
+pubDate: 2020-06-02
 tags: [social-justice, politics, reflection]
 ---
 

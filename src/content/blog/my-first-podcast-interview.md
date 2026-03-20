@@ -1,6 +1,6 @@
 ---
 title: "My first Podcast interview"
-date: 2018-02-07
+pubDate: 2018-02-07
 tags:
 - personal
 - podcast

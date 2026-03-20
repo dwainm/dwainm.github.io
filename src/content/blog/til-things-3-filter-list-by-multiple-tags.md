@@ -1,6 +1,6 @@
 ---
 title: "TIL (Things 3) – Filter list by multiple tags"
-date: 2020-11-11
+pubDate: 2020-11-11
 tags: [productivity, tools, tips]
 ---
 

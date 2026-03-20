@@ -1,6 +1,6 @@
 ---
 title: "Grand Meetup 2017"
-date: 2018-03-28
+pubDate: 2018-03-28
 tags:
 - automattic
 - travel

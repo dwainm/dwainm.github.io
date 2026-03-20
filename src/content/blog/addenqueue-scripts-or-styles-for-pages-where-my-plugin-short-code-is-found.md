@@ -1,6 +1,6 @@
 ---
 title: "Add/Enqueue Scripts or Styles for pages where my plugin short code is found"
-date: 2012-08-16
+pubDate: 2012-08-16
 tags:
   - wordpress
   - programming

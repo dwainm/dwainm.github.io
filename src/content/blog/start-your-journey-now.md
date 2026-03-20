@@ -1,6 +1,6 @@
 ---
 title: "Start your Journey now"
-date: 2014-01-26
+pubDate: 2014-01-26
 tags:
   - motivation
   - journey

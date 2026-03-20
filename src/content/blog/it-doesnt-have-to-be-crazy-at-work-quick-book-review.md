@@ -1,6 +1,6 @@
 ---
 title: "It doesn't have to be crazy at work - quick book  review"
-date: 2019-04-04
+pubDate: 2019-04-04
 tags: [book-review, work-culture, productivity]
 ---
 

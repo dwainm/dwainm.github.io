@@ -1,6 +1,6 @@
 ---
 title: "Let consistency be your trump card"
-date: 2014-01-04
+pubDate: 2014-01-04
 tags:
   - consistency
   - habits

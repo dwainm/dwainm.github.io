@@ -1,6 +1,6 @@
 ---
 title: "5 Quotes to ponder on from Tribe Mentors"
-date: 2019-02-28
+pubDate: 2019-02-28
 tags: [quotes, wisdom, book-review]
 ---
 

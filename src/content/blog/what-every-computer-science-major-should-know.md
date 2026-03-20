@@ -1,6 +1,6 @@
 ---
 title: "What every computer science major should know"
-date: 2019-07-17
+pubDate: 2019-07-17
 tags: [education, programming, career]
 ---
 

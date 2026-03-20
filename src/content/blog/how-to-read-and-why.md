@@ -1,6 +1,6 @@
 ---
 title: "How to read and why"
-date: 2018-11-28
+pubDate: 2018-11-28
 tags:
 - reading
 - learning

@@ -1,6 +1,6 @@
 ---
 title: "WooCommerce 3.3"
-date: 2018-01-31
+pubDate: 2018-01-31
 tags:
 - woocommerce
 - product-release

@@ -1,6 +1,6 @@
 ---
 title: "Oh I have a .blog"
-date: 2017-02-20
+pubDate: 2017-02-20
 tags:
   - blogging
   - personal

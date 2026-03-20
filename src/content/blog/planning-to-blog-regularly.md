@@ -1,6 +1,6 @@
 ---
 title: "Planning to blog regularly?"
-date: 2015-04-20
+pubDate: 2015-04-20
 tags:
   - blogging
   - planning

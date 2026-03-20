@@ -1,6 +1,6 @@
 ---
 title: "Coders should write"
-date: 2018-12-07
+pubDate: 2018-12-07
 tags:
 - programming
 - writing

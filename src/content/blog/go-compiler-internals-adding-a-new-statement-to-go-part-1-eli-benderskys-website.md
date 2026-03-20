@@ -1,6 +1,6 @@
 ---
 title: "Go compiler internals: adding a new statement to Go - Part 1 - Eli Bendersky's website"
-date: 2019-07-05
+pubDate: 2019-07-05
 tags: [programming, go, compilers]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Simple Money Advice"
-date: 2019-08-15
+pubDate: 2019-08-15
 tags: [finance, advice, simplicity]
 ---
 

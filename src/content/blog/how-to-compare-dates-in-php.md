@@ -1,6 +1,6 @@
 ---
 title: "How to compare dates in PHP"
-date: 2019-04-26
+pubDate: 2019-04-26
 tags: [programming, php, tutorial]
 ---
 

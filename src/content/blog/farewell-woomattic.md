@@ -1,6 +1,6 @@
 ---
 title: "Farewell WooMattic"
-date: 2025-04-24
+pubDate: 2025-04-24
 tags:
   - career
   - personal

@@ -1,6 +1,6 @@
 ---
 title: "Your guide to local remote git repositories."
-date: 2014-08-06
+pubDate: 2014-08-06
 tags:
   - git
   - programming

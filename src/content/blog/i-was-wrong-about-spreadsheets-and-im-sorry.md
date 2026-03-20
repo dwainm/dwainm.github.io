@@ -1,6 +1,6 @@
 ---
 title: "I was wrong about spreadsheets, and I’m sorry"
-date: 2019-07-12
+pubDate: 2019-07-12
 tags: [tools, productivity, admissions]
 ---
 

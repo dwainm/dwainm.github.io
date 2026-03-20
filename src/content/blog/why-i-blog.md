@@ -1,6 +1,6 @@
 ---
 title: "Why I blog?"
-date: 2020-08-27
+pubDate: 2020-08-27
 tags: [blogging, writing, personal]
 ---
 

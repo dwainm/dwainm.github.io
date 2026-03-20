@@ -1,6 +1,6 @@
 ---
 title: "I believe there is a Creator"
-date: 2016-09-26
+pubDate: 2016-09-26
 tags:
   - faith
   - personal

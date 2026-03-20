@@ -1,6 +1,6 @@
 ---
 title: "Internet at aboard the pacific pearl"
-date: 2014-07-14
+pubDate: 2014-07-14
 tags:
   - travel
   - internet

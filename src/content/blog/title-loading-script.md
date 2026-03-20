@@ -1,6 +1,6 @@
 ---
 title: "Title loading script"
-date: 2014-06-21
+pubDate: 2014-06-21
 tags:
   - programming
   - javascript

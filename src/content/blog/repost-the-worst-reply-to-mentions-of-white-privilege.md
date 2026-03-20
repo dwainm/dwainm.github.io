@@ -1,6 +1,6 @@
 ---
 title: "Repost: The worst reply to mentions of white privilege"
-date: 2018-06-05
+pubDate: 2018-06-05
 tags:
 - social-justice
 - privilege

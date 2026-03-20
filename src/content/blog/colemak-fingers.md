@@ -1,6 +1,6 @@
 ---
 title: "Colemak Fingers"
-date: 2017-12-19
+pubDate: 2017-12-19
 tags:
   - colemak
   - typing

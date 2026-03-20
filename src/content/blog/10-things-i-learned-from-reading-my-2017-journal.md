@@ -1,6 +1,6 @@
 ---
 title: "10 things I learned from reading my 2017 journal."
-date: 2018-01-14
+pubDate: 2018-01-14
 tags:
 - journaling
 - reflection

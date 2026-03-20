@@ -1,6 +1,6 @@
 ---
 title: "Speech writer secrets"
-date: 2020-06-25
+pubDate: 2020-06-25
 tags: [writing, communication, book-review]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cheap travels with WordPress as the foundation"
-date: 2017-06-30
+pubDate: 2017-06-30
 tags:
   - wordpress
   - travel

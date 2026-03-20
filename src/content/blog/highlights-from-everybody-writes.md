@@ -1,6 +1,6 @@
 ---
 title: "Highlights from Everybody Writes"
-date: 2020-04-23
+pubDate: 2020-04-23
 tags: [writing, book-review, communication]
 ---
 

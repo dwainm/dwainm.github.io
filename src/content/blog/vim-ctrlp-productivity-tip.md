@@ -1,6 +1,6 @@
 ---
 title: "Vim CtrlP productivity tip"
-date: 2017-06-19
+pubDate: 2017-06-19
 tags:
   - vim
   - productivity

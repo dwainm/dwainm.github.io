@@ -1,6 +1,6 @@
 ---
 title: Journal Numbering Hack
-date: 2025-05-23
+pubDate: 2025-05-23
 tags:
   - journaling
   - productivity

@@ -1,6 +1,6 @@
 ---
 title: "Docker Compose Volumes Empty?"
-date: 2019-08-13
+pubDate: 2019-08-13
 tags: [docker, programming, troubleshooting]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The process before the content"
-date: 2019-12-19
+pubDate: 2019-12-19
 tags: [writing, process, productivity]
 ---
 

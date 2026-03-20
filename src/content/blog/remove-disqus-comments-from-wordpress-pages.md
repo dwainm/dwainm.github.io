@@ -1,6 +1,6 @@
 ---
 title: "Remove Disqus comments from WordPress pages"
-date: 2013-09-18
+pubDate: 2013-09-18
 tags:
   - wordpress
   - disqus

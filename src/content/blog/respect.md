@@ -1,6 +1,6 @@
 ---
 title: "Respect!"
-date: 2018-11-01
+pubDate: 2018-11-01
 tags:
 - values
 - relationships

@@ -1,6 +1,6 @@
 ---
 title: "One liner for importing multiple SQL files using WP CLI DB command"
-date: 2019-04-18
+pubDate: 2019-04-18
 tags: [wordpress, cli, database]
 ---
 

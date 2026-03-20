@@ -1,6 +1,6 @@
 ---
 title: "Comparing Software Engineering to RailRoads in the 1800's"
-date: 2019-06-20
+pubDate: 2019-06-20
 tags: [programming, history, analogy]
 ---
 

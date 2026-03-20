@@ -1,6 +1,6 @@
 ---
 title: "WordPress, why we really need front end editing"
-date: 2014-07-19
+pubDate: 2014-07-19
 tags:
   - wordpress
   - ux

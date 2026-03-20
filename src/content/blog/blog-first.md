@@ -1,6 +1,6 @@
 ---
 title: "Blog First"
-date: 2017-02-13
+pubDate: 2017-02-13
 tags:
   - blogging
   - writing

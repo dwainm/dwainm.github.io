@@ -1,6 +1,6 @@
 ---
 title: "Programming well with others"
-date: 2019-01-24
+pubDate: 2019-01-24
 tags: [programming, teamwork, collaboration]
 ---
 

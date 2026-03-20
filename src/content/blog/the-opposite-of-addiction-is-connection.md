@@ -1,6 +1,6 @@
 ---
 title: "The opposite of addiction is connection"
-date: 2020-01-09
+pubDate: 2020-01-09
 tags: [mental-health, society, connection]
 ---
 

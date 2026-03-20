@@ -1,6 +1,6 @@
 ---
 title: "32 and content"
-date: 2019-01-21
+pubDate: 2019-01-21
 tags: [personal, reflection, contentment]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How many bytes are emoji characters in GO?"
-date: 2020-01-17
+pubDate: 2020-01-17
 tags: [programming, go, unicode]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Not use to this at all"
-date: 2012-04-20
+pubDate: 2012-04-20
 tags:
   - personal
   - adaptation

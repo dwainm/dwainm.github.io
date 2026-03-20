@@ -1,6 +1,6 @@
 ---
 title: "Sexual Sin :(  Worshiping the things instead of the God Creator"
-date: 2012-05-12
+pubDate: 2012-05-12
 tags:
   - faith
   - spiritual

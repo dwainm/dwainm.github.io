@@ -1,6 +1,6 @@
 ---
 title: "The most gifted books from the tribe of mentors"
-date: 2019-03-14
+pubDate: 2019-03-14
 coverImage: "1d365-tim-ferris-tribe-of-mentors-852x568-1.jpg"
 tags: [book-review, recommendations, reading]
 ---

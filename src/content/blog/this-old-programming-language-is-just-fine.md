@@ -1,6 +1,6 @@
 ---
 title: "PHP is just fine"
-date: 2020-05-07
+pubDate: 2020-05-07
 tags: [programming, php, technology]
 ---
 

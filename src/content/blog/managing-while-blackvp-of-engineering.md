@@ -1,6 +1,6 @@
 ---
 title: "Managing while black (VP of engineering)"
-date: 2019-06-27
+pubDate: 2019-06-27
 tags: [leadership, diversity, management]
 ---
 

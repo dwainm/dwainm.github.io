@@ -1,6 +1,6 @@
 ---
 title: "Creative Computer Science"
-date: 2018-12-18
+pubDate: 2018-12-18
 tags:
 - computer-science
 - creativity

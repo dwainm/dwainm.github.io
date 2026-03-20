@@ -1,6 +1,6 @@
 ---
 title: "WordPress 3.5 Almost ready"
-date: 2012-10-09
+pubDate: 2012-10-09
 tags:
   - wordpress
   - release

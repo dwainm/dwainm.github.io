@@ -1,6 +1,6 @@
 ---
 title: "Less is better than Tail"
-date: 2017-07-03
+pubDate: 2017-07-03
 tags:
   - unix
   - tools

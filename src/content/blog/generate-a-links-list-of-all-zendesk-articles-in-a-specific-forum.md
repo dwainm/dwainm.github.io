@@ -1,6 +1,6 @@
 ---
 title: "Generate a link list of all Zendesk articles in a specific forum"
-date: 2013-06-10
+pubDate: 2013-06-10
 tags:
   - zendesk
   - automation

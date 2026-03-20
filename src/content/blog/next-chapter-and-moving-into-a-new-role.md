@@ -1,6 +1,6 @@
 ---
 title: "Next chapter and moving into a new role"
-date: 2015-04-01
+pubDate: 2015-04-01
 tags:
   - career
   - transition  

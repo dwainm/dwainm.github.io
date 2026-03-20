@@ -1,6 +1,6 @@
 ---
 title: "Don't pretend you're purpose driven"
-date: 2020-03-12
+pubDate: 2020-03-12
 tags: [leadership, authenticity, purpose]
 ---
 

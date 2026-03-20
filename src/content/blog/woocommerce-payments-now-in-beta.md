@@ -1,6 +1,6 @@
 ---
 title: "WooCommerce Payments now in Beta"
-date: 2020-04-09
+pubDate: 2020-04-09
 tags: [woocommerce, product-launch, payments]
 ---
 

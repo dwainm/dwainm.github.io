@@ -1,6 +1,6 @@
 ---
 title: "Computer Science vs Software Engineering"
-date: 2017-08-07
+pubDate: 2017-08-07
 tags:
   - computer-science
   - software-engineering

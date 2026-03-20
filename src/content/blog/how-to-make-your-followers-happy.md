@@ -1,6 +1,6 @@
 ---
 title: "How to make your followers happy"
-date: 2015-12-12
+pubDate: 2015-12-12
 tags:
   - social-media
   - content

@@ -1,6 +1,6 @@
 ---
 title: "Git vimdiff Mergetool Cheat sheet"
-date: 2013-09-03
+pubDate: 2013-09-03
 tags:
   - git
   - vim

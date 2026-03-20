@@ -1,6 +1,6 @@
 ---
 title: "Dropping the color attribute."
-date: 2015-12-13
+pubDate: 2015-12-13
 tags:
   - programming
   - wordpress

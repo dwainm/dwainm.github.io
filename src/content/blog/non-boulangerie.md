@@ -1,6 +1,6 @@
 ---
 title: Non Boulangerie
-date: 2025-09-19
+pubDate: 2025-09-19
 ---
 
 [Last week I mentioned](/feels-like-a-blur/) the "stressful bakery experience" and didn't have time to go into it, but thought I'd share more about it today. My love for bread started as a kid, but we never had the luxury of healthy bread. I found out about healthy bread as an adult, more specficially after a trip to France where you find a Boulangerie (Bakery) on every corner. This lead me to try out baking sourdough bread at home.

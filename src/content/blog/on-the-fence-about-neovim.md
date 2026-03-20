@@ -1,6 +1,6 @@
 ---
 title: "On the fence about Neovim"
-date: 2022-07-30
+pubDate: 2022-07-30
 tags:
   - vim
   - tools

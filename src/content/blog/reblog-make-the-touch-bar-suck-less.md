@@ -1,6 +1,6 @@
 ---
 title: "Reblog: Make the touch bar suck less"
-date: 2020-07-12
+pubDate: 2020-07-12
 tags: [productivity, tools, mac]
 ---
 

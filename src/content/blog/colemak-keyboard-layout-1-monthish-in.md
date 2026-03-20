@@ -1,6 +1,6 @@
 ---
 title: "Colemak Keyboard Layout, 1 Month(ish) In"
-date: 2018-01-31
+pubDate: 2018-01-31
 tags:
 - colemak
 - typing

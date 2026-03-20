@@ -1,6 +1,6 @@
 ---
 title: "Inspired by an incarcerated investor"
-date: 2017-08-04
+pubDate: 2017-08-04
 tags:
   - inspiration
   - investing

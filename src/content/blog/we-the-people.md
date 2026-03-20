@@ -1,6 +1,6 @@
 ---
 title: "We, The people"
-date: 2018-03-21
+pubDate: 2018-03-21
 tags:
 - democracy
 - politics

@@ -1,6 +1,6 @@
 ---
 title: "gap, my most loved git command"
-date: 2019-05-30
+pubDate: 2019-05-30
 tags: [git, programming, tools]
 ---
 

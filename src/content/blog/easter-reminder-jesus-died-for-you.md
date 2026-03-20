@@ -1,6 +1,6 @@
 ---
 title: "Easter reminder: Jesus died for you"
-date: 2022-04-11
+pubDate: 2022-04-11
 tags:
   - faith
   - personal

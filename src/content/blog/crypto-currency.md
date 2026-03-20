@@ -1,6 +1,6 @@
 ---
 title: "Crypto currency"
-date: 2019-04-24
+pubDate: 2019-04-24
 tags: [finance, cryptocurrency, technology]
 ---
 
