@@ -12,8 +12,8 @@ export async function GET(context: APIContext) {
   const sortedPosts = posts
     .filter(post => !post.data.draft)
     .sort((a, b) => {
-      const dateA = a.data.date || new Date(0);
-      const dateB = b.data.date || new Date(0);
+      const dateA = a.data.pubDate || new Date(0);
+      const dateB = b.data.pubDate || new Date(0);
       return dateB.getTime() - dateA.getTime();
     });
 
@@ -30,7 +30,7 @@ export async function GET(context: APIContext) {
     site: context.site || 'https://dwain.maralack.com',
     items: sortedPosts.map(post => ({
       title: extractTitle(post),
-      pubDate: post.data.date || new Date(),
+      pubDate: post.data.pubDate || new Date(),
       link: `/${post.id}/`,
       content: sanitizeHtml(parser.render(post.body || ''), {
         allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img']),
