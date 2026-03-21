@@ -65,7 +65,7 @@ function formatDate(date: Date | undefined): string {
 
   <h2>Recent Posts</h2>
   <ul class="post-list">
-    {sortedPosts.map(post => (
+    {sortedPosts.slice(0, 10).map(post => (
       <li class="post-item">
         <a href={`/${post.id}/`}>
           <span class="post-title">{extractTitle(post)}</span>
@@ -74,6 +74,7 @@ function formatDate(date: Date | undefined): string {
       </li>
     ))}
   </ul>
+  <p class="more-posts"><a href="/blog/">→ View all posts</a></p>
 </BaseLayout>
 
 <style>
@@ -163,5 +164,19 @@ function formatDate(date: Date | undefined): string {
     color: var(--text-muted);
     font-size: 0.85rem;
     white-space: nowrap;
+  }
+
+  .more-posts {
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .more-posts a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .more-posts a:hover {
+    text-decoration: underline;
   }
 </style>
