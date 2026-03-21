@@ -58,9 +58,18 @@ function formatDate(date: Date | undefined): string {
 
   <h2>Projects</h2>
   <ul class="project-list">
-    <li><a href="https://klop.finance">Klop.Finance</a> — The budgeting app for South Africans. Connect your bank, track spending, reach your goals.</li>
-    <li><a href="https://gesondheid.com">Gesondheid.com</a> — Patient Relationship Management for South African healthcare practitioners. Zap the admin, tend to patients.</li>
-    <li><a href="https://pictocolourin.com">PicToColourIn.com</a> — Turn any photo into a printable coloring page instantly. Free, private, and works entirely in your browser.</li>
+    <li>
+      <a href="https://klop.finance">Klop.Finance</a>
+      <span>The budgeting app for South Africans. Connect your bank, track spending, reach your goals.</span>
+    </li>
+    <li>
+      <a href="https://gesondheid.com">Gesondheid.com</a>
+      <span>Patient Relationship Management for South African healthcare practitioners. Zap the admin, tend to patients.</span>
+    </li>
+    <li>
+      <a href="https://pictocolourin.com">PicToColourIn.com</a>
+      <span>Turn any photo into a printable coloring page instantly. Free, private, and works entirely in your browser.</span>
+    </li>
   </ul>
 
   <h2>Recent Posts</h2>
@@ -108,24 +117,41 @@ function formatDate(date: Date | undefined): string {
   }
 
   .project-list {
-    list-style: disc;
-    margin-left: 1.5rem;
+    list-style: none;
+    margin-left: 0;
     margin-bottom: 2rem;
   }
 
   .project-list li {
-    margin-bottom: 0.75rem;
-    line-height: 1.5;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background: var(--bg-subtle, rgba(0,0,0,0.03));
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
   }
 
   .project-list a {
     color: var(--accent);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 1.1rem;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .project-list a::after {
+    content: " →";
   }
 
   .project-list a:hover {
     text-decoration: underline;
+  }
+
+  .project-list li span {
+    display: block;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.4;
   }
 
   hr {
