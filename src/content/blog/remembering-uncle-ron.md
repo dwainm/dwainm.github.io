@@ -1,7 +1,6 @@
 ---
 title: "Remembering Uncle Ron"
 pubDate: 2025-01-15
-draft: true
 description: ""
 tags: []
 ---
