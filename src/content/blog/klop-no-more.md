@@ -5,7 +5,7 @@ description: "I'm closing my first app today and this is why."
 tags: [klop, app, closing]
 ---
 
-It's the end of the road fork [Klop!](/beat-the-budget/)]. I could not build it the way I hoped. I'm quite proud of the idea that my first product didn't work out. I'm not sure if that's the right way to think about it, but imagine not even trying? Klop failed for because of the technology and the problems space.
+It's the end of the road for [Klop!](/beat-the-budget/)]. I could not build it the way I hoped. I'm quite proud of the idea that my first product didn't work out. I'm not sure if that's the right way to think about it, but imagine not even trying? Klop failed for because of the technology and the problems space.
 
 The project ended months ago, but I wasn't willing to accept failure.
 
