@@ -1,7 +1,6 @@
 ---
 title: "Klop no more"
 pubDate: 2026-05-30
-draft: true
 description: "I'm closing my first app today and this is why."
 tags: [klop, app, closing]
 ---
