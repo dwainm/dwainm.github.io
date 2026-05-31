@@ -1,7 +1,6 @@
 ---
 title: "Beat the Budget: Klop!"
 pubDate: 2025-06-27
-draft: true
 tags: klop, budgeting, startup, business
 ---
 
