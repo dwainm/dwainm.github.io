@@ -1,163 +1,103 @@
 ---
-title: Dal
+title: "Dal"
 ---
 
-![Dal](/images/health/dal.jpg)
+**Plant-based | One-pot | Make-ahead friendly | Under 30 min**
 
-Three approaches to dal - try them and pick your favourite.
-
-## Prep (For All Recipes)
-
-Before cooking any recipe:
-
-1. Wash lentils twice, draining the water each time
-1. On the third wash, leave the water in and transfer to cooking pot (prevents lentils sticking to vessel)
-1. Set aside to soak for 1 hour
-1. When cooking, boil in water (no other ingredients yet)
-1. When foam rises, skim and discard it (2-3 times) - this removes purines/uric acid, easier on joints and kidneys
+A simple North Indian red lentil dal that lets the natural sweet flavour of masoor dal shine through. Minimal spices, maximum taste. Made with pantry staples and ready fast.
 
 ---
 
-## Option 1: Simple Tadka Dal
+## Prep — Soak the Dal
 
-*From [Curating The Table](https://youtu.be/jYzNw-B2S1c) with [Ayurvedic tip](https://youtube.com/shorts/Ns968N2nEgc)*
+1. Add masoor dal and moong dal to a large bowl.
+1. Wash 3-4 times until the water runs clear.
+1. Cover with fresh water and soak for **1 hour**.
+1. Drain before cooking.
 
-Minimal spices in the dal itself. The magic is in the tadka.
+---
 
-### Ingredients (serves 4)
+## Ingredients
 
-**Dal:**
-- 1 cup red lentils (masoor dal), washed
-- 5 cups water (3.5-4 cups for induction/electric)
-- 2 tomatoes, chopped
-- 1½ tsp turmeric
-- 1 tsp ginger-garlic paste (fresh, garlic-forward)
-- Salt to taste
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Masoor dal (red lentils) | 1½ cups (285g) | |
+| Moong dal (split yellow lentils) | ⅓ cup (70g) | Optional — adds body and thick texture |
+| Tomatoes, deseeded & chopped | 4-5 medium (~1½ cups) | Roma or vine |
+| Green chilies, slit | 2-3 | Optional, adjust to heat preference |
+| Water | 4 cups | Use with stock blocks below |
+| Salted stock blocks | 2 blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
+| **For the Tadka** | | |
+| Ghee | 3-4 tbsp | Or 2 tbsp oil / 4 tbsp butter |
+| Dried red chilies, broken | 3 | |
+| Garlic cloves, chopped | 5-6 | |
+| Mustard seeds | ¾ tsp | Optional |
+| Cumin seeds | 1½ tsp | |
+| Hing (asafoetida) | ¼ tsp | Optional but recommended |
+| Salt | 1½ tsp | Adjust to taste |
+| Kashmiri red chili powder | ¾-1½ tsp | Use ¾ for mild, up to 1½ for heat |
+| Turmeric | ¾ tsp | |
+| Garam masala | ½ tsp | Add more if you want |
+| Kasuri methi (dried fenugreek leaves) | 1½ tsp | Crushed between palms |
+| **To Serve** | | |
+| Fresh coriander leaves, chopped | 4-5 tbsp | |
+| Lemon juice | 3-4 tbsp | Fresh squeezed |
 
-**Tadka:**
-- A knob of butter or ghee (or just 1 tsp oil for lighter version)
-- 1 small red onion, finely sliced
-- 4-5 garlic cloves, sliced
-- 1 tsp cumin seeds
-- Pinch of hing (asafoetida, optional)
-- Pinch of Kashmiri red chili powder
+---
 
-**To Serve:**
-- Basmati rice, raita, salad, lime pickle
-- Fresh coriander, squeeze of lime
-
-### Method
+## Method
 
 1. Get all ingredients ready.
-1. After skimming foam (see above), add tomatoes, ginger-garlic paste, turmeric, salt
-1. Simmer covered ~20 minutes until creamy
-1. Mash lightly with a ladle
-1. **Tadka:** Melt butter in small pan, add cumin and hing, then onions and garlic. Fry until golden. Finish with chili powder
-1. Pour hot tadka over dal, cover 1 minute
-1. Squeeze lime, garnish, serve
+1. **Cook the dal**: After soaking and draining, add dal, chopped tomatoes, green chilies, and the 4 cups water with 2 stock blocks dissolved in it to a pressure cooker or large pot.
+1. **Pressure cooker**: Cook for 1-2 whistles on medium heat. **Stovetop**: Bring to a rolling boil, reduce heat and simmer ~20 minutes until soft. Skim off any froth that rises.
+1. Once pressure drops (or lentils are tender), open and mash to your liking — smooth or keep some texture. Add a splash of hot water if too thick.
+1. **Tadka**: Heat ghee in a small pan over medium heat. Add mustard seeds, cumin seeds, dried red chilies, and chopped garlic. Sauté until garlic turns lightly golden.
+1. Turn off heat. Add hing, chili powder, turmeric, and garam masala. Stir quickly — the residual heat blooms the spices.
+1. Pour the hot tadka over the dal immediately. (Optional: set aside a spoonful of tadka with a red chili for garnish.)
+1. Add salt and crushed kasuri methi. Stir and simmer 2 minutes. Taste and adjust.
+1. Squeeze lemon juice and garnish with fresh coriander. Serve hot with basmati rice, roti, or naan.
 
 ---
 
-## Option 2: Dal Review (Updated)
+## Instant Pot Method
 
-*Modified from [Rainbow Plant Life](https://www.youtube.com/watch?v=BHRyfEbhFFU) - [Full recipe](https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry)*
-
-More spiced, coconut-based. Richness comes from coconut milk, dates, and sun-dried tomato paste.
-
-### Ingredients (per 1 cup red lentils)
-
-**Aromatics:**
-- 1 tbsp coconut oil
-- 4 cloves garlic, minced
-- 2-inch fresh ginger, grated
-- 1-2 serrano peppers, diced (deseed for mild)
-- 10-15 pearl onions, quartered (or 1 small red onion, diced)
-
-**Spices (1 tbsp each):**
-- 1 tbsp ground cumin
-- 1 tbsp ground coriander
-- 1 tbsp red chili powder
-- 1 tbsp curry powder
-- 1 tbsp garam masala
-- Salt and black pepper to taste
-
-**Dal Base:**
-- 1 cup red lentils, rinsed
-- 2 cups vegetable broth
-- ½ can (200g) crushed tomatoes
-- 1 raw tomato, chopped
-- 1 sachet (2 tbsp) tomato paste
-- 1 tbsp sun-dried tomato paste
-- 3-4 dates, pitted and chopped
-
-**Finish:**
-- 1 can (400ml) full-fat coconut milk
-- ¼ large lemon, juiced (or juice of ½ small lemon)
-- **Optional:** Handful of spinach, handful of sliced mushrooms
-- Fresh coriander for garnish
-
-### Method
-
-1. Get all ingredients ready.
-1. After skimming foam from lentils (see above), set aside
-1. Heat coconut oil, sauté garlic, ginger, peppers, and pearl onions for 2-3 minutes
-1. Add all ground spices (1 tbsp each), stir 1 minute to bloom
-1. Add broth, lentils, crushed tomatoes, raw tomato, tomato paste, sun-dried tomato paste, and dates. Simmer covered 20-25 minutes
-1. **Optional:** Add spinach and mushrooms in last 10 minutes of cooking
-1. Stir in coconut milk, simmer uncovered 5-7 minutes
-1. Add lemon juice, adjust seasoning
-1. Garnish with coriander, serve with rice or naan
+1. Press **Sauté** and heat ghee/oil in the inner pot.
+1. Add mustard seeds, cumin, broken red chilies, and garlic. Sauté until garlic is golden.
+1. Add tomatoes, salt, chili powder, hing, garam masala, and turmeric. Sauté 1 minute.
+1. Add soaked & drained dal, green chili, and 3 cups water with 1½ stock blocks dissolved in it. Stir well and deglaze.
+1. Secure lid, set steam release to **Sealing**. Pressure cook on **High** for 7 minutes.
+1. Natural pressure release. Open, add kasuri methi, stir. Taste and adjust salt or garam masala. If too runny, sauté a few minutes. If too thick, add hot water.
+1. Squeeze lemon, garnish with coriander. Serve.
 
 ---
 
-## Option 3: Restaurant-Style Dal Tadka
+## Variations
 
-*From [YouTube](https://www.youtube.com/watch?v=XzVxjs3PTm4)*
+**Extra veg**: Add a handful of spinach, chopped carrots, or fresh methi leaves in the last 5 minutes of simmering.
 
-The restaurant secret is a richer tadka with more aromatics, and optionally smoking the dal (dhungar method).
+**Richer**: Use 4 tbsp ghee in the tadka and finish with a splash of cream or coconut milk.
 
-### Ingredients (serves 4-6)
-
-**Dal:**
-- 1 cup toor dal (or mix of toor and masoor dal)
-- 3 cups water
-- ½ tsp turmeric
-- Salt to taste
-- 1 tomato, chopped
-- 1-inch ginger, chopped
-
-**Tadka:**
-- 2 tbsp ghee
-- 1 tsp cumin seeds
-- Pinch of hing (asafoetida)
-- 2-3 dry red chilies
-- 4-5 garlic cloves, sliced
-- 1 small onion, finely chopped
-- 1 tomato, chopped
-- ½ tsp red chili powder
-- ½ tsp coriander powder
-- Fresh coriander for garnish
-
-**Optional - Dhungar (Smoking):**
-- Small piece of charcoal
-- 1 tbsp ghee
-
-### Method
-
-1. Get all ingredients ready.
-1. After prep (see above), pressure cook dal with turmeric, salt, tomato, ginger and water for 3-4 whistles (or simmer 25-30 mins)
-1. Mash dal to creamy consistency
-1. **Tadka:** Heat ghee, add cumin seeds and let sizzle. Add hing, dry red chilies, garlic - sauté 1 minute. Add onions, cook until golden. Add tomatoes, cook 3-4 minutes. Add chili powder and coriander powder
-1. Pour hot tadka over dal, mix well
-1. **Optional dhungar:** Place small steel bowl in dal pot. Heat charcoal until red-hot, place in bowl. Pour 1 tbsp ghee over charcoal, immediately cover pot. Let smoke infuse 5-10 minutes
-1. Garnish with fresh coriander, serve with rice or roti
+**Smokier**: Use the dhungar method — place a red-hot charcoal piece in a small steel bowl inside the dal pot, pour 1 tsp ghee over it, cover immediately and let smoke infuse for 5 minutes.
 
 ---
 
-## Notes
+## Batch Cooking
 
-- **Option 1** - Simple, minimal spices, flavour comes from the tadka
-- **Option 2** - Vegan, coconut-based, more heavily spiced
-- **Option 3** - Restaurant-style with richer tadka and optional smoking
-- All benefit from the washing/soaking and foam-skimming prep
-- All improve overnight (good meal prep)
+- **Storage**: Keeps 5 days refrigerated, 3 months frozen.
+- **Improves overnight**: Flavours deepen — great for meal prep.
+- **Reheats**: Stovetop or microwave, add a splash of water if thickened.
+
+---
+
+## Nutrition (per serving, 6 servings)
+
+- **Calories**: ~270
+- **Protein**: 13g
+- **Fiber**: 16g
+- **Fat**: 8g
+
+---
+
+*Source: [Indian Healthy Recipes — Masoor Dal](https://www.indianhealthyrecipes.com/masoor-dal-recipe/) by Swasthi Shreekanth*
+
+**Prep**: 5 min (+ 1 hour soaking) | **Cook**: 20 min | **Serves**: 6
