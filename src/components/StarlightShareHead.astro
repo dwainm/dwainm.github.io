@@ -1,5 +1,6 @@
 ---
-// Extends Starlight's default Head — renders all built-in tags + the share button.
+// Extends Starlight's default Head — renders all built-in tags + the share button script.
+// CSS for the share button lives in src/styles/starlight.css (customCss in astro.config.mjs).
 const { head } = Astro.locals.starlightRoute;
 ---
 
@@ -45,39 +46,3 @@ const { head } = Astro.locals.starlightRoute;
     });
   })();
 </script>
-<style>
-  #share-btn {
-    position: fixed;
-    top: 1.25rem;
-    right: 1.25rem;
-    z-index: 100;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.6rem 1rem;
-    background: var(--sl-color-text-accent, #2563eb);
-    color: #fff;
-    border: none;
-    border-radius: 2rem;
-    font-size: 0.85rem;
-    font-family: inherit;
-    cursor: pointer;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
-    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.2s ease;
-    opacity: 0.9;
-    -webkit-tap-highlight-color: transparent;
-    user-select: none;
-    -webkit-user-select: none;
-  }
-  #share-btn:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
-    opacity: 1;
-  }
-  #share-btn:active { transform: scale(0.96); }
-  #share-btn svg { flex-shrink: 0; }
-  @media (max-width: 480px) {
-    #share-btn { padding: 0.6rem; border-radius: 50%; }
-    #share-btn span { display: none; }
-  }
-</style>
