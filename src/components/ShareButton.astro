@@ -15,8 +15,9 @@
 <style>
   #share-btn {
     position: fixed;
-    top: 1.25rem;
-    right: 1.25rem;
+    bottom: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%);
     z-index: 999;
     display: flex;
     align-items: center;
@@ -30,7 +31,7 @@
     font-family: inherit;
     cursor: pointer;
     box-shadow: 0 2px 12px rgba(0,0,0,0.15);
-    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.2s ease;
+    transition: box-shadow 0.15s ease, opacity 0.2s ease;
     opacity: 0.9;
     -webkit-tap-highlight-color: transparent;
     user-select: none;
@@ -38,28 +39,16 @@
   }
 
   #share-btn:hover {
-    transform: translateY(-1px);
     box-shadow: 0 4px 16px rgba(0,0,0,0.2);
     opacity: 1;
   }
 
   #share-btn:active {
-    transform: scale(0.96);
+    opacity: 0.8;
   }
 
   #share-btn svg {
     flex-shrink: 0;
-  }
-
-  /* Icon-only on small screens */
-  @media (max-width: 480px) {
-    #share-btn {
-      padding: 0.6rem;
-      border-radius: 50%;
-    }
-    #share-btn span {
-      display: none;
-    }
   }
 </style>
 
