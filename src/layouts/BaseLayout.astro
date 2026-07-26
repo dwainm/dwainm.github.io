@@ -4,6 +4,8 @@ interface Props {
   description?: string;
 }
 
+import ShareButton from '../components/ShareButton.astro';
+
 const { title = 'Dwain Maralack', description = 'Life, software and business.' } = Astro.props;
 const pageTitle = title === 'Dwain Maralack' ? title : `${title} | Dwain Maralack`;
 ---
@@ -122,6 +124,8 @@ const pageTitle = title === 'Dwain Maralack' ? title : `${title} | Dwain Maralac
         <a href="/atom.xml">RSS</a>
       </p>
     </footer>
+
+    <ShareButton />
 
     <script is:inline>
       const toggle = document.getElementById('theme-toggle');

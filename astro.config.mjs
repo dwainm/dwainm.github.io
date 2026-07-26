@@ -66,6 +66,7 @@ export default defineConfig({
       ],
       components: {
         SiteTitle: './src/components/HealthSiteTitle.astro',
+        Head: './src/components/StarlightShareHead.astro',
       },
       disable404Route: true,
     }),

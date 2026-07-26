@@ -1,0 +1,117 @@
+---
+// ShareButton.astro — injects a floating "Copy Link" button on every page.
+// Designed for iOS Home Screen PWA where the native share sheet isn't available.
+---
+
+<button id="share-btn" title="Copy link to clipboard" aria-label="Copy page link">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+    <polyline points="16 6 12 2 8 6" />
+    <line x1="12" y1="2" x2="12" y2="15" />
+  </svg>
+  <span id="share-btn-text">Copy Link</span>
+</button>
+
+<style>
+  #share-btn {
+    position: fixed;
+    bottom: 1.25rem;
+    right: 1.25rem;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1rem;
+    background: var(--accent, #2563eb);
+    color: #fff;
+    border: none;
+    border-radius: 2rem;
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.2s ease;
+    opacity: 0.9;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  #share-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    opacity: 1;
+  }
+
+  #share-btn:active {
+    transform: scale(0.96);
+  }
+
+  #share-btn svg {
+    flex-shrink: 0;
+  }
+
+  /* On very small screens, icon-only */
+  @media (max-width: 480px) {
+    #share-btn {
+      padding: 0.6rem;
+      border-radius: 50%;
+    }
+    #share-btn span {
+      display: none;
+    }
+  }
+
+  /* Push up when Starlight's "Back to top" button is present */
+  @media (min-width: 768px) {
+    .page:has(button[aria-label="Scroll to top"]) #share-btn,
+    :has(> button[aria-label="Scroll to top"]) #share-btn {
+      bottom: 4rem;
+    }
+  }
+</style>
+
+<script>
+  const btn = document.getElementById('share-btn');
+  const label = document.getElementById('share-btn-text');
+
+  btn.addEventListener('click', async () => {
+    const url = window.location.href;
+
+    try {
+      await navigator.clipboard.writeText(url);
+      if (label) {
+        label.textContent = 'Copied!';
+        setTimeout(() => { label.textContent = 'Copy Link'; }, 1500);
+      }
+      btn.style.background = '#16a34a'; // green flash
+      setTimeout(() => { btn.style.background = ''; }, 1200);
+    } catch {
+      // Fallback for older browsers / non-HTTPS origins
+      const ta = document.createElement('textarea');
+      ta.value = url;
+      ta.style.position = 'fixed';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand('copy');
+        if (label) {
+          label.textContent = 'Copied!';
+          setTimeout(() => { label.textContent = 'Copy Link'; }, 1500);
+        }
+        btn.style.background = '#16a34a';
+        setTimeout(() => { btn.style.background = ''; }, 1200);
+      } catch {
+        if (label) label.textContent = 'Failed';
+        btn.style.background = '#dc2626';
+        setTimeout(() => {
+          if (label) label.textContent = 'Copy Link';
+          btn.style.background = '';
+        }, 1500);
+      } finally {
+        document.body.removeChild(ta);
+      }
+    }
+  });
+</script>
