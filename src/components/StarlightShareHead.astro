@@ -1,7 +1,10 @@
 ---
-// Injects the share button into Starlight pages via a self-contained script.
-// Used as the `head` override in astro.config.mjs.
+// Extends Starlight's default Head — renders all built-in tags + the share button.
+const { head } = Astro.locals.starlightRoute;
 ---
+
+{head.map(({ tag: Tag, attrs, content }) => <Tag {...attrs} set:html={content} />)}
+
 <script>
   (function() {
     if (document.getElementById('share-btn')) return;
@@ -47,7 +50,7 @@
     position: fixed;
     bottom: 1.25rem;
     right: 1.25rem;
-    z-index: 999;
+    z-index: 100;
     display: flex;
     align-items: center;
     gap: 0.5rem;
