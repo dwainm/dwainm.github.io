@@ -15,7 +15,7 @@
 <style>
   #share-btn {
     position: fixed;
-    bottom: 1.25rem;
+    top: 1.25rem;
     right: 1.25rem;
     z-index: 999;
     display: flex;
@@ -51,7 +51,7 @@
     flex-shrink: 0;
   }
 
-  /* On very small screens, icon-only */
+  /* Icon-only on small screens */
   @media (max-width: 480px) {
     #share-btn {
       padding: 0.6rem;
@@ -59,14 +59,6 @@
     }
     #share-btn span {
       display: none;
-    }
-  }
-
-  /* Push up when Starlight's "Back to top" button is present */
-  @media (min-width: 768px) {
-    .page:has(button[aria-label="Scroll to top"]) #share-btn,
-    :has(> button[aria-label="Scroll to top"]) #share-btn {
-      bottom: 4rem;
     }
   }
 </style>
@@ -84,10 +76,9 @@
         label.textContent = 'Copied!';
         setTimeout(() => { label.textContent = 'Copy Link'; }, 1500);
       }
-      btn.style.background = '#16a34a'; // green flash
+      btn.style.background = '#16a34a';
       setTimeout(() => { btn.style.background = ''; }, 1200);
     } catch {
-      // Fallback for older browsers / non-HTTPS origins
       const ta = document.createElement('textarea');
       ta.value = url;
       ta.style.position = 'fixed';
