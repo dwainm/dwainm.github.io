@@ -23,7 +23,7 @@ A simple North Indian red lentil dal that lets the natural sweet flavour of maso
 |------------|--------|-------|
 | Masoor dal (red lentils) | 1½ cups (285g) | |
 | Moong dal (split yellow lentils) | ⅓ cup (70g) | Optional — adds body and thick texture |
-| Tomatoes, deseeded & chopped | 4-5 medium (~1½ cups) | Roma or vine |
+| Tomatoes, deseeded & chopped | 4-5 medium (~1½ cups), or 1 × 400g can peeled tomatoes | Roma or vine |
 | Green chilies, slit | 2-3 | Optional, adjust to heat preference |
 | Water | 4 cups | Use with stock blocks below |
 | Salted stock blocks | 2 blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
