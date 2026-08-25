@@ -31,7 +31,7 @@ A mix of mushrooms, walnuts, and chickpeas make a meaty vehicle for savory seaso
 | Corn tortillas | For serving | Warmed |
 
 ### Optional Toppings
-- Cilantro leaves
+- Dhania leaves
 - Shredded red cabbage
 - Chopped tomatoes
 - Sliced radishes

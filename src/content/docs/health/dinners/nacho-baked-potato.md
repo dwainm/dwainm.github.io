@@ -22,7 +22,7 @@ A great go-to meal for busy parents or people. Super-quick, super-easy, super-fi
 | Salsa | ¼ cup | Your choice |
 | Avocado | ¼ to ½ | Cubed, sliced, or smashed |
 | Salt and pepper | To taste | |
-| Cilantro | For garnish | |
+| Dhania | For garnish | |
 | Lime wedges | For garnish | |
 
 ---

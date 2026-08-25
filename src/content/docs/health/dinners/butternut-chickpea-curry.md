@@ -25,7 +25,7 @@ A creamy, satisfying curry that uses butternut instead of pumpkin for natural sw
 | Cayenne pepper | ¼ tsp | Optional, for heat |
 | Salt | 1 tsp | Adjust to taste |
 | Fresh spinach | 2 cups | Added at end |
-| Cilantro | For garnish | Optional |
+| Dhania | For garnish | Optional |
 | Lime juice | 1 tbsp | Fresh, at end |
 
 ---

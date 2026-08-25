@@ -22,7 +22,7 @@ Classic beans and rice get a kick with ancho chile powder and cumin. A creamy No
 | Cooked black beans | 2 cups | Or 1 can, drained |
 | Corn kernels | 2 cups | About 3 ears |
 | No-Cheese Sauce | 1 recipe | See link below |
-| Cilantro, chopped | For garnish | |
+| Dhania, chopped | For garnish | |
 
 ---
 
