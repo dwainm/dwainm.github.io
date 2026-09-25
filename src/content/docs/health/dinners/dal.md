@@ -25,8 +25,8 @@ A simple North Indian red lentil dal made in the Instant Pot that lets the natur
 | Moong dal (split yellow lentils) | ⅓ cup (70g) | Optional — adds body and thick texture |
 | Tomatoes, deseeded & chopped | 4-5 medium (~1½ cups), or 1 × 400g can peeled tomatoes | Roma or vine |
 | Green chilies, slit | 2-3 | Optional, adjust to heat preference |
-| Water | 3 cups | Use with stock blocks below |
-| Salted stock blocks | 1½ blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
+| Water | 4 cups | Use with stock blocks below |
+| Salted stock blocks | 2 blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
 | **For the Tadka** | | |
 | Ghee | 3-4 tbsp | Or 2 tbsp oil / 4 tbsp butter |
 | Dried red chilies, broken | 3 | |
@@ -50,7 +50,7 @@ A simple North Indian red lentil dal made in the Instant Pot that lets the natur
 1. Get all ingredients ready.
 1. **Sauté the tadka**: Press Sauté on the Instant Pot and heat the ghee (or oil/butter). Add mustard seeds, cumin seeds, dried red chilies, and chopped garlic. Sauté until the garlic turns lightly golden.
 1. **Bloom the spices**: Add the tomatoes, salt, chili powder, hing, garam masala, and turmeric. Sauté 1 minute.
-1. **Add the dal**: Add the soaked and drained dal, green chilies, and 3 cups water with 1½ stock blocks dissolved in it. Stir well and deglaze the pot.
+1. **Add the dal**: Add the soaked and drained dal, green chilies, and 4 cups water with 2 stock blocks dissolved in it. Stir well and deglaze the pot.
 1. **Pressure cook**: Secure the lid and set the steam release to Sealing. Pressure cook on High for 7 minutes.
 1. **Release**: Let the pressure release naturally. Open and stir in the crushed kasuri methi.
 1. **Finish**: Taste and adjust salt or garam masala. If too runny, sauté a few minutes to thicken; if too thick, add a splash of hot water.
