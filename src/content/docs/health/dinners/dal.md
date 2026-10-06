@@ -4,7 +4,7 @@ title: "Instant Pot Dal"
 
 **Plant-based | Instant Pot | One-pot | Make-ahead friendly**
 
-A simple North Indian red lentil dal made in the Instant Pot that lets the natural sweet flavour of masoor dal shine through. Minimal spices, maximum taste — pantry staples and one pot from start to finish.
+A simple North Indian dal of red and yellow lentils made in the Instant Pot, letting the natural sweet flavour of masoor shine through with moong adding body. Minimal spices, maximum taste — pantry staples and one pot from start to finish.
 
 ---
 
@@ -21,27 +21,27 @@ A simple North Indian red lentil dal made in the Instant Pot that lets the natur
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Masoor dal (red lentils) | 1½ cups (285g) | |
-| Moong dal (split yellow lentils) | ⅓ cup (70g) | Optional — adds body and thick texture |
-| Tomatoes, deseeded & chopped | 4-5 medium (~1½ cups), or 1 × 400g can peeled tomatoes | Roma or vine |
-| Green chilies, slit | 2-3 | Optional, adjust to heat preference |
-| Water | 4 cups | Use with stock blocks below |
-| Salted stock blocks | 2 blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
+| Masoor dal (red lentils) | 2 cups (380g) | |
+| Moong dal (split yellow lentils) | 1 cup (200g) | |
+| Tomatoes, deseeded & chopped | 6-7 medium (~2½ cups), or 2 × 400g cans peeled tomatoes | Roma or vine |
+| Green chilies, slit | 3-4 | Optional, adjust to heat preference |
+| Water | 6 cups | Use with stock blocks below |
+| Salted stock blocks | 3 blocks | 1 block per 2 cups water. Dissolve in the cooking water. |
 | **For the Tadka** | | |
-| Ghee | 3-4 tbsp | Or 2 tbsp oil / 4 tbsp butter |
-| Dried red chilies, broken | 3 | |
-| Garlic cloves, chopped | 5-6 | |
-| Mustard seeds | ¾ tsp | Optional |
-| Cumin seeds | 1½ tsp | |
-| Hing (asafoetida) | ¼ tsp | Optional but recommended |
-| Salt | 1½ tsp | Adjust to taste |
-| Kashmiri red chili powder | ¾-1½ tsp | Use ¾ for mild, up to 1½ for heat |
-| Turmeric | ¾ tsp | |
-| Garam masala | ½ tsp | Add more if you want |
-| Kasuri methi (dried fenugreek leaves) | 1½ tsp | Crushed between palms |
+| Ghee | 5 tbsp | Or 3 tbsp oil / 6 tbsp butter |
+| Dried red chilies, broken | 5 | |
+| Garlic cloves, chopped | 8-10 | |
+| Mustard seeds | 1 tsp | Optional |
+| Cumin seeds | 2 tsp | |
+| Hing (asafoetida) | ½ tsp | Optional but recommended |
+| Salt | 2 tsp | Adjust to taste |
+| Kashmiri red chili powder | 1-2 tsp | Use 1 for mild, up to 2 for heat |
+| Turmeric | 1 tsp | |
+| Garam masala | ¾ tsp | Add more if you want |
+| Kasuri methi (dried fenugreek leaves) | 2 tsp | Crushed between palms |
 | **To Serve** | | |
-| Fresh coriander leaves, chopped | 4-5 tbsp | |
-| Lemon juice | 3-4 tbsp | Fresh squeezed |
+| Fresh coriander leaves, chopped | 6-7 tbsp | |
+| Lemon juice | 4-5 tbsp | Fresh squeezed |
 
 ---
 
@@ -50,8 +50,8 @@ A simple North Indian red lentil dal made in the Instant Pot that lets the natur
 1. Get all ingredients ready.
 1. **Sauté the tadka**: Press Sauté on the Instant Pot and heat the ghee (or oil/butter). Add mustard seeds, cumin seeds, dried red chilies, and chopped garlic. Sauté until the garlic turns lightly golden.
 1. **Bloom the spices**: Add the tomatoes, salt, chili powder, hing, garam masala, and turmeric. Sauté 1 minute.
-1. **Add the dal**: Add the soaked and drained dal, green chilies, and 4 cups water with 2 stock blocks dissolved in it. Stir well and deglaze the pot.
-1. **Pressure cook**: Secure the lid and set the steam release to Sealing. Pressure cook on High for 7 minutes.
+1. **Add the dal**: Add the soaked and drained dal, green chilies, and 6 cups water with 3 stock blocks dissolved in it. Stir well and deglaze the pot.
+1. **Pressure cook**: Secure the lid and set the steam release to Sealing. Pressure cook on High for 8 minutes.
 1. **Release**: Let the pressure release naturally. Open and stir in the crushed kasuri methi.
 1. **Finish**: Taste and adjust salt or garam masala. If too runny, sauté a few minutes to thicken; if too thick, add a splash of hot water.
 1. Squeeze lemon juice and garnish with fresh coriander. Serve hot with basmati rice, roti, or naan.
@@ -76,15 +76,15 @@ A simple North Indian red lentil dal made in the Instant Pot that lets the natur
 
 ---
 
-## Nutrition (per serving, 6 servings)
+## Nutrition (per serving, 8 servings)
 
-- **Calories**: ~270
-- **Protein**: 13g
-- **Fiber**: 16g
-- **Fat**: 8g
+- **Calories**: ~325
+- **Protein**: 16g
+- **Fiber**: 20g
+- **Fat**: 9g
 
 ---
 
 *Source: [Indian Healthy Recipes — Masoor Dal](https://www.indianhealthyrecipes.com/masoor-dal-recipe/) by Swasthi Shreekanth*
 
-**Prep**: 5 min (+ 1 hour soaking) | **Cook**: 25 min | **Serves**: 6
+**Prep**: 5 min (+ 1 hour soaking) | **Cook**: 30 min | **Serves**: 8
